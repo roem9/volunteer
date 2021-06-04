@@ -268,8 +268,8 @@ class MY_Model extends CI_Model {
     // mobile view
 
     // custom 
-        public function get_langganan(){
-            $sewa = $this->get_all("sewa", ["hapus" => 0, "status" => "Aktif"], "jualan", "ASC");
+        public function get_langganan($id){
+            $sewa = $this->get_all("sewa", ["hapus" => 0, "status" => "Aktif", "md5(id_pelanggan)" => $id], "jualan", "ASC");
             
             $data = [];
             foreach ($sewa as $i => $sewa) {

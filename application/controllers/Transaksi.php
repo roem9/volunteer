@@ -44,27 +44,27 @@ class Transaksi extends MY_Controller {
         $this->load->view("pages/pengeluaran", $data);
     }
 
-    public function penyewaan(){
-        // navbar and sidebar
-        $data['menu'] = "penyewaan";
-        $data['title'] = "Transaksi Penyewaan";
+    // public function penyewaan(){
+    //     // navbar and sidebar
+    //     $data['menu'] = "penyewaan";
+    //     $data['title'] = "Transaksi Penyewaan";
 
-        // for modal 
-        $data['modal'] = ["modal_transaksi"];
+    //     // for modal 
+    //     $data['modal'] = ["modal_transaksi"];
         
-        // javascript 
-        $data['js'] = [
-            "ajax.js", 
-            "function.js", 
-            "helper.js", 
-            "transaksi_penyewaan_reload.js",
-            "transaksi_penyewaan.js",
-        ];
+    //     // javascript 
+    //     $data['js'] = [
+    //         "ajax.js", 
+    //         "function.js", 
+    //         "helper.js", 
+    //         "transaksi_penyewaan_reload.js",
+    //         "transaksi_penyewaan.js",
+    //     ];
 
-        $data['langganan'] = $this->transaksi->get_langganan();
+    //     $data['langganan'] = $this->transaksi->get_langganan();
 
-        $this->load->view("pages/transaksi-penyewaan", $data);
-    }
+    //     $this->load->view("pages/transaksi-penyewaan", $data);
+    // }
 
     public function belumLunas(){
         // navbar and sidebar
@@ -156,11 +156,11 @@ class Transaksi extends MY_Controller {
         echo json_encode($data);
     }
 
-    public function loadPenyewaan($rowno=0){
-        header('Content-Type: application/json');
-        $output = $this->transaksi->dataTablePenyewaan();
-        echo $output;
-    }
+    // public function loadPenyewaan($rowno=0){
+    //     header('Content-Type: application/json');
+    //     $output = $this->transaksi->dataTablePenyewaan();
+    //     echo $output;
+    // }
 
     public function add_penyewaan(){
         $data = $this->transaksi->add_penyewaan();

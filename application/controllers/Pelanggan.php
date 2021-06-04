@@ -4,6 +4,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Pelanggan extends MY_Controller {
 
+    public function addIdPelangganTransaksi(){
+        $transaksi = $this->pelanggan->get_all("transaksi_sewa");
+        foreach ($transaksi as $transaksi) {
+            $pelanggan = $this->pelanggan->get_one("sewa", ["id_sewa" => $transaksi['id_sewa']]);
+            $this->pelanggan->edit_data("transaksi_sewa", ["id_transaksi" => $transaksi['id_transaksi']], ["id_pelanggan" => $pelanggan['id_pelanggan']]);
+        }
+    }
+
     public function index(){
         // navbar and sidebar
         $data['menu'] = "Pelanggan";
@@ -24,6 +32,28 @@ class Pelanggan extends MY_Controller {
         $this->load->view("pages/pelanggan", $data);
     }
 
+    public function kartuPiutang($id){
+        $pelanggan = $this->pelanggan->get_one("pelanggan", ["md5(id_pelanggan)" => $id]);
+
+        $data['title'] = "Kartu Piutang " . $pelanggan['nama_pelanggan'];
+
+        // for modal 
+        $data['modal'] = ["modal_transaksi"];
+        
+        // javascript 
+        $data['js'] = [
+            "ajax.js", 
+            "function.js", 
+            "helper.js", 
+            "kartu_piutang_reload.js",
+            "transaksi_penyewaan.js",
+        ];
+
+        $data['langganan'] = $this->pelanggan->get_langganan($id);
+
+        $this->load->view("pages/kartu-piutang", $data);
+    }
+
     public function kartu($id){
         $akad['qrcode'] = $id;
         $mpdf = new \Mpdf\Mpdf(['mode' => 'utf-8', 'format' => 'A4-P', 'margin_top' => '0', 'margin_left' => '0', 'margin_right' => '0', 'margin_bottom' => '0']);
@@ -38,9 +68,10 @@ class Pelanggan extends MY_Controller {
         echo $output;
     }
 
-    public function loadMobile($rowno=0){
-        $output = $this->pelanggan->dataMobile($rowno);
-        echo json_encode($output);
+    public function loadKartuPiutang($id){
+        header('Content-Type: application/json');
+        $output = $this->pelanggan->loadKartuPiutang($id);
+        echo $output;
     }
 
     public function add(){

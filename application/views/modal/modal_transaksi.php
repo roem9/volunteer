@@ -165,7 +165,7 @@
                         <select name="pelanggan" class="form-control required">
                             <option value="">Pilih Pelanggan</option>
                             <?php foreach ($langganan as $data) :?>
-                                <option value="<?= $data['id_sewa']?>|<?= $data['tarif']?>"><?= $data['jualan']?> - <?= $data['nama_pelanggan']?></option>
+                                <option value="<?= $data['id_sewa']?>|<?= $data['tarif']?>"><?= $data['jualan']?> - <?= $data['tipe']?></option>
                             <?php endforeach;?>
                         </select>
                         <label>Pelanggan</label>

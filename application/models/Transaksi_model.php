@@ -100,22 +100,22 @@ class Transaksi_model extends MY_Model {
         return $this->edit_data("pengeluaran", ["id_pengeluaran" => $id_pengeluaran], $data);
     }
     
-    public function dataTablePenyewaan(){
-        $this->datatables->select('DATE_FORMAT(tgl_transaksi, "%d %M %Y") as tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
-        $this->datatables->from('transaksi_sewa');
-        $this->datatables->add_column('view', '
-                <span class="dropdown">
-                <button class="btn dropdown-toggle align-text-top" data-bs-boundary="viewport" data-bs-toggle="dropdown">
-                    Actions
-                </button>
-                <div class="dropdown-menu dropdown-menu-end">
-                    <a class="dropdown-item editTransaksiPenyewaan" data-bs-toggle="modal" href="#editTransaksiPenyewaan" data-id="$1">
-                        Detail
-                    </a>
-                </div>
-                </span>','id_transaksi');
-        return $this->datatables->generate();
-    }
+    // public function dataTablePenyewaan(){
+    //     $this->datatables->select('DATE_FORMAT(tgl_transaksi, "%d %M %Y") as tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
+    //     $this->datatables->from('transaksi_sewa');
+    //     $this->datatables->add_column('view', '
+    //             <span class="dropdown">
+    //             <button class="btn dropdown-toggle align-text-top" data-bs-boundary="viewport" data-bs-toggle="dropdown">
+    //                 Actions
+    //             </button>
+    //             <div class="dropdown-menu dropdown-menu-end">
+    //                 <a class="dropdown-item editTransaksiPenyewaan" data-bs-toggle="modal" href="#editTransaksiPenyewaan" data-id="$1">
+    //                     Detail
+    //                 </a>
+    //             </div>
+    //             </span>','id_transaksi');
+    //     return $this->datatables->generate();
+    // }
 
     public function add_penyewaan(){
         $sewa = $this->get_one("sewa", ["id_sewa" => $this->input->post("id_sewa")]);
@@ -130,6 +130,7 @@ class Transaksi_model extends MY_Model {
         }
 
         $data['jualan'] = $sewa['jualan'];
+        $data['id_pelanggan'] = $pelanggan['id_pelanggan'];
         $data['nama_pelanggan'] = $pelanggan['nama_pelanggan'];
         $data['nominal'] = rp_to_int($this->input->post("nominal"));
 

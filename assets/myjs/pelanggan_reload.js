@@ -23,6 +23,14 @@ var datatable = $('#dataTable').DataTable({
             }
         }},
         {"data": "nama_pelanggan"},
+        {"data": "tagihan", render: function(data) {
+            if(data != null){
+                return formatRupiah(data, "Rp")
+
+            } else {
+                return 'Rp. 0'
+            }
+        }},
         {"data": "no_hp"},
         {"data": "langganan", render : function (data) {
             if(jQuery.browser.mobile == true) return data
@@ -30,6 +38,11 @@ var datatable = $('#dataTable').DataTable({
         }},
         {"data": "view"},
     ],
+    "fnRowCallback": function(nRow, aData, iDisplayIndex, iDisplayIndexFull) {
+        if (aData.tagihan != null) {
+            $('td', nRow).addClass('bg-red-lt');
+        }
+    },
     order: [[1, 'asc']],
     rowCallback: function(row, data, iDisplayIndex) {
         var info = this.fnPagingInfo();
@@ -39,7 +52,7 @@ var datatable = $('#dataTable').DataTable({
     },
     "columnDefs": [
     { "searchable": false, "targets": "" },  // Disable search on first and last columns
-    { "targets": [4], "orderable": false},
+    { "targets": [5], "orderable": false},
     ],
     "rowReorder": {
         "selector": 'td:nth-child(0)'

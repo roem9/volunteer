@@ -32,9 +32,9 @@
                         <a class="dropdown-item" href="<?= base_url()?>transaksi/belumlunas" id="transaksiBelumLunas">
                             Belum Lunas
                         </a>
-                        <a class="dropdown-item" href="<?= base_url()?>transaksi/penyewaan" id="transaksiPenyewaan">
+                        <!-- <a class="dropdown-item" href="<?= base_url()?>transaksi/penyewaan" id="transaksiPenyewaan">
                             Penyewaan
-                        </a>
+                        </a> -->
                         <a class="dropdown-item" href="<?= base_url()?>transaksi/pemasukan" id="transaksiPemasukan">
                             Pemasukan
                         </a>
