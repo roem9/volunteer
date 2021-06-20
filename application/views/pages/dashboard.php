@@ -31,7 +31,7 @@
                                     </div>
                                     <div class="col">
                                         <div class="card-body">
-                                            <h3 class="card-title">Saldo Anak2</h3>
+                                            <h3 class="card-title">Saldo</h3>
                                             <h2><?= rupiah($saldo)?></h2>
                                             <div class="d-flex justify-content-start">
                                                 <a href="<?= base_url()?>transaksi/rekap" class="btn btn-info">
