@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Transaksi_model extends MY_Model {
     public function dataTablePemasukan(){
-        $this->datatables->select('DATE_FORMAT(tgl_pemasukan, "%d %M %Y") as tgl_pemasukan, pelaku, keterangan, nominal, id_pemasukan');
+        $this->datatables->select('tgl_pemasukan, pelaku, keterangan, nominal, id_pemasukan');
         $this->datatables->from('pemasukan');
         $this->datatables->add_column('view', '
                 <span class="dropdown">
@@ -13,7 +13,7 @@ class Transaksi_model extends MY_Model {
                     Actions
                 </button>
                 <div class="dropdown-menu dropdown-menu-end">
-                    <a class="dropdown-item editpemasukan" data-bs-toggle="modal" href="#editpemasukan" data-id="$1">
+                    <a class="dropdown-item editPemasukan" data-bs-toggle="modal" href="#editPemasukan" data-id="$1">
                         Detail
                     </a>
                 </div>
@@ -53,7 +53,7 @@ class Transaksi_model extends MY_Model {
     }
 
     public function dataTablePengeluaran(){
-        $this->datatables->select('DATE_FORMAT(tgl_pengeluaran, "%d %M %Y") as tgl_pengeluaran, pelaku, keterangan, nominal, id_pengeluaran');
+        $this->datatables->select('tgl_pengeluaran, pelaku, keterangan, nominal, id_pengeluaran');
         $this->datatables->from('pengeluaran');
         $this->datatables->add_column('view', '
                 <span class="dropdown">
@@ -100,22 +100,22 @@ class Transaksi_model extends MY_Model {
         return $this->edit_data("pengeluaran", ["id_pengeluaran" => $id_pengeluaran], $data);
     }
     
-    // public function dataTablePenyewaan(){
-    //     $this->datatables->select('DATE_FORMAT(tgl_transaksi, "%d %M %Y") as tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
-    //     $this->datatables->from('transaksi_sewa');
-    //     $this->datatables->add_column('view', '
-    //             <span class="dropdown">
-    //             <button class="btn dropdown-toggle align-text-top" data-bs-boundary="viewport" data-bs-toggle="dropdown">
-    //                 Actions
-    //             </button>
-    //             <div class="dropdown-menu dropdown-menu-end">
-    //                 <a class="dropdown-item editTransaksiPenyewaan" data-bs-toggle="modal" href="#editTransaksiPenyewaan" data-id="$1">
-    //                     Detail
-    //                 </a>
-    //             </div>
-    //             </span>','id_transaksi');
-    //     return $this->datatables->generate();
-    // }
+    public function dataTablePenyewaan(){
+        $this->datatables->select('tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
+        $this->datatables->from('transaksi_sewa');
+        $this->datatables->add_column('view', '
+                <span class="dropdown">
+                <button class="btn dropdown-toggle align-text-top" data-bs-boundary="viewport" data-bs-toggle="dropdown">
+                    Actions
+                </button>
+                <div class="dropdown-menu dropdown-menu-end">
+                    <a class="dropdown-item editTransaksiPenyewaan" data-bs-toggle="modal" href="#editTransaksiPenyewaan" data-id="$1">
+                        Detail
+                    </a>
+                </div>
+                </span>','id_transaksi');
+        return $this->datatables->generate();
+    }
 
     public function add_penyewaan(){
         $sewa = $this->get_one("sewa", ["id_sewa" => $this->input->post("id_sewa")]);
@@ -267,7 +267,7 @@ class Transaksi_model extends MY_Model {
     }
 
     public function dataTableTransaksiBelumLunas(){
-        $this->datatables->select('DATE_FORMAT(tgl_transaksi, "%d %M %Y") as tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
+        $this->datatables->select('tgl_transaksi, nama_pelanggan, keterangan, nominal, id_transaksi, jualan, status');
         $this->datatables->from('transaksi_sewa');
         $this->datatables->where(["status" => "Belum Lunas"]);
         $this->datatables->add_column('view', '
