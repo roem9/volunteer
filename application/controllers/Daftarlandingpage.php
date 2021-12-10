@@ -43,8 +43,8 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email;
         $subject = 'Link Landing Page';
         $message = "
-            <h1>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page Klaster Nayanika</h1>
-            <p>Berikut link Landing Page atau Website Anda : </p>
+            <h3>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page Klaster Nayanika</h3>
+            <p><b>Berikut link Landing Page atau Website Anda : </b></p>
             <p>https://klasternayanika.com/{$id}</p>
             <p>Dan berikut data diri Anda : </p>
             
