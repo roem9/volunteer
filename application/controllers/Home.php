@@ -23,6 +23,12 @@ class Home extends MY_Controller {
         }
     }
 
+    public function index(){
+        $data['link_wa'] = "https://wa.me/6281311499892?text=Halo%20Mba%20Tiara%2C%20mau%20tau%20info%20Kavling%20Siap%20Bangun%20Klaster%20Nayanika%20di%20Setu%20Bekasi%20dong%20Mba%3F";
+        
+        $this->load->view("klasternayanika/index", $data);
+    }
+
 }
 
 /* End of file Transaksi.php */
