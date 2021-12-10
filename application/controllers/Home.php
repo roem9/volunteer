@@ -19,7 +19,7 @@ class Home extends MY_Controller {
         if($data['marketing']){
             $this->load->view("klasternayanika/index", $data);
         } else {
-            redirect(base_url());
+            redirect(base_url()."0910");
         }
     }
 
