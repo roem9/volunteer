@@ -1,8 +1,5 @@
 <?php $this->load->view("_partials/header")?>
     <div class="wrapper">
-        <div class="sticky-top">
-            <?php $this->load->view("_partials/navbar")?>
-        </div>
         <div class="page-wrapper">
         <div class="container-xl">
                 <!-- Page title -->
@@ -23,45 +20,44 @@
                         <div class="card-body">
                             <?php if($this->session->userdata("pesan")) :?>
                                 <?= $this->session->userdata("pesan");?>
+                            <?php else :?>
+                                <form action="<?= base_url()?>daftarlandingpage/add_registrasi_marketing" method="POST" id="formLadingPage">
+                                    <div class="form-floating mb-3">
+                                        <select name="panggilan" class="form-control form-control-sm" required>
+                                            <option value="">Pilihan Panggilan</option>
+                                            <option value="Mas">Mas</option>
+                                            <option value="Mba">Mba</option>
+                                            <option value="Bapak">Bapak</option>
+                                            <option value="Ibu">Ibu</option>
+                                        </select>
+                                        <label for="">Panggilan</label>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input type="text" name="nama" class="form form-control form-control-sm" required>
+                                        <label class="col-form-label">Nama Lengkap</label>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input type="text" name="nama_panggilan" class="form form-control form-control-sm" required>
+                                        <label class="col-form-label">Nama Panggilan</label>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input type="text" name="no_wa" class="form form-control form-control-sm number" required>
+                                        <label class="col-form-label">No. WhatsApp</label>
+                                        <small class="text-danger">*Isi nomor whatsapp dengan menggunakan kode negara. Misal 081234567890 menjadi 6281234567890</small>
+                                    </div>
+                                    <div class="form-floating mb-3">
+                                        <input type="text" name="email" class="form form-control form-control-sm" required>
+                                        <label class="col-form-label">Email</label>
+                                        <small class="text-danger">*Isi menggunakan email yang valid, karena link akan dikirim ke email</small>
+                                    </div>
+                                    <div class="d-flex justify-content-end">
+                                        <button type="button" class="btn btn-md btn-primary" id="btnSimpan">Simpan</button>
+                                    </div>
+                                </form>
                             <?php endif;?>
-
-                            <form action="<?= base_url()?>sales/add_registrasi_marketing" method="POST" id="formLadingPage">
-                                <div class="form-floating mb-3">
-                                    <select name="panggilan" class="form-control form-control-sm" required>
-                                        <option value="">Pilihan Panggilan</option>
-                                        <option value="Mas">Mas</option>
-                                        <option value="Mba">Mba</option>
-                                        <option value="Bapak">Bapak</option>
-                                        <option value="Ibu">Ibu</option>
-                                    </select>
-                                    <label for="">Panggilan</label>
-                                </div>
-                                <div class="form-floating mb-3">
-                                    <input type="text" name="nama" class="form form-control form-control-sm" required>
-                                    <label class="col-form-label">Nama Lengkap</label>
-                                </div>
-                                <div class="form-floating mb-3">
-                                    <input type="text" name="nama_panggilan" class="form form-control form-control-sm" required>
-                                    <label class="col-form-label">Nama Panggilan</label>
-                                </div>
-                                <div class="form-floating mb-3">
-                                    <input type="text" name="no_wa" class="form form-control form-control-sm number" required>
-                                    <label class="col-form-label">No. WhatsApp</label>
-                                    <small class="text-danger">*Isi nomor whatsapp dengan menggunakan kode negara. Misal 081234567890 menjadi 6281234567890</small>
-                                </div>
-                                <div class="form-floating mb-3">
-                                    <input type="text" name="email" class="form form-control form-control-sm" required>
-                                    <label class="col-form-label">Email</label>
-                                    <small class="text-danger">*Isi menggunakan email yang valid, karena link akan dikirim ke email</small>
-                                </div>
-                                <div class="d-flex justify-content-end">
-                                    <button type="button" class="btn btn-md btn-primary" id="btnSimpan">Simpan</button>
-                                </div>
-                            </form>
                         </div>
                     </div>
                 </div>
-
             </div>
             <?php $this->load->view("_partials/footer-bar")?>
         </div>
@@ -103,6 +99,17 @@
                 }
             })
         })
+
+        var clipboard = new ClipboardJS('.copy');
+
+        clipboard.on('success', function(e) {
+            Swal.fire({
+                icon: "success",
+                text: "Berhasil menyalin link",
+                showConfirmButton: false,
+                timer: 1500
+            })
+        });
     </script>
 
     

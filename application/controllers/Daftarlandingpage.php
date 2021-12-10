@@ -2,23 +2,9 @@
 
 defined('BASEPATH') OR exit('No direct script access allowed');
 
-class Sales extends MY_Controller {
+class DaftarLandingPage extends MY_Controller {
     
     public function index(){
-        // redirect(base_url()."0910");
-        // $replace_wa = array(
-        //     ' ' => '%20',
-        //     '"' => '%22'
-        // );
-
-        // $nama_panggilan = str_replace(array_keys($replace_wa), $replace_wa, "Tiara");
-
-        // $data['link_wa'] = "https://wa.me/6281311499892?text=Halo%20Mba%20{$nama_panggilan}%2C%20mau%20tau%20info%20Kavling%20Siap%20Bangun%20Klaster%20Nayanika%20di%20Setu%20Bekasi%20dong%20Mba%3F";
-
-        // $this->load->view("klasternayanika/index_sales", $data);
-    }
-
-    public function registrasi_marketing(){
         $data['js'] = [
             "ajax.js",
             "function.js",
@@ -46,7 +32,7 @@ class Sales extends MY_Controller {
             "email" => $email,
         ];
 
-        $this->sales->add_data("marketing", $data);
+        $this->daftarlandingpage->add_data("marketing", $data);
 
         $this->load->config('email');
         $this->load->library('email');
@@ -137,9 +123,6 @@ class Sales extends MY_Controller {
             </div>
         ");
         
-        redirect(base_url('sales/registrasi_marketing'));
+        redirect(base_url('daftarlandingpage'));
     }
-
 }
-
-/* End of file Transaksi.php */
