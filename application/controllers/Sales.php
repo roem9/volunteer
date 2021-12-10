@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Sales extends MY_Controller {
     
     public function index(){
-        redirect(base_url()."0910");
+        // redirect(base_url()."0910");
         // $replace_wa = array(
         //     ' ' => '%20',
         //     '"' => '%22'
