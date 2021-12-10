@@ -6,9 +6,9 @@
                 <div class="page-header d-print-none">
                     <div class="row align-items-center">
                         <div class="col">
-                        <h2 class="page-title text-nowrap">
-                            <?= $title?>
-                        </h2>
+                            <h2 class="page-title">
+                                <?= $data_title?>
+                            </h2>
                         </div>
                     </div>
                 </div>
@@ -22,33 +22,32 @@
                                 <?= $this->session->userdata("pesan");?>
                             <?php else :?>
                                 <form action="<?= base_url()?>daftarlandingpage/add_registrasi_marketing" method="POST" id="formLadingPage">
-                                    <div class="form-floating mb-3">
-                                        <select name="panggilan" class="form-control form-control-sm" required>
+                                    <div class="mb-3">
+                                        <label for="">Panggilan</label>
+                                        <select name="panggilan" class="form-control form-control-md" required>
                                             <option value="">Pilihan Panggilan</option>
                                             <option value="Mas">Mas</option>
                                             <option value="Mba">Mba</option>
                                             <option value="Bapak">Bapak</option>
                                             <option value="Ibu">Ibu</option>
                                         </select>
-                                        <label for="">Panggilan</label>
                                     </div>
-                                    <div class="form-floating mb-3">
-                                        <input type="text" name="nama" class="form form-control form-control-sm" required>
+                                    <div class="mb-3">
                                         <label class="col-form-label">Nama Lengkap</label>
+                                        <input type="text" name="nama" class="form form-control form-control-md" required>
                                     </div>
-                                    <div class="form-floating mb-3">
-                                        <input type="text" name="nama_panggilan" class="form form-control form-control-sm" required>
+                                    <div class="mb-3">
                                         <label class="col-form-label">Nama Panggilan</label>
+                                        <input type="text" name="nama_panggilan" class="form form-control form-control-md" required>
                                     </div>
-                                    <div class="form-floating mb-3">
-                                        <input type="text" name="no_wa" class="form form-control form-control-sm number" required>
+                                    <div class="mb-3">
                                         <label class="col-form-label">No. WhatsApp</label>
+                                        <input type="text" name="no_wa" class="form form-control form-control-md number" placeholder="6281234567890" required>
                                         <small class="text-danger">*Isi nomor whatsapp dengan menggunakan kode negara. Misal 081234567890 menjadi 6281234567890</small>
                                     </div>
-                                    <div class="form-floating mb-3">
-                                        <input type="text" name="email" class="form form-control form-control-sm" required>
-                                        <label class="col-form-label">Email</label>
-                                        <small class="text-danger">*Isi menggunakan email yang valid, karena link akan dikirim ke email</small>
+                                    <div class="mb-3">
+                                        <label class="col-form-label">Email Aktif</label>
+                                        <input type="text" name="email" class="form form-control form-control-md" placeholder="aliel@gmail.com" required>
                                     </div>
                                     <div class="d-flex justify-content-end">
                                         <button type="button" class="btn btn-md btn-primary" id="btnSimpan">Simpan</button>
