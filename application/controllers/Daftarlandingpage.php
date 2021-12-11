@@ -22,7 +22,15 @@ class DaftarLandingPage extends MY_Controller {
         $nama = $this->input->post("nama");
         $no_wa = $this->input->post("no_wa");
         $email = $this->input->post("email");
-        $id = rand();
+        
+        $cek = "";
+        while ($cek != "sukses") {
+            $id = rand(1000, 9999);
+            $cek_marketing = $this->daftarlandingpage->get_one("marketing", ["id" => $id]);
+            if(!$cek_marketing){
+                $cek = "sukses";
+            }
+        }
 
         $data = [
             "id" => $id,
