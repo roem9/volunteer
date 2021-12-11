@@ -22,7 +22,6 @@ function required(form){
     $.each($(form+" .required"), function(){
         if($(this).val() == "") {
             eror = 1
-            console.log($(this).attr("name"))
         }
     })
 

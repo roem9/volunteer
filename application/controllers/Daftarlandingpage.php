@@ -22,15 +22,7 @@ class DaftarLandingPage extends MY_Controller {
         $nama = $this->input->post("nama");
         $no_wa = $this->input->post("no_wa");
         $email = $this->input->post("email");
-        
-        $cek = "";
-        while ($cek != "sukses") {
-            $id = rand(1000, 9999);
-            $cek_marketing = $this->daftarlandingpage->get_one("marketing", ["id" => $id]);
-            if(!$cek_marketing){
-                $cek = "sukses";
-            }
-        }
+        $id = $this->input->post("id");
 
         $data = [
             "id" => $id,
@@ -135,5 +127,11 @@ class DaftarLandingPage extends MY_Controller {
         ");
         
         redirect(base_url('daftarlandingpage'));
+    }
+
+    public function get_username(){
+        $id = $this->input->post("id");
+        $data = $this->daftarlandingpage->get_one("marketing", ["id" => $id]);
+        echo json_encode($data);
     }
 }
