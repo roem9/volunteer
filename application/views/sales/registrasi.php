@@ -52,7 +52,7 @@
                                     <div class="mb-3">
                                         <label class="col-form-label">Link Landing Page</label>
                                         <input type="text" name="id" class="form form-control form-control-md required" placeholder="alielfarabie" required>
-                                        <small class="text-danger">*isi link untuk menetukan link landing page Anda. Link hanya berupa angka dan alphabet<br>ex : https://www.klasternayanika.com/alielfarabie</small>
+                                        <small class="text-danger">*isi link untuk menetukan link landing page Anda. Link hanya berupa angka dan alphabet</small>
                                     </div>
                                     <div class="d-flex justify-content-end">
                                         <button type="button" class="btn btn-md btn-info" id="btnCek">Cek Link</button>
