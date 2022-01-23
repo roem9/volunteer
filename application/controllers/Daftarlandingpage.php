@@ -175,7 +175,7 @@ class DaftarLandingPage extends MY_Controller {
         ");
         
         if($project == "klaster-nayanika"){
-            redirect(base_url('daftarlandingpage/klaster-nayaniak'));
+            redirect(base_url('daftarlandingpage/klaster-nayanika'));
         } else if($project == "sakinah-mountain-view"){
             redirect(base_url('daftarlandingpage/sakinah-mountain-view'));
         } else if($project == "kavling-rmh"){
