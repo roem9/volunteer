@@ -7,7 +7,7 @@
                     <div class="row align-items-center">
                         <div class="col">
                             <h2 class="page-title">
-                                <?= $data_title?>
+                                <?= $title?>
                             </h2>
                         </div>
                     </div>
@@ -22,6 +22,9 @@
                                 <?= $this->session->userdata("pesan");?>
                             <?php else :?>
                                 <form action="<?= base_url()?>daftarlandingpage/add_registrasi_marketing" method="POST" id="formLadingPage">
+                                    <div class="mb-3">
+                                        <input type="hidden" name="project" class="form form-control form-control-md" value="<?= $project?>">
+                                    </div>
                                     <div class="mb-3">
                                         <label for="">Panggilan</label>
                                         <select name="panggilan" class="form-control form-control-md required" required>
@@ -51,7 +54,7 @@
                                     </div>
                                     <div class="mb-3">
                                         <label class="col-form-label">Link Landing Page</label>
-                                        <input type="text" name="id" class="form form-control form-control-md required" placeholder="alielfarabie" required>
+                                        <input type="text" name="id_name" class="form form-control form-control-md required" placeholder="alielfarabie" required>
                                         <small class="text-danger">*isi link untuk menetukan link landing page Anda. Link hanya berupa angka dan alphabet</small>
                                     </div>
                                     <div class="d-flex justify-content-end">
@@ -79,7 +82,7 @@
     ?>
 
     <script>
-        $("[name='id']").on({
+        $("[name='id_name']").on({
             keydown: function(e) {
                 var regex = new RegExp("^[a-zA-Z0-9\b]+$");
                 var str = String.fromCharCode(!e.charCode ? e.which : e.charCode);
@@ -99,7 +102,7 @@
             }
         });
 
-        $("[name='id'").on("keyup change", function(){
+        $("[name='id_name'").on("keyup change", function(){
             $("#btnSimpan").hide();
             $("#btnCek").show();
             $("#btnCek").prop('disabled', false);
@@ -107,28 +110,29 @@
 
         $("#btnCek").click(function(){
             $("#btnCek").prop('disabled', true);
-            id = $("[name='id']").val();
-            if(id == ""){
+            id_name = $("[name='id_name']").val();
+            project = $("[name='project']").val();
+            if(id_name == ""){
                 Swal.fire({
                     icon: "error",
                     text: "Username tidak dapat digunakan",
                 })
-                $("[name='id']").val("");
+                $("[name='id_name']").val("");
                 $("#btnCek").prop('disabled', true);
 
             } else {
-                let result = ajax(url_base+"daftarlandingpage/get_username", "POST", {id:id});
+                let result = ajax(url_base+"daftarlandingpage/get_username", "POST", {id_name:id_name, project:project});
                 if(result){
                     Swal.fire({
                         icon: "error",
-                        text: "Username "+id+" telah digunakan",
+                        text: "Username "+id_name+" telah digunakan",
                     })
-                    $("[name='id']").val("");
+                    $("[name='id_name']").val("");
                     $("#btnCek").prop('disabled', false);
                 } else {
                     Swal.fire({
                         icon: "success",
-                        text: "Username "+id+" bisa digunakan. Silakan menyimpan data Anda",
+                        text: "Username "+id_name+" bisa digunakan. Silakan menyimpan data Anda",
                     })
                     $("#btnCek").hide();
                     $("#btnSimpan").show();
@@ -164,7 +168,7 @@
                         });
 
                         $("#btnSimpan").html("Menyimpan...");
-                        $("#formLadingPage").submit()
+                        $("#formLadingPage").submit();
                     }
                 })
             }
