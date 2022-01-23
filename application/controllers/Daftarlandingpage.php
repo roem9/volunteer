@@ -74,19 +74,19 @@ class DaftarLandingPage extends MY_Controller {
         $subject = 'Link Landing Page';
 
         if($project == "klaster-nayanika"){
-            $web = "https://pro.amerta.com/klaster-nayanika/{$id_name}";
+            $web = "https://pro.amertaproperty.com/klaster-nayanika/{$id_name}";
             $landingpage = "Klaster Nayanika";
         } else if($project == "sakinah-mountain-view"){
-            $web = "https://pro.amerta.com/sakinah-mountain-view/{$id_name}";
+            $web = "https://pro.amertaproperty.com/sakinah-mountain-view/{$id_name}";
             $landingpage = "Sakinah Mountain View";
         } else if($project == "kavling-rmh"){
-            $web = "https://pro.amerta.com/kavling-rmh/{$id_name}";
+            $web = "https://pro.amertaproperty.com/kavling-rmh/{$id_name}";
             $landingpage = "Raudhoh Madani Hills";
         } else if($project == "beverly-lake"){
-            $web = "https://pro.amerta.com/beverly-lake/{$id_name}";
+            $web = "https://pro.amertaproperty.com/beverly-lake/{$id_name}";
             $landingpage = "Beverly Lake";
         } else if($project == "cahaya-swarga-parung"){
-            $web = "https://pro.amerta.com/cahaya-swarga-parung/{$id_name}";
+            $web = "https://pro.amertaproperty.com/cahaya-swarga-parung/{$id_name}";
             $landingpage = "Cahaya Swarga Parung";
         }
 
