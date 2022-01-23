@@ -23,9 +23,6 @@
                             <?php else :?>
                                 <form action="<?= base_url()?>daftarlandingpage/add_registrasi_marketing" method="POST" id="formLadingPage">
                                     <div class="mb-3">
-                                        <input type="hidden" name="project" class="form form-control form-control-md" value="<?= $project?>">
-                                    </div>
-                                    <div class="mb-3">
                                         <label for="">Panggilan</label>
                                         <select name="panggilan" class="form-control form-control-md required" required>
                                             <option value="">Pilihan Panggilan</option>
