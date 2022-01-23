@@ -4,6 +4,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Home extends MY_Controller {
     
+    public function index(){
+        redirect('https://amertaproperty.com');
+    }
+    
     public function project($project, $id_name){
         $data['marketing'] = $this->home->get_one("marketing", ["id_name" => $id_name, "project" => $project]);
         if($data['marketing']){
