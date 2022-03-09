@@ -141,7 +141,7 @@ class DaftarLandingPage extends MY_Controller {
                 </center>
                 <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
                 <ol>
-                    <li class='mb-3'><b>Arunika Village</b> <br> Perumahan di Parung Panjang Bogor</li>
+                    <li class='mb-3'><b>Arunika Village</b> <br> Perumahan Paling Terjangkau di Setu Bekasi</li>
                 </ol>
                 <center>
                     <div class='mt-4'>

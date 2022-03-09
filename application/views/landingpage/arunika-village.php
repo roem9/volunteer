@@ -2,10 +2,10 @@
 <html lang="en-US">
 <head>
 	<meta charset="UTF-8">
-			<title>Halaman &#8211; Arunika Village</title>
+			<title>Arunika Village - Hunian Impian Cicilan 1,7 Jtn</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1">
 <meta name='robots' content='max-image-preview:large'>
-<title>Halaman &#8211; Arunika Village</title>
+<title>Arunika Village - Hunian Impian Cicilan 1,7 Jtn</title>
 <link rel='dns-prefetch' href='//s.w.org'>
 <link rel="alternate" type="application/rss+xml" title="Arunika Village &raquo; Feed" href="<?= base_url()?>assets/arunikavillage.com/feed/index.htm">
 <link rel="alternate" type="application/rss+xml" title="Arunika Village &raquo; Comments Feed" href="<?= base_url()?>assets/arunikavillage.com/comments/feed/index.htm">

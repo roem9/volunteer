@@ -5,7 +5,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 class Home extends MY_Controller {
     
     public function index(){
-        redirect('https://amertaproperty.com');
+        redirect('https://arunikavillage.com');
     }
     
     public function project($project, $id_name){
@@ -25,11 +25,7 @@ class Home extends MY_Controller {
 
             $this->load->view("landingpage/".$project, $data);
         } else {
-            if($project == "klaster-nayanika" || $project == "kavling-rmh" || $project == "sakinah-mountain-view"){
-                redirect("https://kavling123.com/".$project);
-            } else {
-                redirect("https://rumahku123.com/".$project);
-            }
+            redirect('https://arunikavillage.com');
         }
     }}
 
