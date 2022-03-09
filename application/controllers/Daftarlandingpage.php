@@ -16,6 +16,10 @@ class DaftarLandingPage extends MY_Controller {
         $this->load->view("sales/registrasi", $data);
     }
 
+    public function kalkulator(){
+        $this->load->view("sales/kalkulator");
+    }
+
     // public function index(){
     //     $data['js'] = [
     //         "ajax.js",
@@ -29,7 +33,7 @@ class DaftarLandingPage extends MY_Controller {
     // }
 
     public function add_registrasi_marketing(){
-        $project = ["klaster-nayanika", "kavling-rmh", "sakinah-mountain-view", "beverly-lake", "cahaya-swarga-parung"];
+        $project = ["arunika-village"];
 
         $panggilan = $this->input->post("panggilan");
         $nama_panggilan = $this->input->post("nama_panggilan");
@@ -60,21 +64,13 @@ class DaftarLandingPage extends MY_Controller {
         $to = $email;
         $subject = 'Link Landing Page';
 
-        $web_klaster_nayanika = "https://pro.amertaproperty.com/klaster-nayanika/{$id_name}";
-        $web_sakinah_mountain_view = "https://pro.amertaproperty.com/sakinah-mountain-view/{$id_name}";
-        $web_kavling_rmh = "https://pro.amertaproperty.com/kavling-rmh/{$id_name}";
-        $web_beverly_lake = "https://pro.amertaproperty.com/beverly-lake/{$id_name}";
-        $web_cahaya_swarga_parung = "https://pro.amertaproperty.com/cahaya-swarga-parung/{$id_name}";
+        $web_arunika_village = "https://promo.arunikavillage.com/{$id_name}";
 
         $message = "
             <h3>Alhamdulillah, Selamat Anda Telah Berhasil Membuat Landing Page</h3>
             <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
             <ol>
-                <li><b>Beverly Lake</b> <br> {$web_beverly_lake}<br><br></li>
-                <li><b>Cahaya Swarga Parung</b><br> {$web_cahaya_swarga_parung}<br><br></li>
-                <li><b>Kavling RMH</b><br> {$web_kavling_rmh}<br><br></li>
-                <li><b>Klaster Nayanika</b><br> {$web_klaster_nayanika}<br><br></li>
-                <li><b>Sakinah Mountain View</b><br> {$web_sakinah_mountain_view}<br><br></li>
+                <li><b>Arunika Village</b> <br> {$web_arunika_village}<br><br></li>
             </ol>
             <p>Dan berikut data diri Anda : </p>
             
@@ -145,11 +141,7 @@ class DaftarLandingPage extends MY_Controller {
                 </center>
                 <p><b>Berikut Landing Page Yang Telah Anda Buat : </b></p>
                 <ol>
-                    <li class='mb-3'><b>Beverly Lake</b> <br> Perumahan di Parung Panjang Bogor</li>
-                    <li class='mb-3'><b>Cahaya Swarga Parung</b><br> Perumahan di Parung Bogor</li>
-                    <li class='mb-3'><b>Kavling RMH</b><br> Kavling Investasi di Tanjungsari Bogor</li>
-                    <li class='mb-3'><b>Klaster Nayanika</b><br> Kavling Siap Bangun di Setu Bekasi</li>
-                    <li class='mb-3'><b>Sakinah Mountain View</b><br> Kavling Siap Bangun di Ciampea Bogor</li>
+                    <li class='mb-3'><b>Arunika Village</b> <br> Perumahan di Parung Panjang Bogor</li>
                 </ol>
                 <center>
                     <div class='mt-4'>
@@ -163,6 +155,63 @@ class DaftarLandingPage extends MY_Controller {
         ");
         
         redirect(base_url('daftarlandingpage'));
+    }
+
+    public function add_leads(){
+        // var_dump($_POST);
+        $data = [
+            'id_marketing' => $this->input->post("id"),
+            'nama' => $this->input->post("nama"),
+            'no_wa' => $this->input->post("no_wa"),
+            'email' => $this->input->post("email"),
+            'project' => $this->input->post("project"),
+        ];
+        
+        $id_name = $this->input->post("id_name");
+        $email_marketing = $this->input->post("email_marketing");
+        $query = $this->daftarlandingpage->add_data("leads", $data);
+
+        $this->load->config('email');
+        $this->load->library('email');
+        
+        $from = $this->config->item('smtp_user');
+
+        $to = $email_marketing;
+        $subject = 'Leads ';
+
+        $project = $this->input->post("project");
+
+        if($project == "klaster-nayanika"){
+            $nama_project = "Klaster Nayanika";
+        } else if($project == "sakinah-mountain-view"){
+            $nama_project = "Sakinah Mountain View";
+        } else if($project == "raudhoh-madani-hills"){
+            $nama_project = "Kavling RMH";
+        } else if($project == "beverly-lake"){
+            $nama_project = "Beverly Lake";
+        } else if($project == "cahaya-swarga-parung"){
+            $nama_project = "Cahaya Swarga Parung";
+        } else if($project == "arunika-village"){
+            $nama_project = "Arunika Village";
+        }
+
+        // $message = "
+        //     <p>Berikut ini leads dari project {$nama_project}</p>
+        //     <p>Nama : {$this->input->post('nama')}</p>
+        //     <p>No. WA : {$this->input->post('no_wa')}</p>
+        //     <p>Email : {$this->input->post('email')}</p>
+        // ";
+
+        $message = "cek";
+
+        $this->email->set_newline("\r\n");
+        $this->email->from($from);
+        $this->email->to($to);
+        $this->email->subject($subject);
+        $this->email->message($message);
+        $this->email->send();
+
+        // redirect(base_url($_POST['project'].'/'.$_POST['id_name']));
     }
 
     public function get_username(){

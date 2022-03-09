@@ -1,46 +1,20 @@
 ﻿<!DOCTYPE html>
-<html lang="en-US" prefix="og: https://ogp.me/ns#">
+<html lang="en">
 <head>
 	<meta charset="UTF-8">
-		
-<!-- Search Engine Optimization by Rank Math PRO - https://s.rankmath.com/home -->
-<title>Klaster Nayanika - Kavling Siap Bangun Di Bekasi</title>
-<meta name="description" content="Klaster nayanika">
-<meta name="robots" content="index, follow, max-snippet:-1, max-video-preview:-1, max-image-preview:large">
-<link rel="canonical" href="index.htm">
-<meta property="og:locale" content="en_US">
-<meta property="og:type" content="article">
-<meta property="og:title" content="Klaster Nayanika - Kavling123.com">
-<meta property="og:description" content="Klaster nayanika">
-<meta property="og:url" content="https://kavling123.com/nyk-mf/">
-<meta property="og:site_name" content="Kavling123.com">
-<meta property="og:updated_time" content="2022-01-22T05:16:41+00:00">
-<meta property="og:image" content="https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika.png">
-<meta property="og:image:secure_url" content="https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika.png">
-<meta property="og:image:width" content="1080">
-<meta property="og:image:height" content="1080">
-<meta property="og:image:alt" content="Klaster Nayanika">
-<meta property="og:image:type" content="image/png">
-<meta property="article:published_time" content="2022-01-21T02:37:43+00:00">
-<meta property="article:modified_time" content="2022-01-22T05:16:41+00:00">
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="Klaster Nayanika - Kavling123.com">
-<meta name="twitter:description" content="Klaster nayanika">
-<meta name="twitter:image" content="https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika.png">
-<meta name="twitter:label1" content="Time to read">
-<meta name="twitter:data1" content="5 minutes">
-<script type="application/ld+json" class="rank-math-schema-pro">{"@context":"https://schema.org","@graph":[{"@type":["RealEstateAgent","Organization"],"@id":"https://kavling123.com/#organization","name":"Kavling123.com","url":"https://kavling123.com","logo":{"@type":"ImageObject","@id":"https://kavling123.com/#logo","url":"https://kavling123.com/wp-content/uploads/2022/01/1.png","caption":"Kavling123.com","inLanguage":"en-US","width":"500","height":"500"},"openingHours":["Monday,Tuesday,Wednesday,Thursday,Friday,Saturday,Sunday 09:00-17:00"],"image":{"@id":"https://kavling123.com/#logo"}},{"@type":"WebSite","@id":"https://kavling123.com/#website","url":"https://kavling123.com","name":"Kavling123.com","publisher":{"@id":"https://kavling123.com/#organization"},"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png","url":"https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png","width":"200","height":"200","inLanguage":"en-US"},{"@type":"Person","@id":"https://kavling123.com/author/admin/","name":"admin","url":"https://kavling123.com/author/admin/","image":{"@type":"ImageObject","@id":"https://secure.gravatar.com/avatar/36e5d46444ed1c5f136f7dbddb277317?s=96&amp;d=mm&amp;r=g","url":"https://secure.gravatar.com/avatar/36e5d46444ed1c5f136f7dbddb277317?s=96&amp;d=mm&amp;r=g","caption":"admin","inLanguage":"en-US"},"sameAs":["https://kavling123.com"],"worksFor":{"@id":"https://kavling123.com/#organization"}},{"@type":"WebPage","@id":"https://kavling123.com/nyk-mf/#webpage","url":"https://kavling123.com/nyk-mf/","name":"Klaster Nayanika - Kavling123.com","datePublished":"2022-01-21T02:37:43+00:00","dateModified":"2022-01-22T05:16:41+00:00","author":{"@id":"https://kavling123.com/author/admin/"},"isPartOf":{"@id":"https://kavling123.com/#website"},"primaryImageOfPage":{"@id":"https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png"},"inLanguage":"en-US"},{"@type":"Article","headline":"Klaster Nayanika - Kavling123.com","datePublished":"2022-01-21T02:37:43+00:00","dateModified":"2022-01-22T05:16:41+00:00","author":{"@id":"https://kavling123.com/author/admin/"},"publisher":{"@id":"https://kavling123.com/#organization"},"description":"Klaster nayanika","name":"Klaster Nayanika - Kavling123.com","@id":"https://kavling123.com/nyk-mf/#richSnippet","isPartOf":{"@id":"https://kavling123.com/nyk-mf/#webpage"},"image":{"@id":"https://kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png"},"inLanguage":"en-US","mainEntityOfPage":{"@id":"https://kavling123.com/nyk-mf/#webpage"}}]}</script>
-<!-- /Rank Math WordPress SEO plugin -->
-
-<link rel='dns-prefetch' href='//www.googletagmanager.com'>
+			<title>Ali &#8211; Klaster Nayanika</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name='robots' content='max-image-preview:large'>
+<title>Ali &#8211; Klaster Nayanika</title>
 <link rel='dns-prefetch' href='//s.w.org'>
-<link rel="alternate" type="application/rss+xml" title="Kavling123.com &raquo; Feed" href="<?= base_url()?>assets/kavling123.com/feed/index-1.htm">
-<link rel="alternate" type="application/rss+xml" title="Kavling123.com &raquo; Comments Feed" href="<?= base_url()?>assets/kavling123.com/comments/feed/index-1.htm">
-		<script>
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/kavling123.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.8.3"}};
-			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script>
-		<style>
+<link rel="alternate" type="application/rss+xml" title="Klaster Nayanika &raquo; Feed" href="../feed/index.htm">
+<link rel="alternate" type="application/rss+xml" title="Klaster Nayanika &raquo; Comments Feed" href="../comments/feed/index.htm">
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.1.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/klasternayanika.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.9.1"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([10084,65039,8205,55357,56613],[10084,65039,8203,55357,56613])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
+</script>
+<style>
 img.wp-smiley,
 img.emoji {
 	display: inline !important;
@@ -48,683 +22,130 @@ img.emoji {
 	box-shadow: none !important;
 	height: 1em !important;
 	width: 1em !important;
-	margin: 0 .07em !important;
+	margin: 0 0.07em !important;
 	vertical-align: -0.1em !important;
 	background: none !important;
 	padding: 0 !important;
 }
 </style>
-	<link rel='stylesheet' id='jkit-elements-main-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/jeg-elementor-kit/assets/css/elements/main-1.css?ver=2.3.0' media='all'>
-<link rel='stylesheet' id='wp-block-library-css' href='<?= base_url()?>assets/kavling123.com/wp-includes/css/dist/block-library/style.min-1.css?ver=5.8.3' media='all'>
-<style id='wp-block-library-theme-inline-css'>
-#start-resizable-editor-section{display:none}.wp-block-audio figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-audio figcaption{color:hsla(0,0%,100%,.65)}.wp-block-code{font-family:Menlo,Consolas,monaco,monospace;color:#1e1e1e;padding:.8em 1em;border:1px solid #ddd;border-radius:4px}.wp-block-embed figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-embed figcaption{color:hsla(0,0%,100%,.65)}.blocks-gallery-caption{color:#555;font-size:13px;text-align:center}.is-dark-theme .blocks-gallery-caption{color:hsla(0,0%,100%,.65)}.wp-block-image figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-image figcaption{color:hsla(0,0%,100%,.65)}.wp-block-pullquote{border-top:4px solid;border-bottom:4px solid;margin-bottom:1.75em;color:currentColor}.wp-block-pullquote__citation,.wp-block-pullquote cite,.wp-block-pullquote footer{color:currentColor;text-transform:uppercase;font-size:.8125em;font-style:normal}.wp-block-quote{border-left:.25em solid;margin:0 0 1.75em;padding-left:1em}.wp-block-quote cite,.wp-block-quote footer{color:currentColor;font-size:.8125em;position:relative;font-style:normal}.wp-block-quote.has-text-align-right{border-left:none;border-right:.25em solid;padding-left:0;padding-right:1em}.wp-block-quote.has-text-align-center{border:none;padding-left:0}.wp-block-quote.is-large,.wp-block-quote.is-style-large{border:none}.wp-block-search .wp-block-search__label{font-weight:700}.wp-block-group.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}.wp-block-separator{border:none;border-bottom:2px solid;margin-left:auto;margin-right:auto;opacity:.4}.wp-block-separator:not(.is-style-wide):not(.is-style-dots){width:100px}.wp-block-separator.has-background:not(.is-style-dots){border-bottom:none;height:1px}.wp-block-separator.has-background:not(.is-style-wide):not(.is-style-dots){height:2px}.wp-block-table thead{border-bottom:3px solid}.wp-block-table tfoot{border-top:3px solid}.wp-block-table td,.wp-block-table th{padding:.5em;border:1px solid;word-break:normal}.wp-block-table figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-table figcaption{color:hsla(0,0%,100%,.65)}.wp-block-video figcaption{color:#555;font-size:13px;text-align:center}.is-dark-theme .wp-block-video figcaption{color:hsla(0,0%,100%,.65)}.wp-block-template-part.has-background{padding:1.25em 2.375em;margin-top:0;margin-bottom:0}#end-resizable-editor-section{display:none}
+	<link rel='stylesheet' id='bdt-uikit-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.2' media='all'>
+<link rel='stylesheet' id='element-pack-site-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/element-pack-site.css?ver=3.7.1' media='all'>
+<style id='wp-block-library-inline-css'>
+:root{--wp-admin-theme-color:#007cba;--wp-admin-theme-color--rgb:0,124,186;--wp-admin-theme-color-darker-10:#006ba1;--wp-admin-theme-color-darker-10--rgb:0,107,161;--wp-admin-theme-color-darker-20:#005a87;--wp-admin-theme-color-darker-20--rgb:0,90,135;--wp-admin-border-width-focus:2px}@media (-webkit-min-device-pixel-ratio:2),(min-resolution:192dpi){:root{--wp-admin-border-width-focus:1.5px}}:root{--wp--preset--font-size--normal:16px;--wp--preset--font-size--huge:42px}:root .has-very-light-gray-background-color{background-color:#eee}:root .has-very-dark-gray-background-color{background-color:#313131}:root .has-very-light-gray-color{color:#eee}:root .has-very-dark-gray-color{color:#313131}:root .has-vivid-green-cyan-to-vivid-cyan-blue-gradient-background{background:linear-gradient(135deg,#00d084,#0693e3)}:root .has-purple-crush-gradient-background{background:linear-gradient(135deg,#34e2e4,#4721fb 50%,#ab1dfe)}:root .has-hazy-dawn-gradient-background{background:linear-gradient(135deg,#faaca8,#dad0ec)}:root .has-subdued-olive-gradient-background{background:linear-gradient(135deg,#fafae1,#67a671)}:root .has-atomic-cream-gradient-background{background:linear-gradient(135deg,#fdd79a,#004a59)}:root .has-nightshade-gradient-background{background:linear-gradient(135deg,#330968,#31cdcf)}:root .has-midnight-gradient-background{background:linear-gradient(135deg,#020381,#2874fc)}.has-regular-font-size{font-size:1em}.has-larger-font-size{font-size:2.625em}.has-normal-font-size{font-size:var(--wp--preset--font-size--normal)}.has-huge-font-size{font-size:var(--wp--preset--font-size--huge)}.has-text-align-center{text-align:center}.has-text-align-left{text-align:left}.has-text-align-right{text-align:right}#end-resizable-editor-section{display:none}.aligncenter{clear:both}.items-justified-left{justify-content:flex-start}.items-justified-center{justify-content:center}.items-justified-right{justify-content:flex-end}.items-justified-space-between{justify-content:space-between}.screen-reader-text{border:0;clip:rect(1px,1px,1px,1px);-webkit-clip-path:inset(50%);clip-path:inset(50%);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px;word-wrap:normal!important}.screen-reader-text:focus{background-color:#ddd;clip:auto!important;-webkit-clip-path:none;clip-path:none;color:#444;display:block;font-size:1em;height:auto;left:5px;line-height:normal;padding:15px 23px 14px;text-decoration:none;top:5px;width:auto;z-index:100000}html :where(img){height:auto;max-width:100%}
 </style>
-<link rel='stylesheet' id='twentynineteen-style-css' href='<?= base_url()?>assets/kavling123.com/wp-content/themes/twentynineteen/style-1.css?ver=2.1' media='all'>
-<link rel='stylesheet' id='twentynineteen-print-style-css' href='<?= base_url()?>assets/kavling123.com/wp-content/themes/twentynineteen/print-1.css?ver=2.1' media='print'>
-<link rel='stylesheet' id='elementor-icons-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min-1.css?ver=5.13.0' media='all'>
-<link rel='stylesheet' id='elementor-frontend-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/css/frontend-lite.min-1.css?ver=3.5.3' media='all'>
-<link rel='stylesheet' id='elementor-post-63-css' href='<?= base_url()?>assets/kavling123.com/wp-content/uploads/elementor/css/post-63-1.css?ver=1641968867' media='all'>
-<link rel='stylesheet' id='elementor-pro-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min-1.css?ver=3.5.2' media='all'>
-<link rel='stylesheet' id='elementor-post-793-css' href='<?= base_url()?>assets/kavling123.com/wp-content/uploads/elementor/css/post-793.css?ver=1642835487' media='all'>
-<link rel='stylesheet' id='font-awesome-5-all-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min-1.css?ver=3.5.3' media='all'>
-<link rel='stylesheet' id='font-awesome-4-shim-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min-1.css?ver=3.5.3' media='all'>
-<link rel='stylesheet' id='google-fonts-1-css' href='<?= base_url()?>assets/kavling123.com/css-1?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Condensed%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CJosefin+Sans%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLora%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CPlayfair+Display%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CDosis%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRajdhani%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CInter%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CAnton%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLato%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CMontserrat%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CManrope%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.8.3' media='all'>
-<link rel='stylesheet' id='elementor-icons-shared-0-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min-1.css?ver=5.15.3' media='all'>
-<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min-1.css?ver=5.15.3' media='all'>
-<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all'>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--color--foreground: #000000;--wp--preset--color--background: #ffffff;--wp--preset--color--primary: #1a4548;--wp--preset--color--secondary: #ffe2c7;--wp--preset--color--tertiary: #F6F6F6;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--gradient--vertical-secondary-to-tertiary: linear-gradient(to bottom,var(--wp--preset--color--secondary) 0%,var(--wp--preset--color--tertiary) 100%);--wp--preset--gradient--vertical-secondary-to-background: linear-gradient(to bottom,var(--wp--preset--color--secondary) 0%,var(--wp--preset--color--background) 100%);--wp--preset--gradient--vertical-tertiary-to-background: linear-gradient(to bottom,var(--wp--preset--color--tertiary) 0%,var(--wp--preset--color--background) 100%);--wp--preset--gradient--diagonal-primary-to-foreground: linear-gradient(to bottom right,var(--wp--preset--color--primary) 0%,var(--wp--preset--color--foreground) 100%);--wp--preset--gradient--diagonal-secondary-to-background: linear-gradient(to bottom right,var(--wp--preset--color--secondary) 50%,var(--wp--preset--color--background) 50%);--wp--preset--gradient--diagonal-background-to-secondary: linear-gradient(to bottom right,var(--wp--preset--color--background) 50%,var(--wp--preset--color--secondary) 50%);--wp--preset--gradient--diagonal-tertiary-to-background: linear-gradient(to bottom right,var(--wp--preset--color--tertiary) 50%,var(--wp--preset--color--background) 50%);--wp--preset--gradient--diagonal-background-to-tertiary: linear-gradient(to bottom right,var(--wp--preset--color--background) 50%,var(--wp--preset--color--tertiary) 50%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--duotone--foreground-and-background: url('#wp-duotone-foreground-and-background');--wp--preset--duotone--foreground-and-secondary: url('#wp-duotone-foreground-and-secondary');--wp--preset--duotone--foreground-and-tertiary: url('#wp-duotone-foreground-and-tertiary');--wp--preset--duotone--primary-and-background: url('#wp-duotone-primary-and-background');--wp--preset--duotone--primary-and-secondary: url('#wp-duotone-primary-and-secondary');--wp--preset--duotone--primary-and-tertiary: url('#wp-duotone-primary-and-tertiary');--wp--preset--font-size--small: 1rem;--wp--preset--font-size--medium: 1.125rem;--wp--preset--font-size--large: 1.75rem;--wp--preset--font-size--x-large: clamp(1.75rem, 3vw, 2.25rem);--wp--preset--font-family--system-font: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;--wp--preset--font-family--source-serif-pro: "Source Serif Pro", serif;--wp--custom--spacing--small: max(1.25rem, 5vw);--wp--custom--spacing--medium: clamp(2rem, 8vw, calc(4 * var(--wp--style--block-gap)));--wp--custom--spacing--large: clamp(4rem, 10vw, 8rem);--wp--custom--spacing--outer: var(--wp--custom--spacing--small, 1.25rem);--wp--custom--typography--font-size--huge: clamp(2.25rem, 4vw, 2.75rem);--wp--custom--typography--font-size--gigantic: clamp(2.75rem, 6vw, 3.25rem);--wp--custom--typography--font-size--colossal: clamp(3.25rem, 8vw, 6.25rem);--wp--custom--typography--line-height--tiny: 1.15;--wp--custom--typography--line-height--small: 1.2;--wp--custom--typography--line-height--medium: 1.4;--wp--custom--typography--line-height--normal: 1.6;}body { margin: 0; }body{background-color: var(--wp--preset--color--background);color: var(--wp--preset--color--foreground);font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);line-height: var(--wp--custom--typography--line-height--normal);--wp--style--block-gap: 1.5rem;}.wp-site-blocks > .alignleft { float: left; margin-right: 2em; }.wp-site-blocks > .alignright { float: right; margin-left: 2em; }.wp-site-blocks > .aligncenter { justify-content: center; margin-left: auto; margin-right: auto; }.wp-site-blocks > * { margin-top: 0; margin-bottom: 0; }.wp-site-blocks > * + * { margin-top: var( --wp--style--block-gap ); }h1{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--colossal);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h2{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--small);}h3{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--huge);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h4{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--preset--font-size--x-large);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}h5{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-weight: 700;line-height: var(--wp--custom--typography--line-height--normal);text-transform: uppercase;}h6{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-weight: 400;line-height: var(--wp--custom--typography--line-height--normal);text-transform: uppercase;}a{color: var(--wp--preset--color--foreground);}.wp-block-button__link{background-color: var(--wp--preset--color--primary);border-radius: 0;color: var(--wp--preset--color--background);font-size: var(--wp--preset--font-size--medium);}.wp-block-post-title{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--tiny);}.wp-block-post-comments{padding-top: var(--wp--custom--spacing--small);}.wp-block-pullquote{border-width: 1px 0;}.wp-block-query-title{font-family: var(--wp--preset--font-family--source-serif-pro);font-size: var(--wp--custom--typography--font-size--gigantic);font-weight: 300;line-height: var(--wp--custom--typography--line-height--small);}.wp-block-quote{border-width: 1px;}.wp-block-site-title{font-family: var(--wp--preset--font-family--system-font);font-size: var(--wp--preset--font-size--medium);font-weight: normal;line-height: var(--wp--custom--typography--line-height--normal);}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-color{color: var(--wp--preset--color--foreground) !important;}.has-background-color{color: var(--wp--preset--color--background) !important;}.has-primary-color{color: var(--wp--preset--color--primary) !important;}.has-secondary-color{color: var(--wp--preset--color--secondary) !important;}.has-tertiary-color{color: var(--wp--preset--color--tertiary) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-background-color{background-color: var(--wp--preset--color--foreground) !important;}.has-background-background-color{background-color: var(--wp--preset--color--background) !important;}.has-primary-background-color{background-color: var(--wp--preset--color--primary) !important;}.has-secondary-background-color{background-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-background-color{background-color: var(--wp--preset--color--tertiary) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-foreground-border-color{border-color: var(--wp--preset--color--foreground) !important;}.has-background-border-color{border-color: var(--wp--preset--color--background) !important;}.has-primary-border-color{border-color: var(--wp--preset--color--primary) !important;}.has-secondary-border-color{border-color: var(--wp--preset--color--secondary) !important;}.has-tertiary-border-color{border-color: var(--wp--preset--color--tertiary) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-vertical-secondary-to-tertiary-gradient-background{background: var(--wp--preset--gradient--vertical-secondary-to-tertiary) !important;}.has-vertical-secondary-to-background-gradient-background{background: var(--wp--preset--gradient--vertical-secondary-to-background) !important;}.has-vertical-tertiary-to-background-gradient-background{background: var(--wp--preset--gradient--vertical-tertiary-to-background) !important;}.has-diagonal-primary-to-foreground-gradient-background{background: var(--wp--preset--gradient--diagonal-primary-to-foreground) !important;}.has-diagonal-secondary-to-background-gradient-background{background: var(--wp--preset--gradient--diagonal-secondary-to-background) !important;}.has-diagonal-background-to-secondary-gradient-background{background: var(--wp--preset--gradient--diagonal-background-to-secondary) !important;}.has-diagonal-tertiary-to-background-gradient-background{background: var(--wp--preset--gradient--diagonal-tertiary-to-background) !important;}.has-diagonal-background-to-tertiary-gradient-background{background: var(--wp--preset--gradient--diagonal-background-to-tertiary) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}.has-system-font-font-family{font-family: var(--wp--preset--font-family--system-font) !important;}.has-source-serif-pro-font-family{font-family: var(--wp--preset--font-family--source-serif-pro) !important;}
+</style>
+<link rel='stylesheet' id='swiper-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.css?ver=5.9.1' media='all'>
+<link rel='stylesheet' id='qi-addons-for-elementor-grid-style-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/grid.min.css?ver=5.9.1' media='all'>
+<link rel='stylesheet' id='qi-addons-for-elementor-helper-parts-style-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/helper-parts.min.css?ver=5.9.1' media='all'>
+<link rel='stylesheet' id='qi-addons-for-elementor-style-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/main.min.css?ver=5.9.1' media='all'>
+<link rel='stylesheet' id='twentytwentytwo-style-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/themes/twentytwentytwo/style.css?ver=1.1' media='all'>
+<style id='twentytwentytwo-style-inline-css'>
 
-<!-- Google Analytics snippet added by Site Kit -->
-<script src='<?= base_url()?>assets/kavling123.com/gtag/js-1?id=UA-215681238-4' id='google_gtagjs-js' async=""></script>
-<script id='google_gtagjs-js-after'>
-window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}
-gtag('set', 'linker', {"domains":["kavling123.com"]} );
-gtag("js", new Date());
-gtag("set", "developer_id.dZTNiMT", true);
-gtag("config", "UA-215681238-4", {"anonymize_ip":true});
-gtag("config", "G-VF5YGHRJGH");
-</script>
+		@font-face{
+			font-family: 'Source Serif Pro';
+			font-weight: 200 900;
+			font-style: normal;
+			font-stretch: normal;
+			font-display: swap;
+			src: url('<?= base_url()?>assets/klasternayanika.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2') format('woff2');
+		}
 
-<!-- End Google Analytics snippet added by Site Kit -->
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min-1.js?ver=3.5.3' id='font-awesome-4-shim-js'></script>
-<link rel="https://api.w.org/" href="<?= base_url()?>assets/kavling123.com/wp-json/index-1.htm"><link rel="alternate" type="application/json" href="<?= base_url()?>assets/kavling123.com/wp-json/wp/v2/pages/793"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="<?= base_url()?>assets/kavling123.com/xmlrpc-1.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?= base_url()?>assets/kavling123.com/wp-includes/wlwmanifest-1.xml"> 
-<meta name="generator" content="WordPress 5.8.3">
-<link rel='shortlink' href='index.htm?p=793'>
-<link rel="alternate" type="application/json+oembed" href="<?= base_url()?>assets/kavling123.com/wp-json/oembed/1.0/embed-14?url=https%3A%2F%2Fkavling123.com%2Fklaster-nayanika%2F">
-<link rel="alternate" type="text/xml+oembed" href="<?= base_url()?>assets/kavling123.com/wp-json/oembed/1.0/embed-15?url=https%3A%2F%2Fkavling123.com%2Fklaster-nayanika%2F&#038;format=xml">
+		@font-face{
+			font-family: 'Source Serif Pro';
+			font-weight: 200 900;
+			font-style: italic;
+			font-stretch: normal;
+			font-display: swap;
+			src: url('<?= base_url()?>assets/klasternayanika.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2') format('woff2');
+		}
+		
+</style>
+<link rel='stylesheet' id='elementor-icons-ekiticons-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.3' media='all'>
+<link rel='stylesheet' id='elementor-icons-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0' media='all'>
+<link rel='stylesheet' id='elementor-frontend-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.5' media='all'>
+<link rel='stylesheet' id='elementor-post-5-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/elementor/css/post-5.css?ver=1645326416' media='all'>
+<link rel='stylesheet' id='elementor-pro-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.4.1' media='all'>
+<link rel='stylesheet' id='elementor-post-582-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/elementor/css/post-582.css?ver=1646191054' media='all'>
+<link rel='stylesheet' id='ekit-widget-styles-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.3' media='all'>
+<link rel='stylesheet' id='ekit-responsive-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.3' media='all'>
+<link rel='stylesheet' id='google-fonts-1-css' href='../css?family=Roboto%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CRoboto+Slab%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic%7CLibre+Franklin%3A100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&#038;display=auto&#038;ver=5.9.1' media='all'>
+<link rel='stylesheet' id='elementor-icons-shared-0-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3' media='all'>
+<link rel='stylesheet' id='elementor-icons-fa-solid-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3' media='all'>
+<link rel='stylesheet' id='elementor-icons-fa-brands-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3' media='all'>
+<link rel='stylesheet' id='elementor-icons-material-design-icons-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/material-design-icons-for-elementor/assets/material-icons/css/material-icons-regular.css?ver=1.4.1' media='all'>
 
-<!-- <meta name="generator" content="Site Kit by Google 1.49.0"><link rel="icon" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/cropped-21-32x32-1.png" sizes="32x32">
-<link rel="icon" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/cropped-21-192x192-1.png" sizes="192x192">
-<link rel="apple-touch-icon" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/cropped-21-180x180-1.png">
-<meta name="msapplication-TileImage" content="https://kavling123.com/wp-content/uploads/2022/01/cropped-21-270x270.png"> -->
+<script src="<?= base_url()?>assets/jquery/jquery-3.5.1.min.js"></script>
+<script src="<?= base_url()?>assets/jquery/sweetalert2@9.js"></script>
 
-<meta name="generator" content="Site Kit by Google 1.49.0"><link rel="icon" href="<?= base_url()?>assets/logo/klaster-nayanika.png" sizes="32x32">
-<link rel="icon" href="<?= base_url()?>assets/logo/klaster-nayanika.png" sizes="192x192">
-<link rel="apple-touch-icon" href="<?= base_url()?>assets/logo/klaster-nayanika.png">
-<meta name="msapplication-TileImage" content="https://kavling123.com/wp-content/uploads/2022/01/cropped-21-270x270.png">
-
-<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css"></style>		<style id="wp-custom-css">
-			
-
-/** Start Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
-
-.envato-block__preview{overflow: visible;}
-
-/* Envato Kit 141 Custom Styles - Applied to the element under Advanced */
-
-.elementor-headline-animation-type-drop-in .elementor-headline-dynamic-wrapper{
-	text-align: center;
-}
-.envato-kit-141-top-0 h1,
-.envato-kit-141-top-0 h2,
-.envato-kit-141-top-0 h3,
-.envato-kit-141-top-0 h4,
-.envato-kit-141-top-0 h5,
-.envato-kit-141-top-0 h6,
-.envato-kit-141-top-0 p {
-	margin-top: 0;
-}
-
-.envato-kit-141-newsletter-inline .elementor-field-textual.elementor-size-md {
-	padding-left: 1.5rem;
-	padding-right: 1.5rem;
-}
-
-.envato-kit-141-bottom-0 p {
-	margin-bottom: 0;
-}
-
-.envato-kit-141-bottom-8 .elementor-price-list .elementor-price-list-item .elementor-price-list-header {
-	margin-bottom: .5rem;
-}
-
-.envato-kit-141.elementor-widget-testimonial-carousel.elementor-pagination-type-bullets .swiper-container {
-	padding-bottom: 52px;
-}
-
-.envato-kit-141-display-inline {
-	display: inline-block;
-}
-
-.envato-kit-141 .elementor-slick-slider ul.slick-dots {
-	bottom: -40px;
-}
-
-/** End Block Kit CSS: 144-3-3a7d335f39a8579c20cdf02f8d462582 **/
-
-
-
-/** Start Block Kit CSS: 71-3-d415519effd9e11f35d2438c58ea7ebf **/
-
-.envato-block__preview{overflow: visible;}
-
-/** End Block Kit CSS: 71-3-d415519effd9e11f35d2438c58ea7ebf **/
-
-
-
-/** Start Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
-
-.envato-kit-138-bracket .elementor-widget-container > *:before{
-	content:"[";
-	color:#ffab00;
-	display:inline-block;
-	margin-right:4px;
-	line-height:1em;
-	position:relative;
-	top:-1px;
-}
-
-.envato-kit-138-bracket .elementor-widget-container > *:after{
-	content:"]";
-	color:#ffab00;
-	display:inline-block;
-	margin-left:4px;
-	line-height:1em;
-	position:relative;
-	top:-1px;
-}
-
-/** End Block Kit CSS: 141-3-1d55f1e76be9fb1a8d9de88accbe962f **/
-
-		</style>
-			<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
-<body class="page-template page-template-elementor_canvas page page-id-793 wp-custom-logo wp-embed-responsive jkit-color-scheme singular image-filters-enabled elementor-default elementor-template-canvas elementor-kit-63 elementor-page elementor-page-793">
-			<div data-elementor-type="wp-page" data-elementor-id="793" class="elementor elementor-793" data-elementor-settings="[]">
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0' id='jquery-core-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2' id='jquery-migrate-js'></script>
+<link rel="https://api.w.org/" href="<?= base_url()?>assets/klasternayanika.com/wp-json/index.htm"><link rel="alternate" type="application/json" href="<?= base_url()?>assets/klasternayanika.com/wp-json/wp/v2/pages/582"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="../xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="<?= base_url()?>assets/klasternayanika.com/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.9.1">
+<link rel="canonical" href="index.htm">
+<link rel='shortlink' href='index.htm?p=582'>
+<link rel="alternate" type="application/json+oembed" href="<?= base_url()?>assets/klasternayanika.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fklasternayanika.com%2Fali%2F">
+<link rel="alternate" type="text/xml+oembed" href="<?= base_url()?>assets/klasternayanika.com/wp-json/oembed/1.0/embed-1?url=https%3A%2F%2Fklasternayanika.com%2Fali%2F&#038;format=xml">
+		<link rel="preload" href="<?= base_url()?>assets/klasternayanika.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2" as="font" type="font/woff2" crossorigin="">
+		<link rel="icon" href="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-150x150.png" sizes="32x32">
+<link rel="icon" href="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-300x300.png" sizes="192x192">
+<link rel="apple-touch-icon" href="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-300x300.png">
+<meta name="msapplication-TileImage" content="https://klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-300x300.png">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover"></head>
+<body class="page-template page-template-elementor_canvas page page-id-582 wp-embed-responsive qodef-qi--no-touch qi-addons-for-elementor-1.5.2 elementor-default elementor-template-canvas elementor-kit-5 elementor-page elementor-page-582">
+	<svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-dark-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.49803921568627"></fefuncr><fefuncg type="table" tablevalues="0 0.49803921568627"></fefuncg><fefuncb type="table" tablevalues="0 0.49803921568627"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-grayscale"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.54901960784314 0.98823529411765"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.71764705882353 0.25490196078431"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-red"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.27843137254902"></fefuncg><fefuncb type="table" tablevalues="0.5921568627451 0.27843137254902"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-midnight"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0"></fefuncr><fefuncg type="table" tablevalues="0 0.64705882352941"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-magenta-yellow"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.78039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.94901960784314"></fefuncg><fefuncb type="table" tablevalues="0.35294117647059 0.47058823529412"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-purple-green"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.65098039215686 0.40392156862745"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0.44705882352941 0.4"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-blue-orange"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.098039215686275 1"></fefuncr><fefuncg type="table" tablevalues="0 0.66274509803922"></fefuncg><fefuncb type="table" tablevalues="0.84705882352941 0.41960784313725"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-foreground-and-background"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 1"></fefuncg><fefuncb type="table" tablevalues="0 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-foreground-and-secondary"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 1"></fefuncr><fefuncg type="table" tablevalues="0 0.88627450980392"></fefuncg><fefuncb type="table" tablevalues="0 0.78039215686275"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-foreground-and-tertiary"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0 0.96470588235294"></fefuncr><fefuncg type="table" tablevalues="0 0.96470588235294"></fefuncg><fefuncb type="table" tablevalues="0 0.96470588235294"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-primary-and-background"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.10196078431373 1"></fefuncr><fefuncg type="table" tablevalues="0.27058823529412 1"></fefuncg><fefuncb type="table" tablevalues="0.28235294117647 1"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-primary-and-secondary"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.10196078431373 1"></fefuncr><fefuncg type="table" tablevalues="0.27058823529412 0.88627450980392"></fefuncg><fefuncb type="table" tablevalues="0.28235294117647 0.78039215686275"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 0 0" width="0" height="0" focusable="false" role="none" style="visibility: hidden; position: absolute; left: -9999px; overflow: hidden;"><defs><filter id="wp-duotone-primary-and-tertiary"><fecolormatrix color-interpolation-filters="sRGB" type="matrix" values=" .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 .299 .587 .114 0 0 "></fecolormatrix><fecomponenttransfer color-interpolation-filters="sRGB"><fefuncr type="table" tablevalues="0.10196078431373 0.96470588235294"></fefuncr><fefuncg type="table" tablevalues="0.27058823529412 0.96470588235294"></fefuncg><fefuncb type="table" tablevalues="0.28235294117647 0.96470588235294"></fefuncb><fefunca type="table" tablevalues="1 1"></fefunca></fecomponenttransfer><fecomposite in2="SourceGraphic" operator="in"></fecomposite></filter></defs></svg>		<div data-elementor-type="wp-page" data-elementor-id="582" class="elementor elementor-582" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-32f916a2 elementor-section-full_width elementor-section-height-min-height elementor-section-items-bottom elementor-section-content-bottom elementor-section-height-default" data-id="32f916a2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5dea5e2d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dea5e2d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
 							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3f02adb9" data-id="3f02adb9" data-element_type="column">
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f7d7397" data-id="6f7d7397" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-21ffe3da elementor-widget elementor-widget-image" data-id="21ffe3da" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-617ce9cd elementor-widget elementor-widget-heading" data-id="617ce9cd" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="300" height="300" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png" class="attachment-medium size-medium" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika-300x300.png 300w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika-1024x1024.png 1024w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika-150x150.png 150w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika-768x768.png 768w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/logo-nayanika.png 1080w" sizes="(max-width: 300px) 100vw, 300px">															</div>
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h6 class="elementor-heading-title elementor-size-default">Klaster Nayanika</h6>		</div>
 				</div>
-				<div class="elementor-element elementor-element-1d329db0 elementor-widget elementor-widget-heading" data-id="1d329db0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-7d078559 elementor-widget elementor-widget-heading" data-id="7d078559" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h3 class="elementor-heading-title elementor-size-default">Miliki Kavling Siap Bangun di Lokasi <br>SEGITIGA EMAS (Cibubur - Bekasi - Cikarang)</h3>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Miliki Kavling Siap Bangun Exclusive dengan Harga di Bawah Pasaran !</h1>		</div>
 				</div>
-				<div class="elementor-element elementor-element-2eb4d7b8 elementor-widget elementor-widget-heading" data-id="2eb4d7b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-78cb86d4 elementor-widget elementor-widget-text-editor" data-id="78cb86d4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Kavling Siap Bangun Exclusive,
-Selangkah dengan Kawasan Kota Mandiri, Kawasan
-Industri dan Wisata Keluarga maupun Gerbang Tol.</p>		</div>
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lokasi Strategis, Selangkah dengan Kawasan Kota Mandiri, Kawasan Industri dan Wisata Keluarga maupun Gerbang Tol &amp; Stasiun KRL</p>						</div>
 				</div>
-				<div class="elementor-element elementor-element-1be01c3d elementor-widget elementor-widget-spacer" data-id="1be01c3d" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-14f94a93 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="14f94a93" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-124c8c1a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="124c8c1a" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-7c2165b6" data-id="7c2165b6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2c0ed7ed" data-id="2c0ed7ed" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-7d2e1fa7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d2e1fa7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-5401763d" data-id="5401763d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7aaeb8fc elementor-widget elementor-widget-heading" data-id="7aaeb8fc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Perumahan di Bekasi yang Menyediakan Kavling Siap Bangun</h3>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6cf5d12c" data-id="6cf5d12c" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5b4601bc elementor-widget elementor-widget-heading" data-id="5b4601bc" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Klaster nayanika</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-30eeb8a3 elementor-widget elementor-widget-heading" data-id="30eeb8a3" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Kavling Siap Bangun, Hanya 10 Unit Saja!</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-dadb777 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="dadb777" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-74d5ba91 elementor-widget elementor-widget-heading" data-id="74d5ba91" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">Kavling Siap Bangun Exclusive yang berada di lokasi SEGITIGA EMAS (Cibubur - Bekasi - Cikarang).
-<br><br>
-Selangkah dengan Kawasan Kota Mandiri dan dekat dengan Rencana Gerbang Tol Setu Burangkeng, Gerbang Tol Jatikarya (Cimanggis - Cibitung) dan Gerbang Tol Cibitung. <br><br>Memiliki akses mudah ke Kawasan
-Industri MM 2100, Jababeka maupun Wisata Keluarga seperti Taman Buah Mekarsari, Hobbit Hill, Water Joy dan lain-lain.
-</p>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6120e717 elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="6120e717" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-658a0830" data-id="658a0830" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-36ac71d8 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="36ac71d8" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="287" height="250" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/2-4.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Lingkungan Sehat</h3><p class="elementor-image-box-description">Berada di lingkungan yang sehat, lokasi sangat asri dengan berbagai pepohonan di sekitar lokasi</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-cb1d2d2 elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="cb1d2d2" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="287" height="250" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/1-5.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Lokasi Strategis</h3><p class="elementor-image-box-description">Berada di lokasi yang sangat strategis, dekat dengan Kawasan Kota Mandiri dan Indsutri</p></div></div>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1f0ae18f elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="1f0ae18f" data-element_type="widget" data-widget_type="image-box.default">
-				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img width="287" height="250" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/3-3.png" class="attachment-full size-full" alt="" loading="lazy"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">Gratis Desain Fasad</h3><p class="elementor-image-box-description">Beli kavling siap bangun, gratis desain fasad untuk rumah 2 lantai ataupun rumah 1 lantai**</p></div></div>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5c5bca23" data-id="5c5bca23" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-					<div class="elementor-background-overlay"></div>
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-3ed9c88c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ed9c88c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-a6d88df" data-id="a6d88df" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1d27d518 elementor-widget elementor-widget-heading" data-id="1d27d518" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Keunggulan <br>Klaster Nayanika</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-61777edd elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="61777edd" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-526637f elementor-section-height-min-height elementor-section-items-stretch elementor-section-boxed elementor-section-height-default" data-id="526637f" data-element_type="section" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:&quot;0&quot;,&quot;end&quot;:&quot;50&quot;}},&quot;background_background&quot;:&quot;classic&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7f58f7f1" data-id="7f58f7f1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-784b40e8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="784b40e8" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-eec8458" data-id="eec8458" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-47dd6af5 elementor-widget elementor-widget-heading" data-id="47dd6af5" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Pilihan yang Tepat untuk Anda &amp; Keluarga Tercinta Saat ini !</h3>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-52480641 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="52480641" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-59148551" data-id="59148551" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-16ab6ae1 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="16ab6ae1" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' preserveAspectRatio='none' overflow='visible' height='100%' viewBox='0 0 20 16' fill='none' stroke='black' stroke-width='2.2' stroke-linecap='square' stroke-miterlimit='10'%3E%3Cg transform='translate(-12.000000, 0)'%3E%3Cpath d='M28,0L10,18'/%3E%3Cpath d='M18,0L0,18'/%3E%3Cpath d='M48,0L30,18'/%3E%3Cpath d='M38,0L20,18'/%3E%3C/g%3E%3C/svg%3E&quot;);">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-6b9f2734 elementor-widget elementor-widget-heading" data-id="6b9f2734" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Prospektif Lokasi Klaster Nayanika</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-54d74521 elementor-widget elementor-widget-text-editor" data-id="54d74521" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>Lokasi : Jl Raya Setu &#8211; Serang, Desa Cibening, Setu, Bekasi</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3955893c" data-id="3955893c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-32a8fbf0 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="32a8fbf0" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-@media (min-width:768px){.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-wrapper,.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-icon,.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-icon{display:-webkit-inline-box;display:-ms-inline-flexbox;display:inline-flex;-webkit-box-flex:0;-ms-flex:0 0 auto;flex:0 0 auto}.elementor-widget-icon-box.elementor-position-right .elementor-icon-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-icon-box.elementor-position-left .elementor-icon-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-icon-box.elementor-position-top .elementor-icon-box-img{margin:auto}.elementor-widget-icon-box.elementor-vertical-align-top .elementor-icon-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-icon-box.elementor-vertical-align-middle .elementor-icon-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-icon-box.elementor-vertical-align-bottom .elementor-icon-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-icon-box .elementor-icon-box-icon{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-icon-box .elementor-icon-box-wrapper{text-align:center}.elementor-widget-icon-box .elementor-icon-box-title a{color:inherit}.elementor-widget-icon-box .elementor-icon-box-content{-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1}.elementor-widget-icon-box .elementor-icon-box-description{margin:0}</style>		<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-signal"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Berdaya saing tinggi					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Setu Bekasi saat ini sudah menjadi
-kawasan pemukiman berdaya saing tinggi					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-52e0fcbe elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="52e0fcbe" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-map-marked-alt"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Lokasi Strategis					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Lokasi berada di daerah Segitiga Emas (Cibubur – Bekasi - Cikarang)					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1eb36c4b" data-id="1eb36c4b" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-549924f1 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="549924f1" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-car"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Dekat Akses Tol					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						dekat Rencana Pintu Tol Setu
-Burangkeng, dekat dengan Tol Cimanggis - Cibitung & Tol Cibitung					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-510d275d elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="510d275d" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-home"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Aksesibilitas Mudah					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Dekat dengan Kawasan Kota Mandiri,
-Kawasan Industri & Wisata Keluarga					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-54bfbe7d elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="54bfbe7d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2c9b6c88 elementor-invisible" data-id="2c9b6c88" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;fadeInLeft&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-14c39c35 elementor-widget elementor-widget-heading" data-id="14c39c35" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Memiliki Akses yang Mudah ke Tempat Kerja & Beraktivitas</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-322e788e elementor-invisible elementor-widget elementor-widget-text-editor" data-id="322e788e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;">Klaster Nayanika didukung Akses Transportasi yang lengkap untuk menunjang aktifitas harian ke tempat kerja dan bisnis di Cibubur, Bekasi ataupun Cikarang.</p><p style="text-align: left;">Tersedia Transportasi Commuter Line (Cibitung, Tambun &amp; Telaga Murni) dan juga dekat dengan Akses Tol (Jatikarya &amp; Cibitung).</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-46cfc8e9" data-id="46cfc8e9" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-5497edd7 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5497edd7" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-19df1e38" data-id="19df1e38" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-266d896e elementor-widget elementor-widget-heading" data-id="266d896e" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-large">Rencana Gerbang<br>
-Tol Setu Burangkeng</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-7bf11946 elementor-widget elementor-widget-text-editor" data-id="7bf11946" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Jalan tol Jakarta &#8211; Cikampek II Selatan dari Sadang hingga Setu diperkirakan rampung pada 2022 dan 2023. www.ekonomi.bisnis.com</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-62099a56" data-id="62099a56" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-20729b31 elementor-widget elementor-widget-image" data-id="20729b31" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="689" height="477" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-setu-burangkeng.webp" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-setu-burangkeng.webp 689w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-setu-burangkeng-300x208.webp 300w" sizes="(max-width: 689px) 100vw, 689px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-75aff59e elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="75aff59e" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5f132f3c" data-id="5f132f3c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-48fe2b1b elementor-widget elementor-widget-image" data-id="48fe2b1b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="689" height="477" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-jatikarya-cimanggis-cibitung.webp" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-jatikarya-cimanggis-cibitung.webp 689w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-jatikarya-cimanggis-cibitung-300x208.webp 300w" sizes="(max-width: 689px) 100vw, 689px">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-17fbc189" data-id="17fbc189" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5e914bf2 elementor-widget elementor-widget-heading" data-id="5e914bf2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-large">Progress Tol Jatikarya <br> (Cimanggis - Cibitung)</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3ec05591 elementor-widget elementor-widget-text-editor" data-id="3ec05591" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Kementerian PUPR menargetkan selesai pembangunan jalan Tol Cimanggis – Cibitung pada Juni 2022. www.ekonomi.bisnis.com</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-18b92b99 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="18b92b99" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-27b54058" data-id="27b54058" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6828a444 elementor-widget elementor-widget-heading" data-id="6828a444" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-large">Tol Cibitung -  Cilincing <br> Sudah Mulai Beroperasi</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-54260aa9 elementor-widget elementor-widget-text-editor" data-id="54260aa9" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;">Progres pengadaan lahan per 12 Agustus 2021 telah mencapai 94,64 persen dan konstruksi sebesar 85,80 persen. www.cnbcindonesia.a</p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ebfcd86" data-id="2ebfcd86" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5ec893fc elementor-widget elementor-widget-image" data-id="5ec893fc" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="689" height="477" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-cibitung.webp" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-cibitung.webp 689w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-dekat-gerbang-tol-cibitung-300x208.webp 300w" sizes="(max-width: 689px) 100vw, 689px">															</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-6e8703df elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e8703df" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d762cb6" data-id="4d762cb6" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5c2c4ce animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="5c2c4ce" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Keunggulan Lokasi Klaster Nayanika</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3728631c elementor-invisible elementor-widget elementor-widget-text-editor" data-id="3728631c" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Milikilah Kavling Siap Bangun untuk Hunian dan Investasi Anda dengan desain rumah sesuka hati Anda dan keluarga Anda. Lokasi yang sangat strategis juga mengangkat nilai harga aset properti Anda. </p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2c61ebd9 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2c61ebd9" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-70f0e9b0" data-id="70f0e9b0" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-32381df7 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="32381df7" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br>Gerbang Exit Tol</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-126ac6e9 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="126ac6e9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><span class="JsGRdQ">± 4,7 km ke Rencana Gerbang Tol Setu</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± 16,6 km ke Gerbang Tol Cibitung</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± 21,4 km ke Tol Cimanggis &#8211; Cibitung</span></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e286030" data-id="e286030" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-40f22cfc animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="40f22cfc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br>Kota Mandiri</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-73d05cf9 elementor-invisible elementor-widget elementor-widget-text-editor" data-id="73d05cf9" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><span class="JsGRdQ">± 12,3 km ke Kawasan Metland Cileungsi</span></p><p style="text-align: left;"><span class="JsGRdQ">± 5,4 km ke Kawasan Harvest City Cileungsi</span></p><p style="text-align: left;"><span class="JsGRdQ">± 11,5 km ke Kawasan Citraland Cileungsi</span></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-f9392" data-id="f9392" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6c92ea93 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="6c92ea93" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br>Kawasan Industri</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-191eeb6f elementor-invisible elementor-widget elementor-widget-text-editor" data-id="191eeb6f" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;">± 11,2 km ke Kawasan Industri MM 2100</p><p style="text-align: left;">+ 16,9 km ke Kawasan Industri Delta Mas</p><p style="text-align: left;">+ 17,4 km ke Hyundai &amp;<br>Jababeka Cikarang</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-4613cdda elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="4613cdda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
-							<div class="elementor-background-overlay"></div>
-							<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4fb14e48" data-id="4fb14e48" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6ab8992e animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="6ab8992e" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br> Kesehatan</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-180fa2ac elementor-invisible elementor-widget elementor-widget-text-editor" data-id="180fa2ac" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><span class="JsGRdQ">± 13,6 km ke RS Hermina Mekarsari</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± 15,6 km ke Rumah Sakit Mary Cileungsi</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± dekat dengan Puskesmas dan Klinik</span></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-78e4653d" data-id="78e4653d" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1c8b9fab animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="1c8b9fab" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br>Wisata Keluarga</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-36d1b75d elementor-invisible elementor-widget elementor-widget-text-editor" data-id="36d1b75d" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><span class="JsGRdQ">± 12,6 km ke Taman Buah Mekarsari&nbsp;</span></p>
-<p class="LC20lb MBeuO DKV0Md" style="text-align: left;">± <span class="JsGRdQ">12 km ke Mall Metropolitan Cileungsi</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± 8,2 km ke Hobbit Hill, Water Joy dan lain-lain</span></p>						</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-38a87703" data-id="38a87703" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6f050077 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="6f050077" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">dekat dengan <br>Perbelanjaan</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-197474cc elementor-invisible elementor-widget elementor-widget-text-editor" data-id="197474cc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;"><span class="JsGRdQ">± dekat dengan pasar tradisional Pasar Setu</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± dekat dengan pasar bersih &amp; supermarket</span></p>
-<p style="text-align: left;"><span class="JsGRdQ">± dekat dengan Indomaret &amp; Alfamart</span></p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-392d8994 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="392d8994" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3ac9b381" data-id="3ac9b381" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6fd08fa9 elementor-widget elementor-widget-heading" data-id="6fd08fa9" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Dokumentasi progress</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-2831798a elementor-absolute elementor-widget elementor-widget-heading" data-id="2831798a" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<span class="elementor-heading-title elementor-size-default">gallery</span>		</div>
-				</div>
-				<div class="elementor-element elementor-element-346fd276 elementor-widget elementor-widget-gallery" data-id="346fd276" data-element_type="widget" data-settings="{&quot;gallery_layout&quot;:&quot;justified&quot;,&quot;ideal_row_height&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:400,&quot;sizes&quot;:[]},&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:30,&quot;sizes&quot;:[]},&quot;lazyload&quot;:&quot;yes&quot;,&quot;ideal_row_height_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;ideal_row_height_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:150,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor-pro - v3.5.2 - 28-11-2021 */
-.elementor-gallery__container{min-height:1px}.elementor-gallery-item{position:relative;overflow:hidden;display:block;text-decoration:none;border:solid var(--image-border-width) var(--image-border-color);border-radius:var(--image-border-radius)}.elementor-gallery-item__content,.elementor-gallery-item__overlay{height:100%;width:100%;position:absolute;top:0;left:0}.elementor-gallery-item__overlay{mix-blend-mode:var(--overlay-mix-blend-mode);-webkit-transition-duration:var(--overlay-transition-duration);-o-transition-duration:var(--overlay-transition-duration);transition-duration:var(--overlay-transition-duration);-webkit-transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;-o-transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color,-webkit-transform}.elementor-gallery-item__image.e-gallery-image{-webkit-transition-duration:var(--image-transition-duration);-o-transition-duration:var(--image-transition-duration);transition-duration:var(--image-transition-duration);-webkit-transition-property:-webkit-filter,-webkit-transform;transition-property:-webkit-filter,-webkit-transform;-o-transition-property:filter,transform;transition-property:filter,transform;transition-property:filter,transform,-webkit-filter,-webkit-transform}.elementor-gallery-item__content{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:var(--content-justify-content,center);-ms-flex-pack:var(--content-justify-content,center);justify-content:var(--content-justify-content,center);-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:var(--content-text-align);padding:var(--content-padding)}.elementor-gallery-item__content>div{-webkit-transition-duration:var(--content-transition-duration);-o-transition-duration:var(--content-transition-duration);transition-duration:var(--content-transition-duration)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(2){-webkit-transition-delay:calc((var(--content-transition-delay) / 3));-o-transition-delay:calc((var(--content-transition-delay) / 3));transition-delay:calc((var(--content-transition-delay) / 3))}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(3){-webkit-transition-delay:calc((var(--content-transition-delay) / 3) * 2);-o-transition-delay:calc((var(--content-transition-delay) / 3) * 2);transition-delay:calc((var(--content-transition-delay) / 3) * 2)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(4){-webkit-transition-delay:calc((var(--content-transition-delay) / 3) * 3);-o-transition-delay:calc((var(--content-transition-delay) / 3) * 3);transition-delay:calc((var(--content-transition-delay) / 3) * 3)}.elementor-gallery-item__description{color:var(--description-text-color,#fff);width:100%}.elementor-gallery-item__title{color:var(--title-text-color,#fff);font-weight:700;width:100%}.elementor-gallery__titles-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:var(--titles-container-justify-content,center);-ms-flex-pack:var(--titles-container-justify-content,center);justify-content:var(--titles-container-justify-content,center);margin-bottom:20px}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:before{background-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:before{background-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:before{border-color:var(--galleries-pointer-bg-color-hover);border-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:after{border-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:before{border-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:var(--galleries-pointer-border-width);border-right-width:0;border-top-width:0}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:after{border-left-width:0;border-bottom-width:0;border-right-width:var(--galleries-pointer-border-width);border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:0;border-right-width:0;border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:after{border-left-width:0;border-bottom-width:var(--galleries-pointer-border-width);border-right-width:var(--galleries-pointer-border-width);border-top-width:0}.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:after,.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:before,.elementor-gallery__titles-container .e--pointer-overline .elementor-item:before,.elementor-gallery__titles-container .e--pointer-underline .elementor-item:after{height:var(--galleries-pointer-border-width)}.elementor-gallery-title{--space-between:10px;cursor:pointer;color:#6d7882;font-weight:500;position:relative;padding:7px 14px;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}.elementor-gallery-title--active{color:#495157}.elementor-gallery-title:not(:last-child){margin-right:var(--space-between)}.elementor-gallery-item__title+.elementor-gallery-item__description{margin-top:var(--description-margin-top)}.e-gallery-item.elementor-gallery-item{-webkit-transition-property:all;-o-transition-property:all;transition-property:all}.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-bottom,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-left,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-right,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-top,.e-gallery-item:hover .elementor-gallery__item-overlay-bg,.e-gallery-item:hover .elementor-gallery__item-overlay-content,.e-gallery-item:hover .elementor-gallery__item-overlay-content__description,.e-gallery-item:hover .elementor-gallery__item-overlay-content__title{opacity:1}a.elementor-item.elementor-gallery-title{color:var(--galleries-title-color-normal)}a.elementor-item.elementor-gallery-title.elementor-item-active,a.elementor-item.elementor-gallery-title.highlighted,a.elementor-item.elementor-gallery-title:focus,a.elementor-item.elementor-gallery-title:hover{color:var(--galleries-title-color-hover)}a.elementor-item.elementor-gallery-title.elementor-item-active{color:var(--gallery-title-color-active)}</style>		<div class="elementor-gallery__container">
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-1.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 1">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-1.webp" data-width="882" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-2.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 2">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-2.webp" data-width="471" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-3.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 3">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-3.webp" data-width="471" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-4.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 4">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-4.webp" data-width="882" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-5.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 5">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-5.webp" data-width="471" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-6.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 6">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-6.webp" data-width="471" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-7.webp" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-346fd276" data-elementor-lightbox-title="Progress Klaster Nayanika Setu Bekasi 7">
-					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="https://kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-7.webp" data-width="471" data-height="471" alt=""></div>
-											<div class="elementor-gallery-item__overlay"></div>
-														</a>
-					</div>
-			</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3387ecfa elementor-section-content-middle elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3387ecfa" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6aa6d23f" data-id="6aa6d23f" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-75180e23 elementor-widget elementor-widget-image" data-id="75180e23" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="459" height="467" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Untitled-design-15-1.webp" class="attachment-large size-large" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Untitled-design-15-1.webp 459w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Untitled-design-15-1-295x300.webp 295w" sizes="(max-width: 459px) 100vw, 459px">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6ae9af0d" data-id="6ae9af0d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7055a7ad elementor-widget elementor-widget-heading" data-id="7055a7ad" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Dapatkan Bonus dan Penawaran Harga Terbaik !</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-318a3a93 elementor-widget elementor-widget-heading" data-id="318a3a93" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Harga Normal Rp 2,5jt / m2</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-5f434fb6 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="5f434fb6" data-element_type="widget" data-widget_type="button.default">
+								<div class="elementor-element elementor-element-fd7b923 elementor-tablet-align-left elementor-widget elementor-widget-button" data-id="fd7b923" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+				<span class="elementor-button-content-wrapper">
+					<span class="elementor-button-icon elementor-align-icon-left">
+						<i aria-hidden="true" class="icon icon-whatsapp-2"></i>			
+					</span>
+					<span class="elementor-button-text">Chat WhatsApp</span>
+				</span>
+			</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-2b4d95fd" data-id="2b4d95fd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fd7b923 elementor-widget elementor-widget-button" data-id="fd7b923" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="#brosur" class="elementor-button-link elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Harga PROMO Rp 1,7jt / m2</span>
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-download"></i>			</span>
+						<span class="elementor-button-text">Download Brosur</span>
 		</span>
 					</a>
 		</div>
@@ -734,312 +155,137 @@ Tol Setu Burangkeng</h3>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-289c2d8c elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="289c2d8c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7a254924" data-id="7a254924" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7f96778a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7f96778a" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-304b59b8" data-id="304b59b8" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7c2b58be elementor-widget elementor-widget-heading" data-id="7c2b58be" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Inilah yang Anda dapatkan ketika membeli Kavling di Klaster Nayanika</h3>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-470d9b5d" data-id="470d9b5d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-11e88905 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="11e88905" data-element_type="widget" data-widget_type="divider.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-divider">
-			<span class="elementor-divider-separator">
-						</span>
-		</div>
-				</div>
-				</div>
-					</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5be5e1f3" data-id="5be5e1f3" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2d0e47e2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2d0e47e2" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-5e7f1891 elementor-sm-50" data-id="5e7f1891" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-398ef634 elementor-view-stacked elementor-shape-square elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="398ef634" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-home"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Zona Kuning					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Tanah kavling bisa dibangun rumah permanen & bisa terbit IMB					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-4d7e88e3 elementor-sm-50" data-id="4d7e88e3" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-55301354 elementor-view-stacked elementor-shape-square elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="55301354" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-book-open"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Sertifikat SHM					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Transaksi di notaris dan TTD AJB, kemudian peningkatan ke SHM					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3679d70c elementor-sm-50" data-id="3679d70c" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-22f0a678 elementor-view-stacked elementor-shape-square elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="22f0a678" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-gifts"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Bonus Langsung					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Beli 1 unit dapat Logam Mulia 5 gr, beli 2 unit dapat Iphone 13					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-641be458 elementor-sm-50" data-id="641be458" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-68a1ec5c elementor-view-stacked elementor-shape-square elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="68a1ec5c" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-icon">
-				<span class="elementor-icon elementor-animation-">
-				<i aria-hidden="true" class="fas fa-laptop-house"></i>				</span>
-			</div>
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Desain Fasad					</span>
-				</h3>
-									<p class="elementor-icon-box-description">
-						Bonus desain fasad model scandinavia yang tersedia (1 &amp; 2 Lantai)					</p>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7ba30d4b elementor-section-height-min-height elementor-section-full_width elementor-section-height-default elementor-section-items-middle" data-id="7ba30d4b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-13974d3f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="13974d3f" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d1a1ff2" data-id="d1a1ff2" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-71d77852" data-id="71d77852" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5ef7d50 elementor-widget elementor-widget-heading" data-id="5ef7d50" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-b622981 elementor-widget elementor-widget-image" data-id="b622981" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">"Promo nego sampai deal. Survey aja dulu.. Pasti mau.."</h3>		</div>
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img width="822" height="551" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26.jpg 822w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26-300x201.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26-768x515.jpg 768w" sizes="(max-width: 822px) 100vw, 822px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-46827604 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-image" data-id="46827604" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/memphis_5.png" title="memphis_5.png" alt="memphis_5.png">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-adac139" data-id="adac139" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4aa208f5 elementor-widget elementor-widget-heading" data-id="4aa208f5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Perumahan Klaster Nayanika Menyediakan</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-2b0d6b6 elementor-widget elementor-widget-heading" data-id="2b0d6b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Kavling Siap Bangun Exclusive, Hanya 10 Unit &amp; Harga dibawah Pasaran</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6500f6df elementor-widget elementor-widget-text-editor" data-id="6500f6df" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Berada di Desa Cibening, Kec. Setu, Kab. Bekasi di daerah strategis yaitu daerah SEGITIGA EMAS (Cibubur &#8211; Bekasi &#8211; Cikarang)</p>
+<p>Selangkah dengan Kawasan Kota Mandiri dan dekat dengan Rencana Gerbang Tol Setu Burangkeng, Gerbang Tol Jatikarya (Cimanggis &#8211; Cibitung) dan Gerbang Tol Cibitung.&nbsp; Juga dekat dengan Stasiun KRL</p>
+<p>Memiliki akses mudah ke Kawasan Industri MM 2100, Jababeka maupun Wisata Keluarga seperti Taman Buah Mekarsari, Hobbit Hill, Water Joy, Saung Apung, Mall Metropolitan, Trans Studio Cibubur dan lain-lain</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-303be513 elementor-section-full_width elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-default elementor-section-height-default" data-id="303be513" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-781b3721 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="781b3721" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5cf9baf1 elementor-invisible" data-id="5cf9baf1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-57493320 elementor-widget elementor-widget-heading" data-id="57493320" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Keunggulan Kavling di
+Klaster Nayanika</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-30a0e029 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="30a0e029" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-70241299" data-id="70241299" data-element_type="column">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-4169aa5f" data-id="4169aa5f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-66b82bd6 elementor-widget elementor-widget-image" data-id="66b82bd6" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-274414cd elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="274414cd" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-															<img width="515" height="306" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-1.webp" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-1.webp 515w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-1-300x178.webp 300w" sizes="(max-width: 515px) 100vw, 515px">															</div>
-				</div>
-				<div class="elementor-element elementor-element-152afb63 elementor-widget elementor-widget-image" data-id="152afb63" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="595" height="503" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-2.webp" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-2.webp 595w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-2-300x254.webp 300w" sizes="(max-width: 595px) 100vw, 595px">															</div>
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-image-box .elementor-image-box-content{width:100%}@media (min-width:768px){.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper,.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-image-box.elementor-position-right .elementor-image-box-wrapper{text-align:right;-webkit-box-orient:horizontal;-webkit-box-direction:reverse;-ms-flex-direction:row-reverse;flex-direction:row-reverse}.elementor-widget-image-box.elementor-position-left .elementor-image-box-wrapper{text-align:left;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-ms-flex-direction:row;flex-direction:row}.elementor-widget-image-box.elementor-position-top .elementor-image-box-img{margin:auto}.elementor-widget-image-box.elementor-vertical-align-top .elementor-image-box-wrapper{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor-widget-image-box.elementor-vertical-align-middle .elementor-image-box-wrapper{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-image-box.elementor-vertical-align-bottom .elementor-image-box-wrapper{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}}@media (max-width:767px){.elementor-widget-image-box .elementor-image-box-img{margin-left:auto!important;margin-right:auto!important;margin-bottom:15px}}.elementor-widget-image-box .elementor-image-box-img{display:inline-block}.elementor-widget-image-box .elementor-image-box-title a{color:inherit}.elementor-widget-image-box .elementor-image-box-wrapper{text-align:center}.elementor-widget-image-box .elementor-image-box-description{margin:0}</style><div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="#"><img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-29.jpg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy"></a></figure><div class="elementor-image-box-content"><h4 class="elementor-image-box-title"><a href="#">Kavling Exclusive</a></h4><p class="elementor-image-box-description">Kavling siap bangun di lengkapi main gate dan pagar keliling serta memiliki row jalan yang lebar di perumahan</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-29b7209e" data-id="29b7209e" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-71a6347f" data-id="71a6347f" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6d7812ac elementor-widget elementor-widget-image" data-id="6d7812ac" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-712c3c5a elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="712c3c5a" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-															<img width="380" height="463" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-3.webp" class="elementor-animation-float attachment-large size-large" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-3.webp 380w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-3-246x300.webp 246w" sizes="(max-width: 380px) 100vw, 380px">															</div>
-				</div>
-				<div class="elementor-element elementor-element-60a4c1fc elementor-widget elementor-widget-image" data-id="60a4c1fc" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="380" height="426" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-4.webp" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-4.webp 380w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Bonus-Desain-Fasad-Klaster-Nayanika-Setu-Bekasi-4-268x300.webp 268w" sizes="(max-width: 380px) 100vw, 380px">															</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="#"><img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-34.jpg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy"></a></figure><div class="elementor-image-box-content"><h4 class="elementor-image-box-title"><a href="#">Lingkungan Sehat</a></h4><p class="elementor-image-box-description">Berada di lingkungan yang sehat, lokasi sangat asri, nyaman dan memberikan ketenangan berkehidupan</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1f7227ba" data-id="1f7227ba" data-element_type="column">
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-5b22b536" data-id="5b22b536" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-39b43582 elementor-widget elementor-widget-heading" data-id="39b43582" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-7ce23ffe elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-image-box" data-id="7ce23ffe" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Beberapa contoh desain fasad</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-99692b9 elementor-widget elementor-widget-heading" data-id="99692b9" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Beli Unit Kavling <br>
-Bonus Desain Fasad*</h3>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><a href="#"><img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-33.jpg" class="elementor-animation-float attachment-full size-full" alt="" loading="lazy"></a></figure><div class="elementor-image-box-content"><h4 class="elementor-image-box-title"><a href="#">Bebas Konsultasi</a></h4><p class="elementor-image-box-description">Bebas konsultasi desain dan RAB jika mau bangun rumah sendiri atau kost. Dan gratis desain fasad</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-22bdd575 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-reverse-tablet elementor-reverse-mobile elementor-section-height-default" data-id="22bdd575" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-2ef90696" data-id="2ef90696" data-element_type="column">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-248b5fe7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="248b5fe7" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-2ab4f32b" data-id="2ab4f32b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-72aa5951 elementor-invisible elementor-widget elementor-widget-image" data-id="72aa5951" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:1.5,&quot;sizes&quot;:[]},&quot;_animation&quot;:&quot;slideInLeft&quot;,&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:0,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-75070e58 elementor-widget elementor-widget-heading" data-id="75070e58" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-															<img width="640" height="905" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Ilustrasi-Kavling-Siap-Bangun-Klaster-Nayanika-Setu-Bekasi.webp" class="attachment-large size-large" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Ilustrasi-Kavling-Siap-Bangun-Klaster-Nayanika-Setu-Bekasi.webp 724w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Ilustrasi-Kavling-Siap-Bangun-Klaster-Nayanika-Setu-Bekasi-212x300.webp 212w" sizes="(max-width: 640px) 100vw, 640px">															</div>
+			<h2 class="elementor-heading-title elementor-size-default">"Pilihan yang Tepat untuk Memiliki Kavling Siap Bangun Exclusive Saat Ini"</h2>		</div>
 				</div>
-					</div>
+				<div class="elementor-element elementor-element-296cd636 elementor-align-center elementor-widget elementor-widget-button" data-id="296cd636" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Hubungi Sekarang</span>
+		</span>
+					</a>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-297759aa" data-id="297759aa" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-17e3de94 animated-slow elementor-invisible elementor-widget elementor-widget-heading" data-id="17e3de94" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Kok Bisa Klaster Nayanika Menghemat Hingga Rp 129 Juta Rupiah ?</h3>		</div>
 				</div>
-				<div class="elementor-element elementor-element-1153b52a elementor-invisible elementor-widget elementor-widget-text-editor" data-id="1153b52a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;,&quot;_animation_delay&quot;:200}" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Mari kita bandingkan antara membeli rumah tipe 36/72 (standar) di daerah Setu dan membeli kavling siap bangun di KLASTER NAYANIKA dengan asumsi tipe yang sama persis dengan rumah jadi tersebut.</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-e9e8f87 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e9e8f87" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6ac06f22 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6ac06f22" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4d2fce0b" data-id="4d2fce0b" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-24f42904" data-id="24f42904" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-5e2d9eed elementor-widget elementor-widget-text-editor" data-id="5e2d9eed" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Jika Anda sekarang mau membeli rumah di daerah Setu dan sekitarnya untuk tipe 36/72 dari developer, harga rata-ratanya adalah sekitar 360 juta rupiah.</p><p>Sekarang kita bandingkan jika Anda membeli tanah kavling siap bangun di Klaster Nayanika terlebih dahulu, kemudian membangun rumah dengan tipe yang sama dengan yang dijual oleh para developer tersebut.</p><p>Harga promo kavling siap bangunnya per m2 adalah 1,7 juta. Dikalikan dengan luas tanah standar 72 m2. Hasilnya adalah 122,4 juta rupiah.</p><p>Kemudian Anda akan membangun kavling tersebut dengan luas bangunan standar 36 m2. Dengan asumsi harga borongan bangunan per m2 yang berlaku saat ini adalah 3 juta per m2.</p><p>Maka total biaya bangunan yang Anda keluarkan adalah 36 m2 x 3 juta per m2. Hasilnya adalah 108 juta rupiah. Sehingga hasil biaya yang Anda keluarkan secara total adalah 122,4 juta + 108 juta. </p><p>Hasilnya adalah 230,4 juta. Jadi, jika Anda memilih untuk membeli kavling siap bangun di klaster nayanika terlebih dahulu kemudian membangun rumah sesuai tipe standar pasaran yang ada, maka Anda bisa menghemat sekitar : </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-d18313c elementor-widget elementor-widget-text-editor" data-id="d18313c" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Maka Anda bisa menghemat sekitar : 360 juta &#8211; 230,4 juta adalah 129,6 juta rupiah. Amat sangat lumayan bukan hematnya ? </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-31292ba6 elementor-widget elementor-widget-text-editor" data-id="31292ba6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Lalu dengan penghematan 129,6 juta itu Anda bisa alokasikan kemana saja?</p><p>Pertama, Anda bisa membeli tanah yang lebih luas. Jadi pengembangan rumah Anda ke depannya bisa lebih leluasa lagi. Dan bisa memiliki rumah yang luas, banyak taman dan ruang terbukanya.</p><p>Atau yang kedua. Anda bisa membangun tipe rumah yang lebih besar. Sesuai dengan kebutuhan keluarga Anda saat ini. Jadi lebih nyaman dan enak rumahnya untuk ditempati. Tidak sempit-sempitan. </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-742363a4 elementor-widget elementor-widget-text-editor" data-id="742363a4" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Jadi, kesimpulannya..</p><p>Dengan membeli kavling siap bangun terlebih dahulu, Anda bisa menghemat ratusan juta rupiah dibandingkan dengan membeli rumah jadi ke developer. </p><p>Atau dengan budget yang sama, Anda bisa memiliki rumah yang besar dan atau taman yang luas jika dibandingkan dengan membeli rumah jadi di developer.</p><p>Lebih menguntungkan kan?</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-a160e04 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a160e04" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4484b2b5" data-id="4484b2b5" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-e6dc0db elementor-widget elementor-widget-heading" data-id="e6dc0db" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Benarkan Klaster Nayanika Sangat menguntungkan Bagi Anda dan Keluarga ?</h3>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7e4ba715 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7e4ba715" data-element_type="section">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-72b4eaaf elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="72b4eaaf" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-ddf7342" data-id="ddf7342" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-49b9bc4a" data-id="49b9bc4a" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-165e64c5 elementor-widget elementor-widget-image" data-id="165e64c5" data-element_type="widget" data-widget_type="image.default">
+								<div class="elementor-element elementor-element-4e6d95f9 elementor-widget elementor-widget-image" data-id="4e6d95f9" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="670" height="670" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Pra-Siteplan-Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi.webp" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Pra-Siteplan-Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi.webp 670w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Pra-Siteplan-Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi-300x300.webp 300w, <?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Pra-Siteplan-Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi-150x150.webp 150w" sizes="(max-width: 670px) 100vw, 670px">															</div>
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-f4242b2" data-id="f4242b2" data-element_type="column">
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7a62e481" data-id="7a62e481" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-41c2251c elementor-section-height-min-height elementor-section-boxed elementor-section-height-default" data-id="41c2251c" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-6f135ba0" data-id="6f135ba0" data-element_type="column" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1&quot;,&quot;sizes&quot;:[]},&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:&quot;0&quot;,&quot;end&quot;:&quot;50&quot;}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;]}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-117cc091 elementor-widget elementor-widget-heading" data-id="117cc091" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-515bde16 elementor-widget elementor-widget-image" data-id="515bde16" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Unit Sangat Terbatas!</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1d45b765 elementor-widget elementor-widget-text-editor" data-id="1d45b765" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Hanya tersedia 10 unit Kavling Siap Bangun di Klaster Nayanika dengan Lokasi Strategis</p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-870b0f2 elementor-mobile-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="870b0f2" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.5.3 - 28-12-2021 */
-.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>		<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Ukuran kavling mulai 70 m2 - 77 m2</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Booking fee Rp 2,5jt per unit</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">ROW Jalan 6 meter</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Jalan Cor & Saluran Terbuka</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Tersedia Pos Satpam</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Pengurukan & Pagar Keliling</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check-circle"></i>						</span>
-										<span class="elementor-icon-list-text">Legalitas SHM</span>
-									</li>
-						</ul>
-				</div>
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
 				</div>
 					</div>
 		</div>
@@ -1047,140 +293,1073 @@ Bonus Desain Fasad*</h3>		</div>
 		</section>
 					</div>
 		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-58996e31" data-id="58996e31" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4ff1aed3 elementor-widget elementor-widget-heading" data-id="4ff1aed3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Keunggulan Lokasi</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-43bad533 elementor-widget elementor-widget-heading" data-id="43bad533" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prospektif Lokasi Klaster Nayanika</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-672baac2 elementor-widget elementor-widget-elementskit-faq" data-id="672baac2" data-element_type="widget" data-widget_type="elementskit-faq.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+                <div class="elementskit-single-faq elementor-repeater-item-3f3379b">
+            <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title"> Berdaya Saing Tinggi</h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Setu Bekasi saat ini sudah menjadi kawasan pemukiman berdaya saing tinggi            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-b03c647">
+            <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">Dekat Akses Tol</h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Dekat Rencana Pintu Tol Setu Burangkeng, dekat dengan Tol Cimanggis - Cibitung &amp; Tol Cibitung            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-5fce33a">
+            <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">Lokasi Strategis</h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Lokasi strategis dan berada di daerah Segitiga Emas (Cibubur - Bekasi - Cikarang)            </div>
+        </div>
+                <div class="elementskit-single-faq elementor-repeater-item-2e63a08">
+            <div class="elementskit-faq-header">
+                <h2 class="elementskit-faq-title">Aksesibilitas Mudah</h2>
+            </div>
+            <div class="elementskit-faq-body">
+                Dekat dengan Kota Mandiri, Kawasan Industri, Stasiun KRL &amp; Wisata Keluarga serta Pusat Perbelanjaan            </div>
+        </div>
+        
+    </div>		</div>
+				</div>
+					</div>
+		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-14b1aec1 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="14b1aec1" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-35077764 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="35077764" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-136c3dac" data-id="136c3dac" data-element_type="column">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3c496467" data-id="3c496467" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-278cc967 elementor-cta--valign-middle elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="278cc967" data-element_type="widget" data-widget_type="call-to-action.default">
+								<div class="elementor-element elementor-element-526dbdf0 elementor-widget elementor-widget-heading" data-id="526dbdf0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<div class="elementor-cta">
+			<h6 class="elementor-heading-title elementor-size-default">Keunggulan Lokasi</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4d8093a7 elementor-widget elementor-widget-heading" data-id="4d8093a7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Sekitar Lokasi <br>Klaster Nayanika</h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-439bbdaa" data-id="439bbdaa" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2919b801 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2919b801" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4faecadd" data-id="4faecadd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-2c35353a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2c35353a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f65a20a" data-id="f65a20a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1866de59 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="1866de59" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css">		<a href="#" class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi-Jalan-Lebar-2-1.webp);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-8.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 							<div class="elementor-cta__content">
 				
-				<h3 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Akses jalan lebar</h3>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-						Persis di Jl Raya Setu - Serang					</div>
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						dekat Gerbang Exit Tol					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Tol Setu, Tol Grand Wisata, Tol Jatikarya, Tol Cibitung					</div>
 				
 							</div>
-						</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-1a9304af" data-id="1a9304af" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4839a34b elementor-cta--valign-middle elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="4839a34b" data-element_type="widget" data-widget_type="call-to-action.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-cta">
-					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Klaster-Nayanika-Kavling-Siap-Bangun-di-Setu-Bekasi-Jalan-Lebar-3.webp);"></div>
-				<div class="elementor-cta__bg-overlay"></div>
-			</div>
-							<div class="elementor-cta__content">
-				
-				<h3 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Jalur akses 2 mobil</h3>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-						Sepanjang jalan cor					</div>
-				
-							</div>
-						</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-3b92da98" data-id="3b92da98" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-119787fa elementor-cta--valign-middle elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="119787fa" data-element_type="widget" data-widget_type="call-to-action.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-cta">
-					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Progress-Klaster-Nayanika-Setu-Bekasi-4.webp);"></div>
-				<div class="elementor-cta__bg-overlay"></div>
-			</div>
-							<div class="elementor-cta__content">
-				
-				<h3 class="elementor-cta__title elementor-cta__content-item elementor-content-item">Dokumentasi Progress</h3>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item">
-						Row jalan lebar 6 m2					</div>
-				
-							</div>
-						</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-557f938b elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="557f938b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-231db3bd" data-id="231db3bd" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-598d0d3b elementor-widget elementor-widget-image" data-id="598d0d3b" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="108" height="108" src="<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Untitled-design-16.webp" class="attachment-large size-large" alt="" loading="lazy">															</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-27ea3777" data-id="27ea3777" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-1bf3c2f2 elementor-widget elementor-widget-heading" data-id="1bf3c2f2" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Kelebihan Kavling Siap Bangun</h3>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3d3a9cba elementor-widget elementor-widget-text-editor" data-id="3d3a9cba" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<ol><li class="p1" style="text-align: left;">Nilai harga tanah akan terus naik (capital gain)</li><li style="text-align: left;">Anda yang tahu, kapan waktunya mendirikan bangunan</li><li style="text-align: left;">Desain rumah suka-suka dan sesuai kebutuhan Anda</li><li style="text-align: left;">Investasi dengan keuntungan bertahap dan aman</li><li style="text-align: left;">Bebas biaya penjagaan dan biaya perawatan minim</li></ol>						</div>
-				</div>
-				<div class="elementor-element elementor-element-5016f39f elementor-widget elementor-widget-heading" data-id="5016f39f" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Miliki kavling di Klaster Nayanika sekarang!</h2>		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2a3ba404 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="2a3ba404" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-19ecdbf9" data-id="19ecdbf9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-17b7505b elementor-widget__width-initial elementor-widget-tablet__width-initial elementor-widget-mobile__width-inherit elementor-widget elementor-widget-text-editor" data-id="17b7505b" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p>Pilihan yang <span style="color: #000080;">Tepat</span> untuk Anda <span style="color: #000080;">Saat Ini</span> </p>						</div>
-				</div>
-				<div class="elementor-element elementor-element-1ad90e5 elementor-widget elementor-widget-text-editor" data-id="1ad90e5" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<p style="text-align: left;">Milikilah Kavling Siap Bangun untuk Hunian dan Investasi Anda dengan desain rumah sesuka hati Anda dan keluarga Anda. Lokasi yang sangat strategis juga mengangkat nilai harga aset properti Anda.</p>						</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-67cea9d1 elementor-section-full_width elementor-reverse-tablet elementor-section-height-default elementor-section-height-default" data-id="67cea9d1" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-456dd6a2" data-id="456dd6a2" data-element_type="column" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateY_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:50,&quot;end&quot;:100}},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;],&quot;motion_fx_translateY_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]}}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-32880244 elementor-view-stacked elementor-shape-circle elementor-invisible elementor-widget elementor-widget-icon" data-id="32880244" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInUp&quot;,&quot;_animation_delay&quot;:700}" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon elementor-animation-sink" href="#next">
 						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7675a440" data-id="7675a440" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-66a187be elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="66a187be" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="#" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-11.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						dekat Kota Mandiri					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Metland Cileungsi, Harvest City, Citraland, Grand Wisata					</div>
+				
+							</div>
+						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-f3de0f8" data-id="f3de0f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-46d24792 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="46d24792" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="#" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-9.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						dekat Kawasan Industri					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Kawasan MM 2100, Delta Mas, Hyundai, Jababeka					</div>
+				
+							</div>
+						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-188bf6fb elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="188bf6fb" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6019209" data-id="6019209" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-72d2870e elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="72d2870e" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="#" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-13.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						 dekat Kesehatan					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Hermina Mekarsari, Mary, Kartika Husada,  Klinik					</div>
+				
+							</div>
+						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-35c16c31" data-id="35c16c31" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-10c2288 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="10c2288" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="#" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-12.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						dekat Wisata Keluarga					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Taman Buah Mekarsari, Mall Metland, Hobbit Hill, Water Joy					</div>
+				
+							</div>
+						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-27ff36bb" data-id="27ff36bb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-15715b60 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="15715b60" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<a href="#" class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-6.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h4 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						dekat Stasiun KRL					</h4>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
+						Stasiun Cibitung, Stasiun Bekasi,
+Stasiun Tambun, Telaga Murni					</div>
+				
+							</div>
+						</a>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-57c5a65f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="57c5a65f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-168cff41" data-id="168cff41" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-662fac3a elementor-invisible elementor-widget elementor-widget-image" data-id="662fac3a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-7d37e334 elementor-widget__width-auto elementor-absolute elementor-invisible elementor-widget elementor-widget-image" data-id="7d37e334" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInDown&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/memphis_2.png" title="memphis_2.png" alt="memphis_2.png">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-498a7c3b elementor-invisible" data-id="498a7c3b" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-28638b88 elementor-widget elementor-widget-image" data-id="28638b88" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/memphis_5.png" title="memphis_5.png" alt="memphis_5.png">															</div>
+				</div>
+				<div class="elementor-element elementor-element-1bd286f7 elementor-widget elementor-widget-heading" data-id="1bd286f7" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Memiliki Akses yang Mudah ke Tempat Kerja & Beraktivitas</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-8e5ef57 elementor-widget elementor-widget-text-editor" data-id="8e5ef57" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Klaster Nayanika didukung Akses Transportasi yang lengkap untuk menunjang aktifitas harian ke tempat kerja dan bisnis di Cibubur, Bekasi ataupun Cikarang.</p><p>Tersedia Transportasi Commuter Line (Cibitung, Tambun &amp; Telaga Murni) dan juga dekat dengan Akses Tol (Jatikarya &amp; Cibitung).</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-22bb31bb elementor-align-left elementor-widget elementor-widget-button" data-id="22bb31bb" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Hubungi Sekarang</span>
+		</span>
+					</a>
 		</div>
 				</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-40956015" data-id="40956015" data-element_type="column" data-settings="{&quot;motion_fx_translateX_effect&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_direction&quot;:&quot;negative&quot;,&quot;motion_fx_translateX_affectedRange&quot;:{&quot;unit&quot;:&quot;%&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:{&quot;start&quot;:50,&quot;end&quot;:100}},&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_translateX_speed&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:4,&quot;sizes&quot;:[]},&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}">
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-16941b88 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="16941b88" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-42c55c27" data-id="42c55c27" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-18a61687 elementor-cta--layout-image-right animated-slow elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-invisible elementor-widget elementor-widget-call-to-action" data-id="18a61687" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInRight&quot;}" data-widget_type="call-to-action.default">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-51300d51 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="51300d51" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-155ef4c" data-id="155ef4c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-df48d7f elementor-widget elementor-widget-heading" data-id="df48d7f" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h6 class="elementor-heading-title elementor-size-default">Keunggulan Lokasi</h6>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1078d4f9 elementor-widget elementor-widget-heading" data-id="1078d4f9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Update Progress Tol Dekat <br>Klaster Nayanika</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-671ff7e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="671ff7e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-38db6762" data-id="38db6762" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ef15d05 ekit-equal-height-disable elementor-widget elementor-widget-elementskit-image-box" data-id="3ef15d05" data-element_type="widget" data-widget_type="elementskit-image-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+            <div class="elementskit-info-image-box ekit-image-box text-center simple-card">
+
+                
+                <div class="elementskit-box-header image-box-img-center">
+
+                    <img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-32.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-32.jpg 315w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-32-300x199.jpg 300w" sizes="(max-width: 315px) 100vw, 315px">
+                </div>
+                
+                <div class="elementskit-box-body ekit-image-box-body">
+                    <div class="elementskit-box-content ekit-image-box-body-inner">
+                                                <div class="elementskit-info-box-title">
+
+                        
+                        Rencana Gerbang Tol Setu Burangkeng
+                        
+                    </div>
+                                                            <div class="elementskit-box-style-content">
+                        Jalan tol Jakarta – Cikampek II Selatan dari Sadang hingga Setu diperkirakan rampung pada 2022 dan 2023. ww.ekonomi.bisnis.com                    </div>
+                                    </div>
+
+                            </div>
+            </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-168b9b40" data-id="168b9b40" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4934be4a ekit-equal-height-disable elementor-widget elementor-widget-elementskit-image-box" data-id="4934be4a" data-element_type="widget" data-widget_type="elementskit-image-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+            <div class="elementskit-info-image-box ekit-image-box text-center simple-card">
+
+                
+                <div class="elementskit-box-header image-box-img-center">
+
+                    <img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-30.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-30.jpg 315w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-30-300x199.jpg 300w" sizes="(max-width: 315px) 100vw, 315px">
+                </div>
+                
+                <div class="elementskit-box-body ekit-image-box-body">
+                    <div class="elementskit-box-content ekit-image-box-body-inner">
+                                                <div class="elementskit-info-box-title">
+
+                        
+                        Progress Tol Jatikarya (Cimanggis - Cibitung)
+                        
+                    </div>
+                                                            <div class="elementskit-box-style-content">
+                        Kementerian PUPR menargetkan selesai pembangunan jalan Tol Cimanggis – Cibitung pada Juni 2022. www.ekonomi.bisnis.com                    </div>
+                                    </div>
+
+                            </div>
+            </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2425e88c" data-id="2425e88c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2f50950d ekit-equal-height-disable elementor-widget elementor-widget-elementskit-image-box" data-id="2f50950d" data-element_type="widget" data-widget_type="elementskit-image-box.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+            <div class="elementskit-info-image-box ekit-image-box text-center simple-card">
+
+                
+                <div class="elementskit-box-header image-box-img-center">
+
+                    <img width="315" height="209" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-31.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-31.jpg 315w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-31-300x199.jpg 300w" sizes="(max-width: 315px) 100vw, 315px">
+                </div>
+                
+                <div class="elementskit-box-body ekit-image-box-body">
+                    <div class="elementskit-box-content ekit-image-box-body-inner">
+                                                <div class="elementskit-info-box-title">
+
+                        
+                        Tol Cibitung - Cilincing Sudah Mulai Beroperasi
+                        
+                    </div>
+                                                            <div class="elementskit-box-style-content">
+                        Progres pengadaan lahan per 12 Agustus 2021 telah mencapai 94,64 persen dan konstruksi sebesar 85,80 persen. www.cnbcindonesia.a                    </div>
+                                    </div>
+
+                            </div>
+            </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-55ad89c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55ad89c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-66 elementor-top-column elementor-element elementor-element-630712de" data-id="630712de" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4864a59c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4864a59c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-3bd389e5" data-id="3bd389e5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50f2effb elementor-widget elementor-widget-heading" data-id="50f2effb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">Miliki Kavling Exclusive</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-3d0ed76c elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="3d0ed76c" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#2c2c2c;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);-ms-flex-negative:0;flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:-webkit-box;display:-ms-flexbox;display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;-webkit-box-flex:1;-ms-flex-positive:1;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0;-ms-flex-negative:100;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-605a20e1 elementor-widget elementor-widget-text-editor" data-id="605a20e1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><strong>Dapatkan Bonus dan Penawaran Harga Terbaik !</strong></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-3da8e975 elementor-cta--skin-cover elementor-cta--valign-bottom elementor-cta--sequenced-animation elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="3da8e975" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-cta">
 					<div class="elementor-cta__bg-wrapper">
-				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/kavling123.com/wp-content/uploads/2022/01/Untitled-design-80.webp);"></div>
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-20.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+							<div class="elementor-cta__content">
+				
+									<h3 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--move-left">
+						Klaster Nayanika					</h3>
+				
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--move-left">
+						Kavling Siap Bangun Exclusive di Setu Bekasi					</div>
+				
+							</div>
+						</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-148c6260" data-id="148c6260" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2b3021bd elementor-widget elementor-widget-heading" data-id="2b3021bd" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Inilah Yang Anda Dapatkan Ketika Membeli Kavling Siap Bangun di Klaster Nayanika</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1aa5522d elementor-widget elementor-widget-elementskit-accordion" data-id="1aa5522d" data-element_type="widget" data-widget_type="elementskit-accordion.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+
+        <div class="elementskit-accordion accoedion-primary" id="accordion-6224917d9313d">
+
+            
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-0-1aa5522d">
+                        <a href="#collapse-022df7c6224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-022df7c6224917d9313d" aria-expanded="true" aria-controls="Collapse-022df7c6224917d9313d">
+                            
+                            <span class="ekit-accordion-title">1. Harga di Bawah Pasaran</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-022df7c6224917d9313d" class=" show collapse" aria-labelledby="primaryHeading-0-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Harga Normal dan sekitar lokasi adalah Rp 2.500.000 per meter dan dapatkan Harga Promo Saat Ini hanya Rp 1.700.000 per m2</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-1-1aa5522d">
+                        <a href="#collapse-6d6478c6224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-6d6478c6224917d9313d" aria-expanded="false" aria-controls="Collapse-6d6478c6224917d9313d">
+                            
+                            <span class="ekit-accordion-title">2. Fasilitas Perumahan</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-6d6478c6224917d9313d" class=" collapse" aria-labelledby="primaryHeading-1-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Fasilitas kavling atau perumahan di lengkapi pagar keliling, one gate system, area taman, main gate dan row jalan lebar</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-2-1aa5522d">
+                        <a href="#collapse-f3549d36224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-f3549d36224917d9313d" aria-expanded="false" aria-controls="Collapse-f3549d36224917d9313d">
+                            
+                            <span class="ekit-accordion-title">3. Kepemilikan SHM</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-f3549d36224917d9313d" class=" collapse" aria-labelledby="primaryHeading-2-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Setiap pembelian sudah termasuk sertifikat SHM, sudah termasuk pajak-pajak dan biaya notaris</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-3-1aa5522d">
+                        <a href="#collapse-95cb5de6224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-95cb5de6224917d9313d" aria-expanded="false" aria-controls="Collapse-95cb5de6224917d9313d">
+                            
+                            <span class="ekit-accordion-title">4. Zona Perumahan</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-95cb5de6224917d9313d" class=" collapse" aria-labelledby="primaryHeading-3-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Kavling merupakan zona kuning atau zona perumahan dan bisa diterbitkan IMB atau PBG sesuai dengan luas bangunan masing-masing pengajuan</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-4-1aa5522d">
+                        <a href="#collapse-63674c86224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-63674c86224917d9313d" aria-expanded="false" aria-controls="Collapse-63674c86224917d9313d">
+                            
+                            <span class="ekit-accordion-title">5. Bonus LM &amp; Iphone 13</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-63674c86224917d9313d" class=" collapse" aria-labelledby="primaryHeading-4-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Bonus langsung tanpa diundi adalah setiap pembelian 1 unit maka BONUS Logam Mulia 5 gr dan setiap pembelian 2 unit BONUS Iphone 13</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-5-1aa5522d">
+                        <a href="#collapse-3344b066224917d9313d" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-3344b066224917d9313d" aria-expanded="false" aria-controls="Collapse-3344b066224917d9313d">
+                            
+                            <span class="ekit-accordion-title">6. Bonus Desain Fasad</span>
+
+                            
+                                <div class="ekit_accordion_icon_group">
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-right icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-right icon icon-up-arrow"></i>                                    </div>
+
+                                </div>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-3344b066224917d9313d" class=" collapse" aria-labelledby="primaryHeading-5-1aa5522d" data-parent="#accordion-6224917d9313d">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Bonus desain fasad model scandinavia yang tersedia dan BONUS konsultasi desain ataupun kontraktor pembangunan</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                        </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2abaef98 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2abaef98" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-3b6aab0a elementor-invisible" data-id="3b6aab0a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3f2ddbd5 elementor-widget elementor-widget-heading" data-id="3f2ddbd5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Unit Sangat Terbatas, <br>Hanya tersedia 10 unit !</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4257f662 elementor-widget elementor-widget-premium-addon-progressbar" data-id="4257f662" data-element_type="widget" data-widget_type="premium-addon-progressbar.default">
+				<div class="elementor-widget-container">
+			
+	<div class="premium-progressbar-container" data-settings="{&quot;progress_length&quot;:&quot;100&quot;,&quot;speed&quot;:1000,&quot;type&quot;:&quot;line&quot;}">
+
+					<p class="premium-progressbar-left-label">
+				<span>Ukuran kavling 70 m2 - 77 m2</span>
+			</p>
+			<p class="premium-progressbar-right-label">
+				<span></span>
+			</p>
+		
+		
+		<div class="clearfix"></div>
+		<div class="premium-progressbar-bar-wrap">
+							<div class="premium-progressbar-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+	</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2d64305c elementor-widget elementor-widget-premium-addon-progressbar" data-id="2d64305c" data-element_type="widget" data-widget_type="premium-addon-progressbar.default">
+				<div class="elementor-widget-container">
+			
+	<div class="premium-progressbar-container" data-settings="{&quot;progress_length&quot;:&quot;100&quot;,&quot;speed&quot;:1000,&quot;type&quot;:&quot;line&quot;}">
+
+					<p class="premium-progressbar-left-label">
+				<span>Booking fee Rp 2,5jt per unit</span>
+			</p>
+			<p class="premium-progressbar-right-label">
+				<span></span>
+			</p>
+		
+		
+		<div class="clearfix"></div>
+		<div class="premium-progressbar-bar-wrap">
+							<div class="premium-progressbar-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+	</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-53139dcf elementor-widget elementor-widget-premium-addon-progressbar" data-id="53139dcf" data-element_type="widget" data-widget_type="premium-addon-progressbar.default">
+				<div class="elementor-widget-container">
+			
+	<div class="premium-progressbar-container" data-settings="{&quot;progress_length&quot;:&quot;100&quot;,&quot;speed&quot;:1000,&quot;type&quot;:&quot;line&quot;}">
+
+					<p class="premium-progressbar-left-label">
+				<span>Sertifikat Kepemilikan SHM</span>
+			</p>
+			<p class="premium-progressbar-right-label">
+				<span></span>
+			</p>
+		
+		
+		<div class="clearfix"></div>
+		<div class="premium-progressbar-bar-wrap">
+							<div class="premium-progressbar-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+	</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-2a291eab elementor-widget elementor-widget-premium-addon-progressbar" data-id="2a291eab" data-element_type="widget" data-widget_type="premium-addon-progressbar.default">
+				<div class="elementor-widget-container">
+			
+	<div class="premium-progressbar-container" data-settings="{&quot;progress_length&quot;:&quot;100&quot;,&quot;speed&quot;:1000,&quot;type&quot;:&quot;line&quot;}">
+
+					<p class="premium-progressbar-left-label">
+				<span>Bebas Biaya Pajak &amp; Notaris</span>
+			</p>
+			<p class="premium-progressbar-right-label">
+				<span></span>
+			</p>
+		
+		
+		<div class="clearfix"></div>
+		<div class="premium-progressbar-bar-wrap">
+							<div class="premium-progressbar-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+	</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-4a901b9c elementor-widget elementor-widget-premium-addon-progressbar" data-id="4a901b9c" data-element_type="widget" data-widget_type="premium-addon-progressbar.default">
+				<div class="elementor-widget-container">
+			
+	<div class="premium-progressbar-container" data-settings="{&quot;progress_length&quot;:&quot;100&quot;,&quot;speed&quot;:1000,&quot;type&quot;:&quot;line&quot;}">
+
+					<p class="premium-progressbar-left-label">
+				<span>Tersedia Pagar keliling</span>
+			</p>
+			<p class="premium-progressbar-right-label">
+				<span></span>
+			</p>
+		
+		
+		<div class="clearfix"></div>
+		<div class="premium-progressbar-bar-wrap">
+							<div class="premium-progressbar-bar" role="progressbar" aria-valuemin="0" aria-valuemax="100"></div>
+					</div>
+	</div>
+
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-14dbd93c elementor-align-left elementor-widget elementor-widget-button" data-id="14dbd93c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Hubungi Sekarang</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6f914480" data-id="6f914480" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-72a920c5 elementor-invisible elementor-widget elementor-widget-image" data-id="72a920c5" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
+				</div>
+				<div class="elementor-element elementor-element-fafb964 elementor-widget__width-auto elementor-absolute elementor-invisible elementor-widget elementor-widget-image" data-id="fafb964" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;bounceInDown&quot;,&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/memphis_2.png" title="memphis_2.png" alt="memphis_2.png">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1c7fe609 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1c7fe609" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-20c01847" data-id="20c01847" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-339b1a03 elementor-invisible elementor-widget elementor-widget-image" data-id="339b1a03" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7ac8886b" data-id="7ac8886b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-64448489 elementor-invisible elementor-widget elementor-widget-image" data-id="64448489" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-617c37e5" data-id="617c37e5" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6156cec3 elementor-invisible elementor-widget elementor-widget-image" data-id="6156cec3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2.jpg 1080w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-300x300.jpg 300w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-1024x1024.jpg 1024w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-150x150.jpg 150w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-768x768.jpg 768w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-650x650.jpg 650w" sizes="(max-width: 1080px) 100vw, 1080px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-26e6b348 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="26e6b348" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-480f26a8" data-id="480f26a8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-202abff2 elementor-widget elementor-widget-heading" data-id="202abff2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Beli Unit Kavling <br>
+Bonus Desain Fasad </h2>		</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-3007e53 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3007e53" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-5a741ee2" data-id="5a741ee2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2518c723 elementor-widget elementor-widget-elementskit-team" data-id="2518c723" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-21.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 60</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-a0e2a8b" data-id="a0e2a8b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7323bd18 elementor-widget elementor-widget-elementskit-team" data-id="7323bd18" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-20.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 36</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2308e0b1" data-id="2308e0b1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3ff9967c elementor-widget elementor-widget-elementskit-team" data-id="3ff9967c" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-19.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 30</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-5dbdf3bd elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5dbdf3bd" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6a1d8289" data-id="6a1d8289" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-390b38ac elementor-widget elementor-widget-elementskit-team" data-id="390b38ac" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-23.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 45</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-4c732b59" data-id="4c732b59" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5996de73 elementor-widget elementor-widget-elementskit-team" data-id="5996de73" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-22.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 30</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-76419add" data-id="76419add" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2195e7c1 elementor-widget elementor-widget-elementskit-team" data-id="2195e7c1" data-element_type="widget" data-widget_type="elementskit-team.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+																			 <div class="image-card-v2 style-circle"> 					<div class="profile-image-card elementor-animation-float ekit-team-img ekit-team-style-overlay_circle_hover text-center">
+
+													<img loading="lazy" width="1080" height="1080" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-24.jpg" class="attachment-full size-full" alt="">												<div class="hover-area">
+							<div class="profile-body">
+								<h2 class="profile-title">
+																																	</h2>
+								<p class="profile-designation"></p>
+																<p class="profile-content">Desain Rumah Type 60</p>
+															</div>
+													</div>
+					</div>
+					 </div> 
+				
+				</div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-782e230a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="782e230a" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5e089b26" data-id="5e089b26" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e67bae6 elementor-widget elementor-widget-image" data-id="4e67bae6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="329" height="550" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Ilustrasi-Klaster-Nayanika.png" class="attachment-large size-large" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Ilustrasi-Klaster-Nayanika.png 329w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Ilustrasi-Klaster-Nayanika-179x300.png 179w" sizes="(max-width: 329px) 100vw, 329px">															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-78997cb2 elementor-invisible" data-id="78997cb2" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-569f3007 elementor-widget elementor-widget-heading" data-id="569f3007" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Beli Unit di Klaster Nayanika Bisa Menghemat Hingga Rp 129 Juta</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-46ebfc0c elementor-widget elementor-widget-text-editor" data-id="46ebfc0c" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Mari kita bandingkan antara membeli rumah tipe 36/72 (standar) di daerah Setu dan membeli kavling siap bangun di KLASTER NAYANIKA dengan asumsi tipe yang sama persis dengan rumah jadi tersebut.</p><p>Jika Anda sekarang mau membeli rumah di daerah Setu dan sekitarnya untuk tipe 36/72 dari developer, harga rata-ratanya adalah sekitar 360 juta rupiah.</p><p>Sekarang kita bandingkan jika Anda membeli tanah kavling siap bangun di Klaster Nayanika terlebih dahulu, kemudian membangun rumah dengan tipe yang sama dengan yang dijual oleh para developer tersebut.</p><p>Harga promo kavling siap bangunnya per m2 adalah 1,7 juta. Dikalikan dengan luas tanah standar 72 m2. Hasilnya adalah 122,4 juta rupiah.</p><p>Kemudian Anda akan membangun kavling tersebut dengan luas bangunan standar 36 m2. Dengan asumsi harga borongan bangunan per m2 yang berlaku saat ini adalah 3 juta per m2.</p><p>Maka total biaya bangunan yang Anda keluarkan adalah 36 m2 x 3 juta per m2. Hasilnya adalah 108 juta rupiah. Sehingga hasil biaya yang Anda keluarkan secara total adalah 122,4 juta + 108 juta. </p><p>Hasilnya adalah 230,4 juta. Jadi, jika Anda memilih untuk membeli kavling siap bangun di klaster nayanika terlebih dahulu kemudian membangun rumah sesuai tipe standar pasaran yang ada, maka Anda bisa menghemat sekitar : </p><p><strong>Maka Anda bisa menghemat sekitar : 360 juta – 230,4 juta adalah 129,6 juta rupiah. Amat sangat lumayan bukan hematnya ? </strong></p><p>Lalu dengan penghematan 129,6 juta itu Anda bisa alokasikan kemana saja?</p><p>Pertama, Anda bisa membeli tanah yang lebih luas. Jadi pengembangan rumah Anda ke depannya bisa lebih leluasa lagi. Dan bisa memiliki rumah yang luas, banyak taman dan ruang terbukanya.</p><p>Atau yang kedua. Anda bisa membangun tipe rumah yang lebih besar. Sesuai dengan kebutuhan keluarga Anda saat ini. Jadi lebih nyaman dan enak rumahnya untuk ditempati. Tidak sempit-sempitan. </p><p><strong>Jadi, kesimpulannya..</strong></p><p><strong>Dengan membeli kavling siap bangun terlebih dahulu, Anda bisa menghemat ratusan juta rupiah dibandingkan dengan membeli rumah jadi ke developer. </strong></p><p>Atau dengan budget yang sama, Anda bisa memiliki rumah yang besar dan atau taman yang luas jika dibandingkan dengan membeli rumah jadi di developer.</p><p><strong>Lebih menguntungkan kan?</strong></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-6f8cfc7c elementor-align-left elementor-widget elementor-widget-button" data-id="6f8cfc7c" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Hubungi Sekarang</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-77250f80 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="77250f80" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3d259437" data-id="3d259437" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-4a814e29 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4a814e29" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-61dbe3dd" data-id="61dbe3dd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4bc5ce38 elementor-widget elementor-widget-heading" data-id="4bc5ce38" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Dokumentasi Progress<br>Klaster Nayanika</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-116fed16 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="116fed16" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-7debf7e" data-id="7debf7e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-118d2f9e elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="118d2f9e" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-38.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6bc06c9a" data-id="6bc06c9a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-61128645 elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="61128645" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-39.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-715541ee" data-id="715541ee" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2eae6ac1 elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="2eae6ac1" data-element_type="widget" data-widget_type="call-to-action.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-40.jpg);"></div>
 				<div class="elementor-cta__bg-overlay"></div>
 			</div>
 								</div>
@@ -1190,172 +1369,46 @@ Bonus Desain Fasad*</h3>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a1cd2d elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="8a1cd2d" data-element_type="section" id="next">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-315bcba8" data-id="315bcba8" data-element_type="column">
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7bed322a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7bed322a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-2ab7f85b" data-id="2ab7f85b" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<section class="elementor-section elementor-inner-section elementor-element elementor-element-b823551 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b823551" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-1f1084d9" data-id="1f1084d9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b509f9a elementor-widget elementor-widget-heading" data-id="b509f9a" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-1328ff89 elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="1328ff89" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">01</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-20bff160 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="20bff160" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Berada di Lokasi Segitiga Emas (Cibubur - Bekasi - Cikarang)					</span>
-				</h3>
-							</div>
-		</div>
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-37.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
 				</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-6f0fba24 elementor-invisible" data-id="6f0fba24" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-13129229" data-id="13129229" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-69af700b elementor-widget elementor-widget-heading" data-id="69af700b" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-10cf9646 elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="10cf9646" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">02</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-37405583 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="37405583" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Dekat dengan kawasan Kota Mandiri dan Kawasan Industri (MM 2100, dll)					</span>
-				</h3>
-							</div>
-		</div>
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-36.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
 				</div>
 				</div>
 					</div>
 		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-2fc9b55d elementor-invisible" data-id="2fc9b55d" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300}">
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-6f8775e4" data-id="6f8775e4" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-12801cb elementor-widget elementor-widget-heading" data-id="12801cb" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-58ce3460 elementor-cta--layout-image-above elementor-cta--valign-middle elementor-cta--sequenced-animation elementor-cta--skin-classic elementor-animated-content elementor-bg-transform elementor-bg-transform-zoom-in elementor-widget elementor-widget-call-to-action" data-id="58ce3460" data-element_type="widget" data-widget_type="call-to-action.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">03</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-3dbee30f elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="3dbee30f" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Selangkah dengan rencana Gerbang tol setu burangkeng					</span>
-				</h3>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-10d1d11f elementor-invisible" data-id="10d1d11f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:400}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-70068eda elementor-widget elementor-widget-heading" data-id="70068eda" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">04</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4f3bc07e elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="4f3bc07e" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Aksesibilitas Mudah dekat gerbang tol  dan stasiun KRL (Cibitung, dll)					</span>
-				</h3>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-inner-section elementor-element elementor-element-51748ff1 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="51748ff1" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-35afd670" data-id="35afd670" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-2e1e8a90 elementor-widget elementor-widget-heading" data-id="2e1e8a90" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">05</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-1bbf1e5d elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="1bbf1e5d" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						dekat tempat wisata keluarga (Taman Buah Mekarsarii, Hobbit Hill, dll)					</span>
-				</h3>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-7c3a9602 elementor-invisible" data-id="7c3a9602" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-11090636 elementor-widget elementor-widget-heading" data-id="11090636" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">06</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-202a1b9c elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="202a1b9c" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Row jalan lebar 6 m2 dan tersedia pagar keliling (One Gate System)					</span>
-				</h3>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-622dcd64 elementor-invisible" data-id="622dcd64" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:300}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-36a2d3ff elementor-widget elementor-widget-heading" data-id="36a2d3ff" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">07</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-77d891e7 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="77d891e7" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Konsumen mendapatkan legalitas Tanah yaitu Surat Hak Milik (SHM) 					</span>
-				</h3>
-							</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-25a727a3 elementor-invisible" data-id="25a727a3" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;animation_delay&quot;:400}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3704f983 elementor-widget elementor-widget-heading" data-id="3704f983" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default">08</p>		</div>
-				</div>
-				<div class="elementor-element elementor-element-4f5ef488 elementor-view-default elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="4f5ef488" data-element_type="widget" data-widget_type="icon-box.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-box-wrapper">
-						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>
-						Lingkungan asri, Sehat dan Sejuk, Karena banyak pepohonan sekitar lokasi					</span>
-				</h3>
-							</div>
-		</div>
+					<div class="elementor-cta">
+					<div class="elementor-cta__bg-wrapper">
+				<div class="elementor-cta__bg elementor-bg" style="background-image: url(<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-35.jpg);"></div>
+				<div class="elementor-cta__bg-overlay"></div>
+			</div>
+								</div>
 				</div>
 				</div>
 					</div>
@@ -1366,11 +1419,15 @@ Bonus Desain Fasad*</h3>		</div>
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-7bbc436f elementor-section-height-min-height elementor-section-boxed elementor-section-height-default elementor-section-items-middle" data-id="7bbc436f" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-no">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7db79877" data-id="7db79877" data-element_type="column">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aaa759b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aaa759b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-86a2d83 elementor-invisible" data-id="86a2d83" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;fadeInLeft&quot;}">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-479d00a9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="479d00a9" data-element_type="widget" data-widget_type="divider.default">
+								<div class="elementor-element elementor-element-7de6db9a elementor-widget elementor-widget-heading" data-id="7de6db9a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Lalu Kapan Waktu yang Tepat untuk Membeli Properti ?</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-543b5cd9 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="543b5cd9" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider">
 			<span class="elementor-divider-separator">
@@ -1378,18 +1435,44 @@ Bonus Desain Fasad*</h3>		</div>
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-4fead610 elementor-widget elementor-widget-heading" data-id="4fead610" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-element elementor-element-3fb28dc4 elementor-widget elementor-widget-text-editor" data-id="3fb28dc4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">©2022 Klaster Nayanika <br>2022 All Rights Reserved</h3>		</div>
+							<p>Waktu terbaik membeli properti adalah <strong>Saat Awal Proyek</strong> (masih berbentuk lahan kosong) karena</p><ul><li>Harga Murah</li><li>Daya Jual Tinggi</li><li>Pilihan Unit Masih Banyak</li></ul><p>Ketika Tengah Proyek bahkan sudah Siap Huni harga properti akan semakin naik, tentunya harga akan mahal dan unit sudah banyak yang habis, begitu juga dengan keuntungan pun semakin berkurang. </p>						</div>
 				</div>
-				<div class="elementor-element elementor-element-149562c2 elementor-widget__width-initial elementor-fixed elementor-mobile-align-left elementor-widget elementor-widget-button" data-id="149562c2" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;fixed&quot;}" data-widget_type="button.default">
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-58fcd48e" data-id="58fcd48e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4f0d6a87 elementor-widget elementor-widget-image" data-id="4f0d6a87" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="442" height="475" src="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/klaster-nayanika-28.png" class="attachment-large size-large" alt="" loading="lazy" srcset="<?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/klaster-nayanika-28.png 442w, <?= base_url()?>assets/klasternayanika.com/wp-content/uploads/2022/02/klaster-nayanika-28-279x300.png 279w" sizes="(max-width: 442px) 100vw, 442px">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4634d9df elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4634d9df" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f92a5d0" data-id="5f92a5d0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-50c8b35d elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="50c8b35d" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-20ebd70e" data-id="20ebd70e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2627afc0 elementor-widget elementor-widget-heading" data-id="2627afc0" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Miliki Kavling Siap Bangun Exclusive dengan Harga di Bawah Pasaran Sekarang !</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6c13c72c elementor-align-center elementor-widget elementor-widget-button" data-id="6c13c72c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a href="<?= $link_wa?>" target="_blank" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
 						<span class="elementor-button-content-wrapper">
 						<span class="elementor-button-icon elementor-align-icon-left">
 				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
-						<span class="elementor-button-text">Chat WhatsApp</span>
+						<span class="elementor-button-text">Hubungi Sekarang</span>
 		</span>
 					</a>
 		</div>
@@ -1399,36 +1482,593 @@ Bonus Desain Fasad*</h3>		</div>
 		</div>
 							</div>
 		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1fa4fa38 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1fa4fa38" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-25deeba" data-id="25deeba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-5c336240 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5c336240" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-38f941af" data-id="38f941af" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-139a3302 elementor-widget elementor-widget-heading" data-id="139a3302" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Frequently Asked Questions</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-4bbde9e9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4bbde9e9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-25e61573" data-id="25e61573" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3917da9c elementor-widget elementor-widget-elementskit-accordion" data-id="3917da9c" data-element_type="widget" data-widget_type="elementskit-accordion.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+
+        <div class="elementskit-accordion accoedion-primary" id="accordion-6224917db57b2">
+
+            
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-0-3917da9c">
+                        <a href="#collapse-a7682cd6224917db57b2" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-a7682cd6224917db57b2" aria-expanded="false" aria-controls="Collapse-a7682cd6224917db57b2">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Lokasi Klaster Nayanika Dimana ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-a7682cd6224917db57b2" class=" collapse" aria-labelledby="primaryHeading-0-3917da9c" data-parent="#accordion-6224917db57b2">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Lokasi di Jl Raya Setu - Serang, Desa Cibening, Kec. Setu, Kab. Bekasi</p><p>Dekat Pasar Setu dan juga rencana Gerbang Tol Setu Burangkeng</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-1-3917da9c">
+                        <a href="#collapse-12ae29f6224917db57b2" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-12ae29f6224917db57b2" aria-expanded="false" aria-controls="Collapse-12ae29f6224917db57b2">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Tahapan Prosedur Pembelian ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-12ae29f6224917db57b2" class=" collapse" aria-labelledby="primaryHeading-1-3917da9c" data-parent="#accordion-6224917db57b2">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Saat Anda merasa cocok dan memilih unit Anda bisa membayar Booking Fee 2,5 Juta (Booking tidak mengurangi harga)</p><p>Tapi PROMO SAAT INI Booking Fee sudah termasuk harga jual artinya mengurangi harga</p><p>Maksimal dalam waktu 7 hari setelah Booking Fee langsung pelunasan dan akad PPJB ataupun AJB</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-2-3917da9c">
+                        <a href="#collapse-03e96966224917db57b2" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-03e96966224917db57b2" aria-expanded="false" aria-controls="Collapse-03e96966224917db57b2">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Infrastrukturnya Bagaimana ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-03e96966224917db57b2" class=" collapse" aria-labelledby="primaryHeading-2-3917da9c" data-parent="#accordion-6224917db57b2">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Ketika membeli kavling di Klaster Nayanika maka sudah termasuk infrastruktur seperti finishing jalan (aspal), saluran air kotor, pagar keliling dan main gate</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-3-3917da9c">
+                        <a href="#collapse-1b21d266224917db57b2" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-1b21d266224917db57b2" aria-expanded="false" aria-controls="Collapse-1b21d266224917db57b2">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Bagaimana dengan IMB atau PGB ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-1b21d266224917db57b2" class=" collapse" aria-labelledby="primaryHeading-3-3917da9c" data-parent="#accordion-6224917db57b2">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Yang kami sediakan adalah kavling siap bangun, artinya jika ingin mendapatkan IMB atau PBG maka harus pengajuan dengan denah masing-masing</p><p>Untuk pengajuan IMB atau PBG bisa kami bantu proses pengajuannya</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                        </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-4bbc60c2" data-id="4bbc60c2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67a00e01 elementor-widget elementor-widget-elementskit-accordion" data-id="67a00e01" data-element_type="widget" data-widget_type="elementskit-accordion.default">
+				<div class="elementor-widget-container">
+			<div class="ekit-wid-con">
+
+        <div class="elementskit-accordion accoedion-primary" id="accordion-6224917db67a7">
+
+            
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-0-67a00e01">
+                        <a href="#collapse-a7682cd6224917db67a7" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-a7682cd6224917db67a7" aria-expanded="false" aria-controls="Collapse-a7682cd6224917db67a7">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Pas Bangun Harus Sendiri atau Developer?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-a7682cd6224917db67a7" class=" collapse" aria-labelledby="primaryHeading-0-67a00e01" data-parent="#accordion-6224917db67a7">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Untuk pembangunan unit rumah bisa dilakukan sendiri atau menggunakan kontraktor sendiri</p><p>Namun jika perlu referensi ataupun pembangunan dari pihak developer akan membantu memberikan referensi kontraktor dan juga bisa membangun lewat developer </p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-1-67a00e01">
+                        <a href="#collapse-12ae29f6224917db67a7" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-12ae29f6224917db67a7" aria-expanded="false" aria-controls="Collapse-12ae29f6224917db67a7">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Instalasi Listrik &amp; Air Bersih Bagaimana ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-12ae29f6224917db67a7" class=" collapse" aria-labelledby="primaryHeading-1-67a00e01" data-parent="#accordion-6224917db67a7">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Untuk instalasi listrik &amp; air bersih bisa mengajukan sendiri ataupun kami bantu proses pengajuannya</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-2-67a00e01">
+                        <a href="#collapse-03e96966224917db67a7" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-03e96966224917db67a7" aria-expanded="false" aria-controls="Collapse-03e96966224917db67a7">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Legalitas Kepemilikan Bagaimana ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-03e96966224917db67a7" class=" collapse" aria-labelledby="primaryHeading-2-67a00e01" data-parent="#accordion-6224917db67a7">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Legalitas yang di dapatkan adalah SHM an masing-masing konsumen</p><p>Untuk biaya sudah termasuk biaya notaris, biaya pajak-pajak dan biaya balik nama</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                
+                <div class="elementskit-card">
+                    <div class="elementskit-card-header" id="primaryHeading-3-67a00e01">
+                        <a href="#collapse-1b21d266224917db67a7" class="ekit-accordion--toggler elementskit-btn-link collapsed" data-ekit-toggle="collapse" data-target="#Collapse-1b21d266224917db67a7" aria-expanded="false" aria-controls="Collapse-1b21d266224917db67a7">
+                                                            <div class="ekit_accordion_icon_left_group">
+
+                                    <div class="ekit_accordion_normal_icon">
+                                        <!-- Normal Icon -->
+                                        <i aria-hidden="true" class="icon-open icon-left icon icon-down-arrow1"></i>                                    </div>
+
+                                    <div class="ekit_accordion_active_icon">
+                                        <!-- Active Icon -->
+                                        <i aria-hidden="true" class="icon-closed icon-left icon icon-up-arrow1"></i>                                    </div>
+
+                                </div>
+
+                            
+                            <span class="ekit-accordion-title">Maksudnya Free Konsultasi RAB &amp; Desain ?</span>
+
+                            
+                                                    </a>
+                    </div>
+
+                    <div id="Collapse-1b21d266224917db67a7" class=" collapse" aria-labelledby="primaryHeading-3-67a00e01" data-parent="#accordion-6224917db67a7">
+
+                        <div class="elementskit-card-body ekit-accordion--content">
+                            <p>Jika Anda ingin membangun unit rumah ataupun kostan, maka ada fasilitas Free Konsultasi RAB &amp; Desain dari pihak developer</p><p>Tapi belum termasuk pelaksanaan seperti membuat RAB ataupun Desain</p><p>Desain Fasad yang BONUS adalah desain yang telah kami sediakan</p>                        </div>
+
+                    </div>
+
+                </div><!-- .elementskit-card END -->
+
+                        </div>
+    </div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a0bd325 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="a0bd325" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6e3379a0" data-id="6e3379a0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ec4f0a7 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ec4f0a7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-431c3c41" data-id="431c3c41" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-439058b8 elementor-widget elementor-widget-heading" data-id="439058b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Konsultasi</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6bd1345d elementor-widget elementor-widget-heading" data-id="6bd1345d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Serius ingin punya Kavling Siap Bangun ?<br> 
+Kami bantu pengajuan Anda</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-7530d7d elementor-widget elementor-widget-heading" data-id="7530d7d" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Hubungi Kami :</div>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6b27645d elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="6b27645d" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+.elementor-widget.elementor-icon-list--layout-inline .elementor-widget-container{overflow:hidden}.elementor-widget .elementor-icon-list-items.elementor-inline-items{margin-right:-8px;margin-left:-8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item{margin-right:8px;margin-left:8px}.elementor-widget .elementor-icon-list-items.elementor-inline-items .elementor-icon-list-item:after{width:auto;left:auto;right:auto;position:relative;height:100%;border-top:0;border-bottom:0;border-right:0;border-left-width:1px;border-style:solid;right:-8px}.elementor-widget .elementor-icon-list-items{list-style-type:none;margin:0;padding:0}.elementor-widget .elementor-icon-list-item{margin:0;padding:0;position:relative}.elementor-widget .elementor-icon-list-item:after{position:absolute;bottom:0;width:100%}.elementor-widget .elementor-icon-list-item,.elementor-widget .elementor-icon-list-item a{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center;font-size:inherit}.elementor-widget .elementor-icon-list-icon+.elementor-icon-list-text{-ms-flex-item-align:center;align-self:center;padding-left:5px}.elementor-widget .elementor-icon-list-icon{display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-widget .elementor-icon-list-icon svg{width:var(--e-icon-list-icon-size,1em);height:var(--e-icon-list-icon-size,1em)}.elementor-widget .elementor-icon-list-icon i{width:1.25em;font-size:var(--e-icon-list-icon-size)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon{text-align:var(--e-icon-list-icon-align)}.elementor-widget.elementor-widget-icon-list .elementor-icon-list-icon svg{margin:var(--e-icon-list-icon-margin,0 calc(var(--e-icon-list-icon-size, 1em) * .25) 0 0)}.elementor-widget.elementor-list-item-link-full_width a{width:100%}.elementor-widget.elementor-align-center .elementor-icon-list-item,.elementor-widget.elementor-align-center .elementor-icon-list-item a{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-align-center .elementor-inline-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-align-left .elementor-icon-list-item,.elementor-widget.elementor-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-align-left .elementor-inline-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-align-right .elementor-icon-list-item,.elementor-widget.elementor-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget.elementor-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget:not(.elementor-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-align-left) .elementor-icon-list-item:after{right:0}@media (max-width:1024px){.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item a,.elementor-widget.elementor-tablet-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-tablet-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item,.elementor-widget.elementor-tablet-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-tablet-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-tablet-align-left) .elementor-icon-list-item:after{right:0}}@media (max-width:767px){.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item a,.elementor-widget.elementor-mobile-align-center .elementor-icon-list-items{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}.elementor-widget.elementor-mobile-align-center .elementor-icon-list-item:after{margin:auto}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-items{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-left .elementor-icon-list-item a{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start;text-align:left}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-items{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item,.elementor-widget.elementor-mobile-align-right .elementor-icon-list-item a{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end;text-align:right}.elementor-widget:not(.elementor-mobile-align-right) .elementor-icon-list-item:after{left:0}.elementor-widget:not(.elementor-mobile-align-left) .elementor-icon-list-item:after{right:0}}</style>		<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="icon icon-user"></i>						</span>
+										<span class="elementor-icon-list-text"><?= $marketing['nama']?></span>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="material-icons md-local_phone" data-md-icon="local_phone"></i>						</span>
+										<span class="elementor-icon-list-text"><?= $marketing['no_wa']?></span>
+									</li>
+						</ul>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-bed96fc" data-id="bed96fc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-50fb0924 elementor-widget elementor-widget-menu-anchor" data-id="50fb0924" data-element_type="widget" data-widget_type="menu-anchor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.5.5 - 03-02-2022 */
+body.elementor-page .elementor-widget-menu-anchor{margin-bottom:0}</style>		<div id="brosur" class="elementor-menu-anchor"></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-75e07c51 elementor-widget elementor-widget-heading" data-id="75e07c51" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h5 class="elementor-heading-title elementor-size-default">Download Brosur</h5>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1d4b2697 elementor-button-align-stretch elementor-widget elementor-widget-form" data-id="1d4b2697" data-element_type="widget" data-settings="{&quot;step_next_label&quot;:&quot;Next&quot;,&quot;step_previous_label&quot;:&quot;Previous&quot;,&quot;button_width_tablet&quot;:&quot;30&quot;,&quot;button_width&quot;:&quot;100&quot;,&quot;step_type&quot;:&quot;number_text&quot;,&quot;step_icon_shape&quot;:&quot;circle&quot;}" data-widget_type="form.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.4.1 - 01-09-2021 */
+.elementor-button.elementor-hidden,.elementor-hidden{display:none}.e-form__step{width:100%}.e-form__step:not(.elementor-hidden){display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons{-ms-flex-wrap:wrap;flex-wrap:wrap}.e-form__buttons,.e-form__buttons__wrapper{display:-webkit-box;display:-ms-flexbox;display:flex}.e-form__indicators{-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between;-ms-flex-wrap:nowrap;flex-wrap:nowrap;font-size:13px;margin-bottom:var(--e-form-steps-indicators-spacing)}.e-form__indicators,.e-form__indicators__indicator{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.e-form__indicators__indicator{-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-ms-flex-preferred-size:0;flex-basis:0;padding:0 var(--e-form-steps-divider-gap)}.e-form__indicators__indicator__progress{width:100%;position:relative;background-color:var(--e-form-steps-indicator-progress-background-color);border-radius:var(--e-form-steps-indicator-progress-border-radius);overflow:hidden}.e-form__indicators__indicator__progress__meter{width:var(--e-form-steps-indicator-progress-meter-width,0);height:var(--e-form-steps-indicator-progress-height);line-height:var(--e-form-steps-indicator-progress-height);padding-right:15px;border-radius:var(--e-form-steps-indicator-progress-border-radius);background-color:var(--e-form-steps-indicator-progress-color);color:var(--e-form-steps-indicator-progress-meter-color);text-align:right;-webkit-transition:width .1s linear;-o-transition:width .1s linear;transition:width .1s linear}.e-form__indicators__indicator:first-child{padding-left:0}.e-form__indicators__indicator:last-child{padding-right:0}.e-form__indicators__indicator--state-inactive{color:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-inactive [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-inactive-secondary-color,#fff)}.e-form__indicators__indicator--state-inactive object,.e-form__indicators__indicator--state-inactive svg{fill:var(--e-form-steps-indicator-inactive-primary-color,#c2cbd2)}.e-form__indicators__indicator--state-active{color:var(--e-form-steps-indicator-active-primary-color,#39b54a);border-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-active-secondary-color,#fff)}.e-form__indicators__indicator--state-active object,.e-form__indicators__indicator--state-active svg{fill:var(--e-form-steps-indicator-active-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed{color:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator--state-completed [class*=indicator--shape-]:not(.e-form__indicators__indicator--shape-none){background-color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator__label{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a)}.e-form__indicators__indicator--state-completed .e-form__indicators__indicator--shape-none{color:var(--e-form-steps-indicator-completed-primary-color,#39b54a);background-color:initial}.e-form__indicators__indicator--state-completed object,.e-form__indicators__indicator--state-completed svg{fill:var(--e-form-steps-indicator-completed-secondary-color,#fff)}.e-form__indicators__indicator__icon{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);font-size:var(--e-form-steps-indicator-icon-size);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;overflow:hidden;margin-bottom:10px}.e-form__indicators__indicator__icon img,.e-form__indicators__indicator__icon object,.e-form__indicators__indicator__icon svg{width:var(--e-form-steps-indicator-icon-size);height:auto}.e-form__indicators__indicator__icon .e-font-icon-svg{height:1em}.e-form__indicators__indicator__number{width:var(--e-form-steps-indicator-padding,30px);height:var(--e-form-steps-indicator-padding,30px);border-width:1px;border-style:solid;display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center;margin-bottom:10px}.e-form__indicators__indicator--shape-circle{border-radius:50%}.e-form__indicators__indicator--shape-square{border-radius:0}.e-form__indicators__indicator--shape-rounded{border-radius:5px}.e-form__indicators__indicator--shape-none{border:0}.e-form__indicators__indicator__label{text-align:center}.e-form__indicators__indicator__separator{width:100%;height:var(--e-form-steps-divider-width);background-color:#c2cbd2}.e-form__indicators--type-icon,.e-form__indicators--type-icon_text,.e-form__indicators--type-number,.e-form__indicators--type-number_text{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.e-form__indicators--type-icon .e-form__indicators__indicator__separator,.e-form__indicators--type-icon_text .e-form__indicators__indicator__separator,.e-form__indicators--type-number .e-form__indicators__indicator__separator,.e-form__indicators--type-number_text .e-form__indicators__indicator__separator{margin-top:calc(var(--e-form-steps-indicator-padding, 30px) / 2 - var(--e-form-steps-divider-width, 1px) / 2)}.elementor-field-type-hidden{display:none}.elementor-field-type-html{display:inline-block}.elementor-login .elementor-lost-password,.elementor-login .elementor-remember-me{font-size:.85em}.elementor-field-type-recaptcha_v3 .elementor-field-label{display:none}.elementor-field-type-recaptcha_v3 .grecaptcha-badge{z-index:1}.elementor-button .elementor-form-spinner{-webkit-box-ordinal-group:4;-ms-flex-order:3;order:3}.elementor-form .elementor-button>span{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center;-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor-form .elementor-button .elementor-button-text{white-space:normal;-webkit-box-flex:0;-ms-flex-positive:0;flex-grow:0}.elementor-form .elementor-button svg{height:auto}.elementor-form .elementor-button .e-font-icon-svg{height:1em}</style>		
+		<form class="elementor-form" method="post" action="<?= base_url()?>daftarlandingpage/add_leads" name="New Form" id="formBrosur">
+			<div class="elementor-form-fields-wrapper elementor-labels-">
+					<div class="elementor-field-type-text elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-md-50 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label elementor-screen-only">Nama Anda</label><input size="1" type="text" name="nama" class="required elementor-field elementor-size-md  elementor-field-textual" placeholder="Nama Anda" required="required" aria-required="true">				</div>
+					<div class="elementor-field-type-number elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-md-50 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label elementor-screen-only">No WhatsApp</label><input type="number" name="no_wa" class="required elementor-field elementor-size-md  elementor-field-textual" placeholder="No WhatsApp" required="required" aria-required="true" min="" max="">				</div>
+					<div class="elementor-field-type-email elementor-field-group elementor-column elementor-field-group-email elementor-col-100 elementor-md-50 elementor-field-required">
+					<label for="form-field-email" class="elementor-field-label elementor-screen-only">Email Aktif</label><input size="1" type="email" name="email" class="required elementor-field elementor-size-md  elementor-field-textual" placeholder="Email Aktif" required="required" aria-required="true">				</div>
+					<div class="elementor-field-group elementor-column elementor-field-type-submit elementor-col-100 e-form__buttons elementor-md-30">
+					<input type="hidden" name="id" value="<?= $marketing['id']?>">
+					<input type="hidden" name="email_marketing" value="<?= $marketing['email']?>" class="required">
+					<input type="hidden" name="project" value="<?= $marketing['project']?>" class="required">
+					<input type="hidden" name="id_name" value="<?= $marketing['id_name']?>" class="required">
+					<button type="button" class="elementor-button elementor-size-md btn-download-brosur">
+						<span>
+							<span class="elementor-align-icon-left elementor-button-icon">
+							<i aria-hidden="true" class="material-icons"></i>																	</span>
+							<span class="elementor-button-text">Request Brosur</span>
+						</span>
+					</button>
+				</div>
+			</div>
+		</form>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-19468524 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="19468524" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-20ef713c" data-id="20ef713c" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-39c004fb" data-id="39c004fb" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-348a70c3 elementor-widget elementor-widget-heading" data-id="348a70c3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<div class="elementor-heading-title elementor-size-default">Copyright © 2022 Klaster Nayanika. All Rights Reserved.</div>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-inner-column elementor-element elementor-element-65740b44" data-id="65740b44" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-632bd51d elementor-align-right elementor-widget elementor-widget-button" data-id="632bd51d" data-element_type="widget" data-settings="{&quot;sticky&quot;:&quot;bottom&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="<?= $link_wa?>" target="_blank" class="elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fab fa-whatsapp"></i>			</span>
+						<span class="elementor-button-text">Hubungi Kami</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
 						</div>
 					</div>
-		<link rel='stylesheet' id='elementor-gallery-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/e-gallery/css/e-gallery.min.css?ver=1.2.0' media='all'>
-<link rel='stylesheet' id='e-animations-css' href='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/animations/animations.min-1.css?ver=3.5.3' media='all'>
-<script src='<?= base_url()?>assets/kavling123.com/wp-includes/js/wp-embed.min-1.js?ver=5.8.3' id='wp-embed-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min-1.js?ver=3.5.3' id='elementor-webpack-runtime-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-includes/js/jquery/jquery.min-1.js?ver=3.6.0' id='jquery-core-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-includes/js/jquery/jquery-migrate.min-1.js?ver=3.3.2' id='jquery-migrate-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/js/frontend-modules.min-1.js?ver=3.5.3' id='elementor-frontend-modules-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min-1.js?ver=4.0.2' id='elementor-waypoints-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-includes/js/jquery/ui/core.min-1.js?ver=1.12.1' id='jquery-ui-core-js'></script>
-<script id='elementor-frontend-js-before'>
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"theme_builder_v2":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/kavling123.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":793,"title":"Klaster%20Nayanika%20-%20Kavling123.com","excerpt":"","featuredImage":false}};
-</script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/js/frontend.min-1.js?ver=3.5.3' id='elementor-frontend-js'></script>
-<script id='elementor-frontend-js-after'>
-var jkit_ajax_url = "https://kavling123.com/?jkit-ajax-request=jkit_elements", jkit_nonce = "3b2bb794bb";
-</script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/jeg-elementor-kit/assets/js/elements/sticky-element-1.js?ver=2.3.0' id='jkit-sticky-element-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor/assets/lib/e-gallery/js/e-gallery.min.js?ver=1.2.0' id='elementor-gallery-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min-1.js?ver=3.5.2' id='elementor-pro-webpack-runtime-js'></script>
-<script id='elementor-pro-frontend-js-before'>
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/kavling123.com\/wp-admin\/admin-ajax.php","nonce":"272979c23d","urls":{"assets":"https:\/\/kavling123.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/kavling123.com\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/kavling123.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
-</script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor-pro/assets/js/frontend.min-1.js?ver=3.5.2' id='elementor-pro-frontend-js'></script>
-<script src='<?= base_url()?>assets/kavling123.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min-1.js?ver=3.5.2' id='pro-elements-handlers-js'></script>
-	<script>
-	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+		
+		<style id="skip-link-styles">
+		.skip-link.screen-reader-text {
+			border: 0;
+			clip: rect(1px,1px,1px,1px);
+			clip-path: inset(50%);
+			height: 1px;
+			margin: -1px;
+			overflow: hidden;
+			padding: 0;
+			position: absolute !important;
+			width: 1px;
+			word-wrap: normal !important;
+		}
+
+		.skip-link.screen-reader-text:focus {
+			background-color: #eee;
+			clip: auto !important;
+			clip-path: none;
+			color: #444;
+			display: block;
+			font-size: 1em;
+			height: auto;
+			left: 5px;
+			line-height: normal;
+			padding: 15px 23px 14px;
+			text-decoration: none;
+			top: 5px;
+			width: auto;
+			z-index: 100000;
+		}
+	</style>
+		<script>
+	( function() {
+		var skipLinkTarget = document.querySelector( 'main' ),
+			sibling,
+			skipLinkTargetID,
+			skipLink;
+
+		// Early exit if a skip-link target can't be located.
+		if ( ! skipLinkTarget ) {
+			return;
+		}
+
+		// Get the site wrapper.
+		// The skip-link will be injected in the beginning of it.
+		sibling = document.querySelector( '.wp-site-blocks' );
+
+		// Early exit if the root element was not found.
+		if ( ! sibling ) {
+			return;
+		}
+
+		// Get the skip-link target's ID, and generate one if it doesn't exist.
+		skipLinkTargetID = skipLinkTarget.id;
+		if ( ! skipLinkTargetID ) {
+			skipLinkTargetID = 'wp--skip-link--target';
+			skipLinkTarget.id = skipLinkTargetID;
+		}
+
+		// Create the skip link.
+		skipLink = document.createElement( 'a' );
+		skipLink.classList.add( 'skip-link', 'screen-reader-text' );
+		skipLink.href = '#' + skipLinkTargetID;
+		skipLink.innerHTML = 'Skip to content';
+
+		// Inject the skip link.
+		sibling.parentElement.insertBefore( skipLink, sibling );
+	}() );
 	</script>
-		</body>
+	<link rel='stylesheet' id='premium-addons-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.8.7' media='all'>
+<link rel='stylesheet' id='e-animations-css' href='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5' media='all'>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1' id='jquery-ui-core-js'></script>
+<script id='qi-addons-for-elementor-script-js-extra'>
+var qodefQiAddonsGlobal = {"vars":{"adminBarHeight":0,"iconArrowLeft":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0.5\" y1=\"16\" x2=\"33.5\" y2=\"16\"\/><line x1=\"0.3\" y1=\"16.5\" x2=\"16.2\" y2=\"0.7\"\/><line x1=\"0\" y1=\"15.4\" x2=\"16.2\" y2=\"31.6\"\/><\/svg>","iconArrowRight":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 34.2 32.3\" xml:space=\"preserve\" style=\"stroke-width: 2;\"><line x1=\"0\" y1=\"16\" x2=\"33\" y2=\"16\"\/><line x1=\"17.3\" y1=\"0.7\" x2=\"33.2\" y2=\"16.5\"\/><line x1=\"17.3\" y1=\"31.6\" x2=\"33.5\" y2=\"15.4\"\/><\/svg>","iconClose":"<svg  xmlns=\"http:\/\/www.w3.org\/2000\/svg\" xmlns:xlink=\"http:\/\/www.w3.org\/1999\/xlink\" x=\"0px\" y=\"0px\" viewBox=\"0 0 9.1 9.1\" xml:space=\"preserve\"><g><path d=\"M8.5,0L9,0.6L5.1,4.5L9,8.5L8.5,9L4.5,5.1L0.6,9L0,8.5L4,4.5L0,0.6L0.6,0L4.5,4L8.5,0z\"\/><\/g><\/svg>"}};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=5.9.1' id='qi-addons-for-elementor-script-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.3' id='elementskit-framework-js-frontend-js'></script>
+<script id='elementskit-framework-js-frontend-js-after'>
+		var elementskit = {
+            resturl: 'https://klasternayanika.com/wp-json/elementskit/v1/',
+        }
+
+		
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.3' id='ekit-widget-scripts-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2' id='elementor-waypoints-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.8.7' id='lottie-js-js'></script>
+<script id='premium-addons-js-extra'>
+var PremiumSettings = {"ajaxurl":"https:\/\/klasternayanika.com\/wp-admin\/admin-ajax.php","nonce":"152faf1cf5"};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=4.8.7' id='premium-addons-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5' id='elementor-webpack-runtime-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5' id='elementor-frontend-modules-js'></script>
+<script id='elementor-frontend-js-before'>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Extra","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Extra","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.5.5","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"a11y_improvements":true,"e_import_export":true,"additional_custom_breakpoints":true,"e_hidden_wordpress_widgets":true,"landing-pages":true,"elements-color-picker":true,"favorite-widgets":true,"admin-top-bar":true,"form-submissions":true},"urls":{"assets":"https:\/\/klasternayanika.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":582,"title":"Ali%20%E2%80%93%20Klaster%20Nayanika","excerpt":"","featuredImage":false}};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5' id='elementor-frontend-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=5.9.1' id='qi-addons-for-elementor-elementor-js'></script>
+<script id='bdt-uikit-js-extra'>
+var element_pack_ajax_login_config = {"ajaxurl":"https:\/\/klasternayanika.com\/wp-admin\/admin-ajax.php","loadingmessage":"Sending user info, please wait..."};
+var ElementPackConfig = {"ajaxurl":"https:\/\/klasternayanika.com\/wp-admin\/admin-ajax.php","nonce":"7f7d1fabc1","contact_form":{"sending_msg":"Sending message please wait...","captcha_nd":"Invisible captcha not defined!","captcha_nr":"Could not get invisible captcha response!"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.7.1' id='bdt-uikit-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/element-pack-site.min.js?ver=3.7.1' id='element-pack-site-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1' id='elementor-pro-webpack-runtime-js'></script>
+<script id='elementor-pro-frontend-js-before'>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/klasternayanika.com\/wp-admin\/admin-ajax.php","nonce":"0f499b0000","urls":{"assets":"https:\/\/klasternayanika.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/klasternayanika.com\/wp-json\/"},"i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/klasternayanika.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1' id='elementor-pro-frontend-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.4.1' id='pro-elements-handlers-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.3' id='animate-circle-js'></script>
+<script id='elementskit-elementor-js-extra'>
+var ekit_config = {"ajaxurl":"https:\/\/klasternayanika.com\/wp-admin\/admin-ajax.php","nonce":"059133b85e"};
+</script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.3' id='elementskit-elementor-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.js?ver=5.9.1' id='swiper-js'></script>
+<script src='<?= base_url()?>assets/klasternayanika.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.4.1' id='e-sticky-js'></script>
+
+<script>
+	$(".btn-download-brosur").click(function(){
+		eror = required("#formBrosur");
+
+		if( eror == 1){
+			Swal.fire({
+				icon: 'error',
+				title: 'Oops...',
+				text: 'lengkapi isi form terlebih dahulu'
+			})
+		} else {
+			$("#formBrosur").submit();
+			window.open('https://drive.google.com/file/d/1VFsNcAhh-xVrttlQXzjwyHJD1bnokfBR/view?usp=sharing', '_blank');
+		}
+
+	})
+
+	function required(form){
+		let eror = 0;
+		$.each($(form+" .required"), function(){
+			if($(this).val() == "") {
+				eror = 1
+				$(this).addClass("list-group-item-danger")
+			} else {
+				$(this).removeClass("list-group-item-danger")
+			}
+		})
+
+		return eror;
+	}
+</script>
+
+	</body>
 </html>
 
-<!-- Page generated by LiteSpeed Cache 4.4.7 on 2022-01-22 14:20:10 -->
+<!-- Page generated by LiteSpeed Cache 4.4.7 on 2022-03-06 10:48:29 -->

@@ -1,0 +1,700 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Libre+Franklin:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oabQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oaiQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8Q-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05ob8RODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05obVQ-DLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oYiRODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8ReDLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZ8RODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODLR-M.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizMREVItHgc8qDIbSTKq4XkRiUawTk7f45UM9y05oZORODLR-M.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduh8MKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhcMWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhh8KkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhHMWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsSkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhLsWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhrsWkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librefranklin/v11/jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkANDM.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\librefranklin\v11\jizOREVItHgc8qDIbSTKq4XkRg8T88bjFuXOnduhycKkANDM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\klasternayanika.com\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+Content Type: font/ttf
+
+Uri: https://klasternayanika.com/ali/
+File Name: C:\Downloaded Web Sites\klasternayanika.com\ali\index.htm
+Content Type: text/html
+
+Uri: https://klasternayanika.com/comments/feed/
+File Name: C:\Downloaded Web Sites\klasternayanika.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://klasternayanika.com/feed/
+File Name: C:\Downloaded Web Sites\klasternayanika.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/bdt-uikit.css?ver=3.2
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\bdt-uikit.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/css/element-pack-site.css?ver=3.7.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\bdthemes-element-pack-lite\assets\css\element-pack-site.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/bdt-uikit.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\bdt-uikit.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/bdthemes-element-pack-lite/assets/js/element-pack-site.min.js?ver=3.7.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\bdthemes-element-pack-lite\assets\js\element-pack-site.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/css/frontend-lite.min.css?ver=3.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/css/widget-call-to-action.min.css
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\css\widget-call-to-action.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=3.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor-pro\assets\lib\sticky\jquery.sticky.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/css/frontend-lite.min.css?ver=3.5.5
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\css\frontend-lite.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\js\frontend-modules.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.5.5
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\js\webpack.runtime.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.5.5
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\animations\animations.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.14.0
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.3
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/material-design-icons-for-elementor/assets/material-icons/css/material-icons-regular.css?ver=1.4.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\material-design-icons-for-elementor\assets\material-icons\css\material-icons-regular.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-css/premium-addons.min.css?ver=4.8.7
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-css\premium-addons.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/lottie.min.js?ver=4.8.7
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\lottie.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/premium-addons.min.js?ver=4.8.7
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\premium-addons-for-elementor\assets\frontend\min-js\premium-addons.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/grid.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\css\grid.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/helper-parts.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\css\helper-parts.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/css/main.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\css\main.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/js/main.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\js\main.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.css?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\swiper\swiper.min.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/assets/plugins/swiper/swiper.min.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\assets\plugins\swiper\swiper.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/plugins/qi-addons-for-elementor/inc/plugins/elementor/assets/js/elementor.js?ver=5.9.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\plugins\qi-addons-for-elementor\inc\plugins\elementor\assets\js\elementor.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Italic.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://klasternayanika.com/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Roman.ttf.woff2
+Content Type: font/woff2
+
+Uri: https://klasternayanika.com/wp-content/themes/twentytwentytwo/style.css?ver=1.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\themes\twentytwentytwo\style.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Ilustrasi-Klaster-Nayanika-179x300.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Ilustrasi-Klaster-Nayanika-179x300.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Ilustrasi-Klaster-Nayanika.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Ilustrasi-Klaster-Nayanika.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-1.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-1.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-10.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-10.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-11.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-11.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-12.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-12.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-13.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-13.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-15.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-15.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-19.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-19.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-2.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-2.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-20.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-20.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-21.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-21.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-22.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-22.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-23.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-23.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-24.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-24.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26-300x201.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-26-300x201.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26-768x515.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-26-768x515.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-26.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-26.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/klaster-nayanika-28-279x300.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\klaster-nayanika-28-279x300.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/klaster-nayanika-28.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\klaster-nayanika-28.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-29.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-29.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-3.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-3.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-30-300x199.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-30-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-30.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-30.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-31-300x199.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-31-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-31.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-31.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-32-300x199.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-32-300x199.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-32.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-32.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-33.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-33.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-34.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-34.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-35.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-35.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-36.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-36.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-37.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-37.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-38.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-38.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-39.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-39.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-4.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-4.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-40.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-40.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-6.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-6.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-1024x1024.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7-1024x1024.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-150x150.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7-150x150.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-300x300.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7-300x300.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-650x650.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7-650x650.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7-768x768.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7-768x768.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-7.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-7.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-8.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-8.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Klaster-Nayanika-9.jpg
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Klaster-Nayanika-9.jpg
+Content Type: image/jpeg
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-150x150.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Logo-Gambar-Klaster-Nayanika-150x150.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/Logo-Gambar-Klaster-Nayanika-300x300.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\Logo-Gambar-Klaster-Nayanika-300x300.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/memphis_2.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\memphis_2.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/2022/02/memphis_5.png
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\2022\02\memphis_5.png
+Content Type: image/png
+
+Uri: https://klasternayanika.com/wp-content/uploads/elementor/css/post-5.css?ver=1645326416
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\elementor\css\post-5.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-content/uploads/elementor/css/post-582.css?ver=1646191054
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-content\uploads\elementor\css\post-582.css
+Content Type: text/css
+
+Uri: https://klasternayanika.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://klasternayanika.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://klasternayanika.com/wp-json/
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://klasternayanika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fklasternayanika.com%2Fali%2F
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://klasternayanika.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fklasternayanika.com%2Fali%2F&format=xml
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://klasternayanika.com/wp-json/wp/v2/pages/582
+File Name: C:\Downloaded Web Sites\klasternayanika.com\wp-json\wp\v2\pages\582
+Content Type: application/json
+
+Uri: https://klasternayanika.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\klasternayanika.com\xmlrpc.php
+Content Type: text/xml
+
