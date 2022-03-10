@@ -1783,7 +1783,7 @@ var ekit_config = {"ajaxurl":"https:\/\/arunikavillage.com\/wp-admin\/admin-ajax
 			})
 		} else {
 			$("#formBrosur").submit();
-			window.open('https://drive.google.com/file/d/1lk8OwCUDKbFdRLaar4TBY31ixjygMC3m/view?usp=sharing', '_blank');
+			window.open('https://drive.google.com/file/d/1Sg0QFkcF-UAOfk4T62za_FSj3M36KrvX/view?usp=sharing', '_blank');
 		}
 
 	})
