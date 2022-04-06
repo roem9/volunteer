@@ -87,3 +87,9 @@ $.fn.dataTableExt.oApi.fnPagingInfo = function(oSettings){
         "iTotalPages": Math.ceil(oSettings.fnRecordsDisplay() / oSettings._iDisplayLength)
     };
 };
+
+function tgl_indo(tgl){
+    data = tgl.split("-");
+
+    return data[2] + "-" + data[1] + "-" + data[0];
+}
