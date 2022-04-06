@@ -30,7 +30,8 @@ $(".btnTambah").on("click", function(e){
                     success: function(result){ 
                         if(result == 1){
                             loadData();
-        
+                            $("#formAddWaqif").trigger("reset");
+
                             Swal.fire({
                                 position: 'center',
                                 icon: 'success',
@@ -39,10 +40,15 @@ $(".btnTambah").on("click", function(e){
                                 timer: 1500
                             })
                         } else {
+                            loadData();
+                            $("#formAddWaqif").trigger("reset");
+
                             Swal.fire({
-                                icon: 'error',
-                                title: 'Oops...',
-                                text: 'terjadi kesalahan, silahkan mulai ulang halaman'
+                                position: 'center',
+                                icon: 'info',
+                                text: 'Berhasil menambahkan data waqif baru',
+                                showConfirmButton: false,
+                                timer: 1500
                             })
                         }
                     }
