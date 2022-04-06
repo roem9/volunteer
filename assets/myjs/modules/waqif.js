@@ -121,10 +121,18 @@ $(".btnEdit").on("click", function(e){
                                 timer: 1500
                             })
                         } else {
+                            loadData();
+
+                            id_waqif = $("[name='id_waqif']").val();
+                            data = {id_waqif: id_waqif}
+                            detail_waqif(data);
+        
                             Swal.fire({
-                                icon: 'error',
-                                title: 'Oops...',
-                                text: 'terjadi kesalahan, silahkan mulai ulang halaman'
+                                position: 'center',
+                                icon: 'success',
+                                text: 'Berhasil mengubah data waqif',
+                                showConfirmButton: false,
+                                timer: 1500
                             })
                         }
                     }

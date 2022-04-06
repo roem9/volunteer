@@ -75,7 +75,7 @@
                         <label class="col-form-label">No. Whatsapp</label>
                     </div>
                     <div class="form-floating mb-3">
-                        <input type="text" name="email" class="form form-control form-control-sm required">
+                        <input type="text" name="email" class="form form-control form-control-sm">
                         <label class="col-form-label">Email</label>
                     </div>
                     <div class="form-floating mb-3">
