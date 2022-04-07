@@ -29,7 +29,7 @@
                     </div>
                     <div class="form-floating mb-3">
                         <input type="text" name="nama_volunteer" class="form form-control form-control-sm">
-                        <label class="col-form-label">Volunter</label>
+                        <label class="col-form-label">Volunteer</label>
                     </div>
                     <div class="form-floating mb-3">
                         <input type="file" name="file" id="file" class="form-control">
@@ -80,7 +80,7 @@
                     </div>
                     <div class="form-floating mb-3">
                         <input type="text" name="nama_volunteer" class="form form-control form-control-sm">
-                        <label class="col-form-label">Volunter</label>
+                        <label class="col-form-label">Volunteer</label>
                     </div>
                     <div class="form-floating mb-3">
                         <input type="file" name="file" id="file" class="form-control">

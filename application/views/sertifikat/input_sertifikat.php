@@ -40,7 +40,7 @@
                                 </div>
                                 <div class="form-floating mb-3">
                                     <input type="text" name="nama_volunteer" class="form form-control form-control-sm" required>
-                                    <label class="col-form-label">Volunter</label>
+                                    <label class="col-form-label">Volunteer</label>
                                 </div>
                                 <div class="d-flex justify-content-end">
                                     <input type="reset" class="btn btn-md btn-light me-3" value="Reset">
