@@ -8,7 +8,7 @@
             <div class="modal-body">
                 <form class="user" id="formAddWaqif" enctype="multipart/form-data">
                     <div class="form-floating mb-3">
-                        <input type="date" name="tgl_waqaf" class="form form-control form-control-sm required">
+                        <input type="date" name="tgl_waqaf" class="form form-control form-control-sm" value="<?= date("Y-m-d");?>">
                         <label class="col-form-label">Tgl. Waqaf</label>
                     </div>
                     <div class="form-floating mb-3">
@@ -32,7 +32,7 @@
                         <label class="col-form-label">Volunter</label>
                     </div>
                     <div class="form-floating mb-3">
-                        <input type="file" name="file" id="file" class="form-control required">
+                        <input type="file" name="file" id="file" class="form-control">
                         <label for="">Foto</label>
                     </div>
                 </form>

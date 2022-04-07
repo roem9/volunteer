@@ -79,7 +79,7 @@
         
         <div class="nama" style="text-align: center">
             <span style="text-align: center">
-                <?= $nama_waqif?>
+                <?= ucwords(strtolower($nama_waqif))?>
             </span>
         </div>
 
