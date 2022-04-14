@@ -1,0 +1,456 @@
+Uri: https://fonts.googleapis.com/css?family=Roboto:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic|Roboto+Slab:100%2C100italic%2C200%2C200italic%2C300%2C300italic%2C400%2C400italic%2C500%2C500italic%2C600%2C600italic%2C700%2C700italic%2C800%2C800italic%2C900%2C900italic&display=auto&ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOiCnqEu92Fr1Mu51QrEzAdKg.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOiCnqEu92Fr1Mu51QrEzAdKg-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51S7ACc6CsE.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOjCnqEu92Fr1Mu51S7ACc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOjCnqEu92Fr1Mu51TjASc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TLBCc6CsE.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOjCnqEu92Fr1Mu51TLBCc6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOjCnqEu92Fr1Mu51TzBic6CsE.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOjCnqEu92Fr1Mu51TzBic6CsE-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1MmgVxIIzc.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOkCnqEu92Fr1MmgVxIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOkCnqEu92Fr1Mu51xIIzc-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOlCnqEu92Fr1MmEU9fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOlCnqEu92Fr1MmSU5fBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOlCnqEu92Fr1MmWUlfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOlCnqEu92Fr1MmYUtfBBc9.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOlCnqEu92Fr1MmYUtfBBc9-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v29/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\roboto\v29\KFOmCnqEu92Fr1Mu4mxP-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjo0oSmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoa4Omb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDIOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoDISmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojISmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjojIWmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoJYOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjoUoOmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotoslab/v22/BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm.ttf
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\s\robotoslab\v22\BngbUXZYTXPIvIBgJJSb6s3BzlRRfKOFbvjovoSmb2Rm-1.ttf
+Content Type: font/ttf
+
+Uri: https://tamantahfidzfirdaus.org/comments/feed/
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\comments\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tamantahfidzfirdaus.org/feed/
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\feed\index-1.htm
+Content Type: application/rss+xml
+
+Uri: https://tamantahfidzfirdaus.org/volunteer/
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\volunteer\index.htm
+Content Type: text/html
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor-pro/assets/css/frontend.min.css?ver=3.6.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor-pro\assets\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=3.6.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor-pro\assets\js\elements-handlers.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=3.6.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor-pro\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=3.6.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor-pro\assets\js\webpack-pro.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor-pro/assets/lib/smartmenus/jquery.smartmenus.min.js?ver=1.0.1
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor-pro\assets\lib\smartmenus\jquery.smartmenus.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/css/frontend.min.css?ver=3.6.4
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\css\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\js\frontend-modules.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\js\frontend.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\js\webpack.runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/animations/animations.min.css?ver=3.6.4
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\animations\animations.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/eicons/css/elementor-icons.min.css?ver=5.15.0
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\eicons\css\elementor-icons.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.0.13
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-3.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/all.min.css?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\all.min-2.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/brands.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\brands.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/fontawesome.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\fontawesome.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/regular.min.css?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\regular.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/solid.min.css?ver=5.15.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\solid.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/css/v4-shims.min.css?ver=5.0.13
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\css\v4-shims.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=5.0.13
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\font-awesome\js\v4-shims.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\swiper\swiper.min-3.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\swiper\swiper.min-2.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js?ver=4.0.2
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementor\assets\lib\waypoints\waypoints.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/libs/framework/assets/js/frontend-script.js?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\libs\framework\assets\js\frontend-script-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/modules/elementskit-icon-pack/assets/css/ekiticons.css?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\modules\elementskit-icon-pack\assets\css\ekiticons-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/responsive.css?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\widgets\init\assets\css\responsive-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/widgets/init/assets/css/widget-styles.css?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\widgets\init\assets\css\widget-styles-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/animate-circle.js?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\animate-circle-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/elementor.js?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\elementor-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/elementskit-lite/widgets/init/assets/js/widget-scripts.js?ver=2.5.5
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\elementskit-lite\widgets\init\assets\js\widget-scripts-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/essential-addons-for-elementor-lite/assets/admin/images/templately/logo-icon.svg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\essential-addons-for-elementor-lite\assets\admin\images\templately\logo-icon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/powerpack-lite-for-elementor/assets/css/min/frontend.min.css?ver=2.6.12
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\powerpack-lite-for-elementor\assets\css\min\frontend.min-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/assets/css/tf-style.css?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\assets\css\tf-style-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/assets/js/anime.min.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\assets\js\anime.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/assets/js/textanimation.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\assets\js\textanimation-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/assets/js/tf-main.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\assets\js\tf-main-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/post-format/assets/css/iziModal.css?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\post-format\assets\css\iziModal-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/post-format/assets/js/iziModal.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\post-format\assets\js\iziModal-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/plugins/themesflat-addons-for-elementor/post-format/assets/js/jquery.mb.YTPlayer.js?ver=5.9.3
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\plugins\themesflat-addons-for-elementor\post-format\assets\js\jquery.mb.YTPlayer-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Italic.ttf.woff2
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Italic.ttf-1.woff2
+Content Type: font/woff2
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/themes/twentytwentytwo/assets/fonts/SourceSerif4Variable-Roman.ttf.woff2
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\themes\twentytwentytwo\assets\fonts\SourceSerif4Variable-Roman.ttf-1.woff2
+Content Type: font/woff2
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/themes/twentytwentytwo/style.css?ver=1.1
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\themes\twentytwentytwo\style-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/bottles-of-mineral-water-in-hand-of-woman-litteri-2021-08-26-18-15-53-utc.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\bottles-of-mineral-water-in-hand-of-woman-litteri-2021-08-26-18-15-53-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\environment-and-care-for-the-planet-and-nature-2021-08-29-13-08-08-utc-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/environmentally-friendly-2021-08-30-04-31-08-utc-1.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\environmentally-friendly-2021-08-30-04-31-08-utc-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/green-eco-house-environmental-background-2021-08-26-22-29-57-utc-1.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\green-eco-house-environmental-background-2021-08-26-22-29-57-utc-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/greenhouse-engineers-maintaining-ambient-environme-2021-09-24-02-50-13-utc-1-1.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\greenhouse-engineers-maintaining-ambient-environme-2021-09-24-02-50-13-utc-1-1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/logo-ppi-1024x1024.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\logo-ppi-1024x1024-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/logo-ppi-150x150.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\logo-ppi-150x150-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/logo-ppi-300x300.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\logo-ppi-300x300-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/logo-ppi-768x768.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\logo-ppi-768x768-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/logo-ppi.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\logo-ppi-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/new-ecological-wave-protection-banks-2021-08-26-16-37-57-utc.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\new-ecological-wave-protection-banks-2021-08-26-16-37-57-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/people-and-love-for-nature-environment-concept-2021-08-29-16-40-56-utc.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\people-and-love-for-nature-environment-concept-2021-08-29-16-40-56-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-35-02-utc.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\spaying-vegetables-with-water-or-plant-protection-2021-08-26-17-35-02-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Taman-Tahfidz-Firdaus-11-150x150.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Taman-Tahfidz-Firdaus-11-150x150-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Taman-Tahfidz-Firdaus-11-300x300.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Taman-Tahfidz-Firdaus-11-300x300-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-40-1024x1024.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-40-1024x1024-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-40-150x150.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-40-150x150-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-40-300x300.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-40-300x300-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-40-768x768.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-40-768x768-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-40.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-40-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-42-1024x1024.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-42-1024x1024-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-42-150x150.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-42-150x150-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-42-300x300.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-42-300x300-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-42-768x768.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-42-768x768-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-42.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-42-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-43-1024x1024.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-43-1024x1024-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-43-150x150.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-43-150x150-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-43-300x300.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-43-300x300-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-43-768x768.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-43-768x768-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/Untitled-design-43.png
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\Untitled-design-43-1.png
+Content Type: image/png
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/2022/04/young-plant-sprout-in-little-boy-s-hands-concept-2021-08-28-23-07-36-utc.jpg
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\2022\04\young-plant-sprout-in-little-boy-s-hands-concept-2021-08-28-23-07-36-utc-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/elementor/css/post-5.css?ver=1649902084
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\elementor\css\post-5-1.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/elementor/css/post-698.css?ver=1649906191
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\elementor\css\post-698.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/essential-addons-elementor/57a6bb02d.min.css?ver=1649906191
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\essential-addons-elementor\57a6bb02d.min.css
+Content Type: text/css
+
+Uri: https://tamantahfidzfirdaus.org/wp-content/uploads/essential-addons-elementor/57a6bb02d.min.js?ver=1649906191
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-content\uploads\essential-addons-elementor\57a6bb02d.min.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/dist/hooks.min.js?ver=1e58c8c5a32b2e97491080c5b10dc71c
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\dist\hooks.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/dist/i18n.min.js?ver=30fcecb428a0e8383d3776bcdd3a7834
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\dist\i18n.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.9
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\dist\vendor\regenerator-runtime.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\dist\vendor\wp-polyfill.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\jquery\jquery-migrate.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/jquery/jquery.min.js?ver=3.6.0
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\jquery\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/js/jquery/ui/core.min.js?ver=1.13.1
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\js\jquery\ui\core.min-1.js
+Content Type: application/javascript
+
+Uri: https://tamantahfidzfirdaus.org/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-includes\wlwmanifest-1.xml
+Content Type: application/xml
+
+Uri: https://tamantahfidzfirdaus.org/wp-json/
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-json\index-1.htm
+Content Type: application/json
+
+Uri: https://tamantahfidzfirdaus.org/wp-json/oembed/1.0/embed?url=https:%2F%2Ftamantahfidzfirdaus.org%2Fvolunteer%2F
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://tamantahfidzfirdaus.org/wp-json/oembed/1.0/embed?url=https:%2F%2Ftamantahfidzfirdaus.org%2Fvolunteer%2F&format=xml
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://tamantahfidzfirdaus.org/wp-json/wp/v2/pages/698
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\wp-json\wp\v2\pages\698
+Content Type: application/json
+
+Uri: https://tamantahfidzfirdaus.org/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\tamantahfidzfirdaus.org\xmlrpc-1.php
+Content Type: text/xml
+
