@@ -480,7 +480,7 @@ var pp = {"ajax_url":"https:\/\/tamantahfidzfirdaus.org\/wp-admin\/admin-ajax.ph
 								<li class="elementor-icon-list-item">
 											<a href="https://pewakif.tamantahfidzfirdaus.org">
 
-											<span class="elementor-icon-list-text">Volunteer</span>
+											<span class="elementor-icon-list-text">Pewakif</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
